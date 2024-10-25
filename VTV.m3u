@@ -1,0 +1,92 @@
+#EXTINF:-1 logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="3c2a790bf61c257fcfcfc94a4a5b94c4" tvg-id="axnhd" group-title="Movie",AXN (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:9981/stream/channelid/192490044?auth=PcetW49VQ.Gr1Glc9TGqaQpoMhag&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="3bbd8163b78b2746b675f663917bc8e0" tvg-id="axnhd" group-title="Movie",AXN (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:9981/stream/channelid/1669446971?auth=PcetW49VQ.Gr1Glc9TGqaQpoMhag&profile=pass
+#EXTINF:-1 tvg-id="axnhd" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXNᴹᵒᵛⁱᵉˢ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://125hvt.ddns.net:21585/axn/index.m3u8
+#EXTINF:0 tvg-id="hbohd" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBOᴹᵒᵛⁱᵉˢ   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://125hvt.ddns.net:21585/hbo/index.m3u8
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTVᴹᵒᵛⁱᵉˢ 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?|Referer=https://sctvonline.vn/
+#EXTINF:-1 group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",----------⚡🍁⚡-Entertainment from WINTV Sources-⚡🍁⚡------------
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
+http://thvip.site/360/159/index.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://webapi.mytv.vn/static/channel/105.png?ver=18",Box Hits
+http://thvip.site/360/239/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
+http://thvip.site/360/160/index.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://cdn.hqth.me/logo/category/itb.png",In The Box
+http://thvip.site/360/235/index.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
+http://thvip.site/360/162/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
+http://thvip.site/360/212/index.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
+http://thvip.site/360/289/index.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
+http://thvip.site/360/135/index.m3u8
+#EXTINF:-1 tvg-id="man" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
+http://thvip.site/360/163/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/Man_150x901j3_1675158880.webp",Man
+http://thvip.site/360/237/index.m3u8
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
+http://thvip.site/360/16/index.m3u8
+#EXTINF:-1 tvg-id="vtc2hd" group-title="VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
+http://thvip.site/360/196/index.m3u8
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
+http://thvip.site/360/197/index.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
+http://thvip.site/360/198/index.m3u8
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
+http://thvip.site/360/199/index.m3u8
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
+http://thvip.site/360/200/index.m3u8
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
+http://thvip.site/360/201/index.m3u8
+#EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
+http://thvip.site/360/202/index.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9
+http://thvip.site/360/203/index.m3u8
+#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
+http://thvip.site/360/204/index.m3u8
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
+http://thvip.site/360/205/index.m3u8
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
+http://thvip.site/360/17/index.m3u8
+#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
+http://thvip.site/360/18/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
+http://thvip.site/360/180/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
+http://thvip.site/360/175/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
+http://thvip.site/360/181/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
+http://thvip.site/360/182/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
+http://thvip.site/360/178/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
+http://thvip.site/360/189/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
+http://thvip.site/360/176/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
+http://thvip.site/360/184/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
+http://thvip.site/360/185/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
+http://thvip.site/360/186/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
+http://thvip.site/360/177/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
+http://thvip.site/360/187/index.m3u8
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/kid2_1675158859.webp",ON Kids
+http://thvip.site/360/179/index.m3u8
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/ON_Life_-_Copyright_by_VTVcab_2022.png/revision/latest/scale-to-width-down/200?cb=20230703100435&path-prefix=vi",ON Life
+http://thvip.site/360/169/index.m3u8
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://webapi.mytv.vn/static/channel/415.png?ver=16",ON Golf 
+http://thvip.site/360/188/index.m3u8
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/24/17/1682332092780/da2b18a32787_640_360.png",BTV5
+http://thvip.site/360/2380/index.m3u8
