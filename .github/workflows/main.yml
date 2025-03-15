@@ -1,0 +1,214 @@
+name: Update
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: 0,30 * * * *
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Ho_Chi_Minh
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    # - name: Set up Python
+    # uses: actions/setup-python@v2
+    # with:
+    # python-version: '3.12.3'
+        
+    # - name: Install dependencies
+    # run: 
+    # pip install googletrans
+    # pip install m3u-ipytv
+        
+    # - name: Run Python script
+    # run: python chinese_to_en.py
+    
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S GMT+7')" >> $GITHUB_ENV
+
+    - name: Update
+      run: |
+        # VTV Source
+        rm -f VTV.m3u && 
+        wget https://raw.githubusercontent.com/thevinhnbvn35/iptvlink/main/hovantam.m3u -O 0Movie.m3u
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 0Movie.m3u
+          sed -i -n '/,AXN/,+1p' 0Movie.m3u
+          sed -i 's/,AXN/ tvg-id="axnhd" group-title="Movie",AXN/g' 0Movie.m3u
+          wget https://raw.githubusercontent.com/frumos96/gemtv/main/TVPLUSVN.m3u -O 1Movie.m3u
+          sed -i -n '/AXN/,+2p;/HBO/,+2p;/KIX/,+1p;/Warner/,+2p;/Box Movie 1 SCTV/,+2p;/Hollywood Classics SCTV/,+2p;/Box Hits 360/,+1p;/Box Hits²/,+2p;/InTheBox/,+2p;/InTheBox² 360/,+1p' 1Movie.m3u
+        # wget https://raw.githubusercontent.com/tongbinhnguyen/iptv/main/tbn -O 0VTV.m3u && sed -i -n '/"🎬| Phim truyện"/,+1p' 0VTV.m3u
+        # wget https://raw.githubusercontent.com/tongbinhnguyen/iptv/main/tbn -O 1VTV.m3u && sed -i -n '/"♻️| Giải trí & News"/,+1p' 1VTV.m3u
+        # wget https://raw.githubusercontent.com/kupjta/iptv/main/kupjtv.m3u -O 2VTV.m3u && sed -i -n '/"Euro 2024"/,+1p' 2VTV.m3u
+        wget https://raw.githubusercontent.com/kupjta/iptv/main/tv360.m3u -O 3VTV.m3u && sed -i -n '/"In The Box"/,+1p' 3VTV.m3u
+        sed -i '1i #EXTINF:-1 group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",----------⚡🍁⚡-Entertainment from WINTV Sources-⚡🍁⚡------------' 3VTV.m3u
+        # wget https://raw.githubusercontent.com/kupjta/iptv/main/tv360.m3u -O 5VTV.m3u && sed -i '/#EXTVLCOPT/d;/#http/d' 5VTV.m3u && sed -i -n '/"VTC"/,+1p' 5VTV.m3u
+        wget https://raw.githubusercontent.com/kupjta/iptv/main/tv360.m3u -O 4VTV.m3u && sed -i '/#EXTVLCOPT/d;/#http/d' 4VTV.m3u && sed -i -n '/"VTVcab"/,+1p' 4VTV.m3u
+        cat 0Movie.m3u 1Movie.m3u 3VTV.m3u 4VTV.m3u >> VTV.m3u
+        rm -f 0VTV.m3u 1VTV.m3u 2VTV.m3u 3VTV.m3u 5VTV.m3u 4VTV.m3u 0Movie.m3u 1Movie.m3u
+        sed -i 's/"Thit yu"/"🇻🇳📺| Kênh VTV 📢"/g;s/"🌺| VTV"/"🇻🇳📺| Kênh VTV 📢"/g;s/"VTV"/"🇻🇳📺| Kênh VTV 📢"/g;s/"♻️| Giải trí & News"/"Du lịch-Khám phá"/g;s/"🎬| Phim truyện"/"🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣"/g;s/"In The Box"/"🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣"/g;s/"Euro 2024"/"🔥🔥⚽| Euro 2024"/g;s/, VTV1/,🌺| VTV1/g;s/, VTV2/,🌺| VTV2/g;s/, VTV3/,🌺| VTV3/g;s/, VTV4/,🌺| VTV4/g;s/, VTV5/,🌺| VTV5/g;s/, VTV6/,🌺| VTV6/g;s/, VTV7/,🌺| VTV7/g;s/, VTV8/,🌺| VTV8/g;s/, VTV9/,🌺| VTV9/g;s/, VTV Cần Thơ/,🌺| VTV Cần Thơ/g;s/"VTVcab HD"/"🥏|Kênh VTVCab"/g;s/"VTC HD"/"Nhóm Kênh VTC"/g' VTV.m3u
+        # sed -i '1i #EXTM3U' VTV.m3u
+        sed -i '/^\s*$/d' VTV.m3u
+        
+        # VCTV Source
+        rm -f VCTV.m3u && touch VCTV.m3u
+        # wget https://raw.githubusercontent.com/iptivi/apptv1/main/apptv1.m3u -O VCTV1.m3u && sed -i -n '/VTC/,+1p' VCTV1.m3u
+        wget https://raw.githubusercontent.com/iptivi/apptv1/main/apptv1.m3u -O VCTV2.m3u && sed -i -n '/Sport/,+1p' VCTV2.m3u
+        wget https://raw.githubusercontent.com/iptivi/apptv1/main/apptv1.m3u -O VCTV3.m3u && sed -i -n '/SCTV/,+1p' VCTV3.m3u
+        # cat VCTV1.m3u >> VCTV.m3u
+        cat VCTV2.m3u >> VCTV.m3u
+        cat VCTV3.m3u >> VCTV.m3u
+        rm -f VCTV1.m3u VCTV2.m3u VCTV3.m3u
+        sed -i '1i #EXTM3U' VCTV.m3u
+        sed -i '/^\s*$/d' VCTV.m3u
+
+        # hubsport Source
+        rm -f S_check.m3u && wget https://raw.githubusercontent.com/Love4vn/love4vn/main/S_check.m3u -O S_check.m3u
+        sed -i '/^\s*$/d' S_check.m3u
+
+        # Out_Iptv_CXT Source
+        rm -f Out_Iptv_CXT.m3u && wget https://raw.githubusercontent.com/Love4vn/love4vn/main/VTV_sort.m3u -O Out_Iptv_CXT.m3u
+        # wget https://raw.githubusercontent.com/Love4vn/love4vn/main/CXT.m3u -O 0VTV1.m3u && sed -i -n '/VTV1 (HD 8Mbps)/,+1p' 0VTV1.m3u
+        # wget https://raw.githubusercontent.com/Duonghoangbn2001/LinhTinh/master/fpt -O 00VTV1.m3u && sed -i -n '/VTV1/,+1p' 00VTV1.m3u
+        # sed -i 's/tvg-id=""/tvg-id="vtv1hd"/g' 00VTV1.m3u
+        # wget https://raw.githubusercontent.com/Love4vn/love4vn/main/Grab_VTV.m3u -O VTV1.m3u && sed -i -n '/❤️| VTV1/,+1p' VTV1.m3u
+        # wget https://raw.githubusercontent.com/phuhdtv/phuhdtv.github.io/master/vietngatv.m3u -O VTV11.m3u && sed -i -n '/,VTV1/,+1p' VTV11.m3u
+        # cat 0VTV1.m3u VTV1.m3u VTV11.m3u Out_Iptv_CXT.m3u >> Out_Iptv_CXT1.m3u
+        # wget https://raw.githubusercontent.com/Love4vn/love4vn/main/Grab_VTV.m3u -O VTV2.m3u && sed -i -n '/❤️| VTV2/,+1p' VTV2.m3u
+        # wget https://raw.githubusercontent.com/Duonghoangbn2001/LinhTinh/master/fpt -O 0VTV2.m3u && sed -i -n '/VTV2/,+1p' 0VTV2.m3u
+        # sed -i 's/tvg-id=""/tvg-id="vtv2hd"/g' 0VTV2.m3u
+        # cat 0VTV2.m3u >> VTV2.m3u
+        # wget https://raw.githubusercontent.com/Love4vn/love4vn/main/Grab_VTV.m3u -O VTV3.m3u && sed -i -n '/❤️| VTV3/,+1p' VTV3.m3u
+        # wget https://raw.githubusercontent.com/Duonghoangbn2001/LinhTinh/master/fpt -O 0VTV3.m3u && sed -i -n '/VTV3/,+1p' 0VTV3.m3u
+        # sed -i 's/tvg-id=""/tvg-id="vtv3hd"/g' 0VTV3.m3u
+        # cat 0VTV3.m3u >> VTV3.m3u
+        # wget https://raw.githubusercontent.com/Love4vn/love4vn/main/Grab_VTV.m3u -O VTV5.m3u && sed -i -n '/❤️| VTV5/,+1p' VTV5.m3u
+        # wget https://raw.githubusercontent.com/Duonghoangbn2001/LinhTinh/master/fpt -O 0VTV5.m3u && sed -i -n '/VTV5/,+1p' 0VTV5.m3u
+        # sed -i 's/tvg-id=""/tvg-id="vtv5hd"/g' 0VTV5.m3u
+        # cat 0VTV5.m3u >> VTV5.m3u
+        # wget https://raw.githubusercontent.com/Love4vn/love4vn/main/Grab_VTV.m3u -O VTV6.m3u && sed -i -n '/❤️| VTV6/,+1p' VTV6.m3u
+        # wget https://raw.githubusercontent.com/Duonghoangbn2001/LinhTinh/master/fpt -O 0VTV6.m3u && sed -i -n '/VTV Cần Thơ/,+1p' 0VTV6.m3u
+        # sed -i 's/tvg-id=""/tvg-id="vtv6hd"/g' 0VTV6.m3u
+        # cat 0VTV6.m3u >> VTV6.m3u
+        # sed -i -e '/2.png",VTV2$/{r VTV2.m3u' -e 'N};/vtv2?token=live/{r VTV3.m3u' -e '; :L; n; bL;};/5.png",VTV5$/{r VTV5.m3u' -e 'N}' Out_Iptv_CXT1.m3u
+        # sed -i '/^\s*$/d' Out_Iptv_CXT1.m3u
+                        
+        # 1IPTVCO Source
+        # rm -f 1IPTVCO.m3u && wget https://raw.githubusercontent.com/Love4vn/love4vn/main/1IPTVICO.m3u -O 1IPTVCO.m3u
+        # cat VTV6.m3u 1IPTVCO.m3u >> 1IPTVCO1.m3u
+        # sed -i '/^\s*$/d' 1IPTVCO1.m3u
+
+        # Live Source
+        # wget https://raw.githubusercontent.com/Love4vn/love4vn/main/Cakhia.m3u -O Live1.m3u
+        wget https://raw.githubusercontent.com/nhanb2004798/watchfbfree/refs/heads/main/watchfrhd.m3u -O Live2.m3u
+        sed -i 's/F:0,/F:-1 group-title="⚽🥎Livestream🏆🏅",/g' Live2.m3u
+        # wget https://raw.githubusercontent.com/tpk792023/euromoi2024/main/xemuero -O Live3.m3u
+          # sed -i '/#EXTVLCOPT/d;/#http/d' Live3.m3u
+          # sed -i '/UEFA UERO/{N; /UEFA UERO/d;}' Live3.m3u
+          # sed -i -n '/"⚽[^"]*"/,+1p' Live3.m3u
+          # sed -i -n '/"Cá Heo Live"/,+1p' Live3.m3u
+        # wget https://raw.githubusercontent.com/thaidqt/IPTV/refs/heads/main/SPORTS -O Live3.m3u
+        # sed -i -n '/"Thập Cẩm TV"/,+2p' Live3.m3u
+          cat Live2.m3u >> Live4.m3u
+          sed -i 's/"Thập Cẩm TV"/"⚽🥎Livestream🏆🏅"/g;s/"⚽[^"]*"/"⚽🥎Livestream🏆🏅"/g;s/"⚽ Vebo"/"⚽🥎Livestream🏆🏅"/g;s/"⚽ Lương Sơn TV"/"⚽🥎Livestream🏆🏅"/g;s/"[^"]*Live[^"]*"/"⚽🥎Livestream🏆🏅"/g;s/"📣🔥♾Event📺📌🎉"/"⚽🥎Livestream🏆🏅"/g' Live4.m3u
+        
+        # Sports Source
+        # wget https://raw.githubusercontent.com/outcastveron/TKTY/main/tkty.m3u -O tkty1.m3u
+        # sed -i -n '/体育/,+1p' Sport.m3u
+        # sed -i -n '/"🦁欧洲五大联赛🦁"/,+1p;/,Love Nature 4K/,+1p;/,Loupe 4K/,+1p;/,Fashion 4K/,+1p;/,Clarity-4K/,+1p' tkty1.m3u
+        # wget https://raw.githubusercontent.com/outcastveron/TKTY/main/tkty.m3u -O tkty2.m3u
+        # sed -i -n '/"🐉海外体育"/,+1p' tkty2.m3u
+        wget https://raw.githubusercontent.com/kgasaz/4kuhd/refs/heads/master/sports-channels-4k.m3u -O tkty22.m3u
+        # sed -i -n '/"Sports"/,+1p;/"Events"/,+1p' tkty22.m3u
+        cat tkty22.m3u >> tkty3.m3u
+        sed -i 's/"🦁欧洲五大联赛🦁"/"USUK SPORT"/g;s/"🐉海外体育"/"USUK SPORT"/g;s/"🐉4K-8K频道"/"4️⃣🇰 🇺 🇭 🇩"/g;s/"Sports"/"4️⃣🇰 🇺 🇭 🇩"/g;s/"Events"/"4️⃣🇰 🇺 🇭 🇩"/g' tkty3.m3u
+        
+        # sed -i '1i #EXTM3U' Sport.m3u
+        # sed -i '/^\s*$/d' Sport.m3u
+
+        wget https://raw.githubusercontent.com/outcastveron/autom3u/main/merged_sport.m3u -O Sport1.m3u
+        sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="Thể Thao Tổng Hợp"/g' Sport1.m3u
+        wget https://raw.githubusercontent.com/RomanTheQuant/IPtv/refs/heads/main/IPTV_SHARED.m3u -O Sport2.m3u
+        sed -i -n '/"[^"]*порт[^"]*"/,+1p' Sport2.m3u
+        wget https://raw.githubusercontent.com/Phil-US/IPTV/refs/heads/main/avto-full.m3u -O Sport3.m3u
+        sed -i -n '/"[^"]*SPORT[^"]*"/,+1p' Sport3.m3u
+        # wget https://raw.githubusercontent.com/DoodooStan/Link/refs/heads/main/iptv -O Bein.m3u
+        # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' Bein.m3u
+        # sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="BEIN SPORT"/g' Bein.m3u
+
+        # Integrate sources
+        rm -f IPTV.m3u && touch IPTV.m3u
+        # cat VTV1.m3u >> IPTV.m3u
+        cat Out_Iptv_CXT.m3u VTV.m3u >> IPTV.m3u
+        # cat 1IPTVCO.m3u >> IPTV.m3u
+        # cat VTV.m3u >> IPTV.m3u
+        cat Live4.m3u >> IPTV.m3u
+        cat S_check.m3u >> IPTV.m3u
+        cat Sport1.m3u >> IPTV.m3u
+        cat tkty3.m3u >> IPTV.m3u
+        cat Sport2.m3u >> IPTV.m3u
+        cat Sport3.m3u >> IPTV.m3u
+        # cat Bein.m3u >> IPTV.m3u
+        sed -i '/#EXTM3U/d' IPTV.m3u
+        sed -i '1i #EXTM3U' IPTV.m3u
+        sed -i 's/"TH NGHIM"/"🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜"/g;s/"FPT Play"/"🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜"/g;s/"Truyn Hnh"/"🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜"/g;s/"Quc T HD"/"🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜"/g;s/"K"/"🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜"/g;s/"Quc T"/"🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜"/g;s/"Quc t"/"🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" /g;s/"🎬😜 Phim 🔍📣"/"🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣"/g;s/"Phim"/"🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣"/g;s/"Thit yu"/"🇻🇳📺| Kênh VTV 📢"/g;s/"FPT Play"/"🇻🇳📺| Kênh VTV 📢"/g;s/"VTV"/"🇻🇳📺| Kênh VTV 📢"/g;s/"VTV 50fsp"/"🇻🇳📺| Kênh VTV 📢"/g;s/"Kenh VTV"/"🇻🇳📺| Kênh VTV 📢"/g;s/"❤| VTV"/"🇻🇳📺| Kênh VTV 📢"/g;s/"🇻🇳📺| Nhóm Kênh VTV 📢"/"🇻🇳📺| Kênh VTV 📢"/g;s/VTVCanTho/VTV Cần Thơ/g;s/VTV5 Ty Nam B/VTV5 Tây Nam Bộ/g;s/VTV5 Ty Nguyn/VTV5 Tây Nguyên/g;s/❤️| VTV6 ¹⁰⁸⁰/❤️| VTV6 Cần Thơ ¹⁰⁸⁰/g;s/"Khm ph"/"Du lịch-Khám phá"/g;s/"Lifestyle"/"Du lịch-Khám phá"/g;s/"Du lchKhm ph"/"Du lịch-Khám phá"/g;s/"Animals Nature  History"/"Du lịch-Khám phá"/g;s/"247"/"Du lịch-Khám phá"/g;s/"Movie"/"🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣"/g;s/"Movies"/"🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣"/g;s/"Relax"/"😜✨| Relax 😋"/g;s/"Comedy"/"😜✨| Relax 😋"/g;s/"Kids"/"Nhóm Kênh Thiếu Nhi "/g;s/"Selection Sport"/"🎯🔔|Selection Sport|🔔🎯"/g;s/"Trc tip Euro 2024"/"🔥🔥⚽| Euro 2024"/g;s/"Livestream"/"⚽🥎Livestream🏆🏅"/g;s/咪咕 推荐/Migu Recommend/g;s/"世界女排联赛"/"🎊Foreign Sports🎊"/g;s/"浪琴国家杯"/"🎊Foreign Sports🎊"/g;s/"NBA"/"🎊Foreign Sports🎊"/g;s/"🥅外欧洲杯🥅"/"🥅⚽️European Cup⚽️🥅"/g;s/ช่อง/Channel/g' IPTV.m3u
+        sed -i '/"Myanmar Tv"/{N; /"Myanmar Tv"/d;}' IPTV.m3u
+        sed -i '/央视频道/{N; /央视频道/d;};/卫视频道/{N; /卫视频道/d;};/湖北频道/{N; /湖北频道/d;};/其他频道/{N; /其他频道/d;};/河南频道/{N; /河南频道/d;};/北京频道/{N; /北京频道/d;};/港澳频道/{N; /港澳频道/d;};/湖南频道/{N; /湖南频道/d;};/台湾频道/{N; /台湾频道/d;};/上海频道/{N; /上海频道/d;};/🐉国内体育🐉/{N; /🐉国内体育🐉/d;};/🎰央视卫视🎰/{N; /🎰央视卫视🎰/d;};/咪咕体育/{N; /咪咕体育/d;};/"世预亚 中国vs韩国"/{N; /"世预亚 中国vs韩国"/d;}' IPTV.m3u
+        sed -i 's/"国外体育"/"🎊Foreign Sports🎊"/g;s/"🎰央视卫视🎰"/"🏵🇹🇼🇭🇰CN_HK_TW Sports🇭🇰🇹🇼🏵"/g;s/"🏵港苔体育🏵"/"🏵🇹🇼🇭🇰CN_HK_TW Sports🇭🇰🇹🇼🏵"/g;s/广东/Guangdong /g;s/咪咕 4K 欧洲杯/Migu 4K European Cup/g;s/粤语Commentary/English Commentary/g;s/咪咕 HD 欧洲杯/Migu HD European Cup/g;s/「需魔法」/Requires magic/g' IPTV.m3u
+        sed -i 's/"⛹🏻欧冠联赛⛹🏻"/"💡🏆UEFA Champions League🏆💡"/g;s/"🏈法甲联赛🏈"/"🗼🐓🇫🇷France Football🇫🇷🐓🗼"/g;s/"🏉德甲联赛🏉"/"⚽️🍺🇩🇪German Bundesliga🇩🇪🍺⚽️"/g;s/"🏐西甲联赛🏐"/"⚽️🇪🇸La Liga🇪🇸⚽️"/g;s/"🥎意甲联赛🥎"/"⚽️🍕🇮🇹Serie A🇮🇹🍕⚽️"/g;s/"🎾网球赛事🎾"/"🎾🥎Tennis Events🥎🎾"/g;s/"⛳️高尔夫赛事⛳️"/"⛳️Golf Tournament⛳️"/g;s/"🥅外欧洲杯🥅"/"🥅⚽️European Cup⚽️🥅"/g;s/"🥅外欧洲杯🥅"/"🥅⚽️European Cup⚽️🥅"/g;s/"🥅欧洲杯赛事①🥅"/"🥅⚽️Euro 2024 ①⚽️🥅"/g;s/"🥅欧洲杯赛事②🥅"/"🥅⚽️Euro 2024 ②⚽️🥅"/g;s/"🏎F1赛事🏎"/"🏎🏁🚦F1 Event🚦🏁🏎"/g;s/"[^"]*4K[^"]*"/"4️⃣🇰 🇺 🇭 🇩"/g;s/"💰PPV付费赛事💰"/"💰💲PPV Pay-Per-View Event💲💰"/g;s/"🏅NBA赛事🏅"/"🏅🏀NBA Events🏀🏅"/g;s/"⚽️英超联赛⚽️"/"⚽️🦁🇬🇧Premier League🇬🇧🦁⚽️"/g;s/"🪂天空体育①🪂"/"🪂Sky Sports ①🪂"/g;s/"🪂天空体育②🪂"/"🪂Sky Sports ②🪂"/g;s/"🪂天空体育③🪂"/"🪂Sky Sports ③🪂"/g;s/"🪂天空体育④🪂"/"🪂Sky Sports ④🪂"/g;s/"🛡ELEVEN体育🛡"/"🛡ELEVEN SPORT🛡"/g;s/"🛡ELEVEN体育🛡"/"🛡ELEVEN SPORT🛡"/g;s/"🔰beIN体育 ①🔰"/"🔰beIN Sports ①🔰"/g;s/"🔰beIN体育 ②🔰"/"🔰beIN Sports ②🔰"/g;s/"🦉TNT体育🦉"/"🦉TNT Sports🦉"/g;s/"🐍DAZN体育🐍"/"🐍DAZN Sports🐍"/g;s/"🦅ESPN体育🦅"/"🦅ESPN Sports🦅"/g;s/"⛄️FOX体育⛄️"/"⛄️🦊FOX Sports🦊⛄️"/g;s/"☀️其他体育☀️"/"☀️Other Sports☀️"/g;s/"🇺🇸美国体育🇺🇸"/"🇺🇸🗽USA Sports🗽🇺🇸"/g;s/"🇬🇧英国体育🇬🇧"/"🇬🇧💂UK Sports💂🇬🇧"/g;s/"🇫🇷法国体育🇫🇷"/"🇫🇷🥖🗼France Sports🗼🥖🇫🇷"/g;s/体育直播/Sports Live/g;s/博斯高球/Boss Golf /g;s/台//g;s/博斯网球/Boss Tennis/g;s/博斯体育/Boss Sport /g;s/博斯体育/Boss Sport /g;s/爱尔达体育/Alda Sport /g;s/纬来体育/Video Sport/g;s/有比赛时才会放直播画面/Live broadcast will only be shown when there is a game/g;s/请留意赛事直播时间观看/Please pay attention to the live broadcast time of the event/g;s/Now 体育 英超/Now Sports Premier League /g;s/NOW 体育 英超/NOW Sports Premier League /g;s/天空体育 英超/Sky Sport Premier League/g;s/天空体育 新闻/Sky Sports News/g;s/天空体育 综合/Sky Sports Comprehensive/g;s/天空体育 足球/Sky Sports Football/g;s/天空体育 板球/Sky Sports Cricket/g;s/天空体育 高尔夫/Sky Sports Golf/g;s/天空体育 竞技场/Sky Sports Arena/g;s/天空体育 橄榄球/Sky Sports Rugby/g;s/天空体育 USA/Sky Sports USA/g;s/天空体育 赛事/Sky Sports Events/g;s/天空体育 网球/Sky Sports Tennis/g;s/天空体育 F1/Sky Sports F1/g;s/天空体育 赛车/Sky Sports Racing/g;s/天空体育 雄狮/Sky Sports Lions/g;s/天空体育 付费/Sky Sports Paid/g;s/天空体育 动作/Sky Sports Action/g;s/天空体育 NBA/Sky Sports NBA/g;s/天空体育 格斗/Sky Sports Fighting/g;s/天空体育 德甲/Sky Sports Bundesliga/g;s/天空体育 澳洲/Sky Sports Australia/g;s/天空体育 主赛事/Sky Sports Main Event/g' IPTV.m3u
+        sed -i 's/体育/Sport/g;s/葡萄牙/Portugal/g;s/比利时/Belgium/g;s/波兰/Poland/g;s/法国/France/g;s/阿根廷:/Argentina:/g;s/土耳其/Turkey/g;s/卡塔尔/Qatar/g;s/英国/U.K./g;s/西班牙/Spain/g;s/美国:/US:/g;s/巴西/Brazil/g;s/荷兰/Netherlands/g;s/英超/Premier /g;s/罗马尼亚/Romania/g;s/捷克/Czech Republic/g;s/加拿大:/Canada:/g;s/加拿大:/Canada:/g;s/西甲赛事时间/Laliga Match Time/g;s/更新时间/Update Time/g;s/欧洲杯赛事/European Cup Events/g;s/欧洲杯小组赛/European Cup Group Stage/g;s/德国/ Germany /g;s/苏格兰/ Scotland /g;s/解说/Commentary/g;s/赛场原声/Soundtrack/g;s/匈牙利/ Hungary /g;s/瑞士/ Switzerland /g;s/克罗地亚/ Croatia /g;s/意大利/ Italy /g;s/阿尔巴尼亚/ Albania /g;s/斯洛文尼亚/ Slovenia /g;s/丹麦/ Denmark /g;s/塞尔维亚/ Serbia /g;s/英格兰/ England /g;s/乌克兰/ Ukraine /g;s/斯洛伐克/ Slovakia /g;s/奥地利/ Austria /g;s/乔治亚州/ Georgia /g;s/乔治亚州/ Georgia /g' IPTV.m3u
+        sed -i '/group-title="👉/{N; /group-title="👉/d;}' IPTV.m3u
+        sed -i 's/欧洲五大联赛/Europe top 5 leagues/g;s/+赛事/+Event/g;s/有比赛时才会有画面/Only Game Playing/g;s/仅限比赛期间开播/Only available during competitions/g;s/🪂天空Sport/🪂SkySport/g;s/葡语/Portuguse/g;s/英语/English/g;s/Spain语/Spanish/g;s/德语/German/g;s/欧洲Sport/European Sport/g;s/法语/French/g;s/亚马逊Sport/Amazon Sport/g;s/美国频道/American channel/g;s/美国频道/American channel/g' IPTV.m3u
+        sed -i '1i #EXTM3U url-tvg="https://raw.githubusercontent.com/Love4vn/Test/refs/heads/main/EPG.xml"' IPTV.m3u
+        sed -i '/^\s*$/d' IPTV.m3u
+
+        # Program source
+        rm -f EPG.xml && wget https://lichphatsong.xyz/schedule/epg.xml -O EPG.xml
+        # wget http://content.stream-link.org/epg/guide.xml -O EPG1.xml
+        # wget https://www.bevy.be/bevyfiles/unitedstatespremium2.xml.gz -O EPG2.xml
+        # wget https://www.bevy.be/bevyfiles/unitedstatespremium3.xml.gz -O EPG3.xml
+        # wget https://www.bevy.be/bevyfiles/unitedkingdom.xml.gz -O EPG4.xml
+        # wget https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml.gz -O EPG5.xml
+        wget https://raw.githubusercontent.com/EPGIL/epg-freetv/main/freetv.xml -O EPG6.xml
+        wget https://7pal.short.gy/alex-epg -O EPG7.xml
+        # wget https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz -O EPG7.xml
+        # wget https://www.dropbox.com/s/n4pbocq9fmwkbc3/cepgepg.xml?dl=1 -O EPG8.xml
+        # wget https://www.bevy.be/bevyfiles/portugalpremium.xml.gz -O EPG9.xml
+        # wget https://www.bevy.be/bevyfiles/spain.xml.gz -O EPG10.xml
+        # wget https://www.bevy.be/bevyfiles/francepremium.xml.gz -O EPG11.xml
+        # wget https://www.bevy.be/bevyfiles/italypremium.xml.gz -O EPG12.xml
+        # wget https://www.bevy.be/bevyfiles/indonesiapremium1.xml -O EPG13.xml
+        # wget www.bevy.be/bevyfiles/singaporepremium.xml -O EPG14.xml
+        # wget https://www.bevy.be/bevyfiles/thailandpremium.xml -O EPG15.xml
+        # wget https://www.bevy.be/bevyfiles/arabiapremiumeng.xml -O EPG16.xml
+        # wget https://www.bevy.be/bevyfiles/australia.xml -O EPG17.xml
+        # wget https://www.bevy.be/bevyfiles/germany.xml -O EPG18.xml
+        # wget https://www.bevy.be/bevyfiles/turkeypremium2.xml -O EPG19.xml
+        # wget https://www.bevy.be/bevyfiles/turkeypremium1.xml -O EPG20.xml
+        # wget https://www.bevy.be/bevyfiles/germanypremium.xml -O EPG21.xml
+        # wget https://www.bevy.be/bevyfiles/germanypremium2.xml -O EPG22.xml
+        # wget https://www.bevy.be/bevyfiles/poland.xml -O EPG23.xml
+        # wget https://www.bevy.be/bevyfiles/southafricapremium.xml -O EPG24.xml
+        # wget https://epg.pw/xmltv/epg.xml -O EPG25.xml
+        cat EPG6.xml >> EPG.xml
+        rm -f EPG1.xml EPG2.xml EPG3.xml EPG4.xml EPG5.xml EPG6.xml EPG7.xml EPG8.xml EPG9.xml EPG10.xml EPG11.xml EPG12.xml EPG17.xml EPG18.xml EPG21.xml EPG22.xml EPG23.xml VTV1.m3u VTV11.m3u Out_Iptv_CXT1.m3u VTV2.m3u VTV3.m3u VTV5.m3u VTV6.m3u 1IPTVCO1.m3u 0VTV1.m3u 00VTV1.m3u 0VTV2.m3u 0VTV3.m3u 0VTV5.m3u 0VTV6.m3u Live4.m3u Live3.m3u Live2.m3u Live1.m3u Sport1.m3u sport.m3u tkty1.m3u tkty2.m3u tkty3.m3u Bein.m3u tkty22.m3u Sport2.m3u Sport3.m3u
+        echo "Auto Update IPTV in $DATE!✨CXT✨!" > README.md
+
+    - name: Clean
+      run: |
+        git config --local user.email "Love4vn@gmail.com"
+        git config --local user.name "Love4vn"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "$DATE"
+        git branch -D main
+        git branch -m main
+
+    - name: Push
+      run: git push -f origin main
