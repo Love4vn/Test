@@ -1,0 +1,87 @@
+name: M3U Stream Extractor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 7 * * *'  # Chạy hàng ngày lúc 7h UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  extract-m3u:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Run M3U Extractor
+        run: python extract_m3u_links.py
+
+      - name: Check Output
+        run: |
+          echo "=== OUTPUT FILES ==="
+          ls -lah output/
+          echo ""
+          echo "=== M3U LINKS (First 10) ==="
+          head -10 output/m3u_links.txt || echo "No links found"
+
+      - name: Commit and Push Results
+        run: |
+          git config --global user.name "M3U Extractor Bot"
+          git config --global user.email "action@github.com"
+          
+          if [ -d "output" ]; then
+            git add output/
+            git commit -m "🎬 Update M3U links - $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+            git push origin main
+          fi
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v3
+        if: always()
+        with:
+          name: m3u-extraction-results
+          path: output/
+          retention-days: 30
+
+      - name: Create Release
+        if: success()
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            output/m3u_playlist.m3u
+            output/m3u_links.txt
+            output/m3u_data.json
+          tag_name: m3u-${{ github.run_number }}
+          body: |
+            ## M3U Stream Links Update
+            
+            **Date:** ${{ github.event.head_commit.timestamp }}
+            **Workflow:** ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+            
+            ### 📊 Statistics
+            - Extraction completed successfully
+            - Check artifacts for generated files
+            
+            ### 📁 Files Generated
+            - `m3u_playlist.m3u` - M3U format playlist
+            - `m3u_links.txt` - Text list of links
+            - `m3u_data.json` - Full JSON data
