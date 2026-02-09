@@ -54,8 +54,8 @@ jobs:
             git push origin main
           fi
 
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v3
+      - name: Upload Artifacts (v4)
+        uses: actions/upload-artifact@v4
         if: always()
         with:
           name: m3u-extraction-results
@@ -78,10 +78,11 @@ jobs:
             **Workflow:** ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
             
             ### 📊 Statistics
-            - Extraction completed successfully
-            - Check artifacts for generated files
+            - ✅ Extraction completed successfully
+            - 📥 Check artifacts for generated files
+            - 🎬 M3U Playlist ready to use
             
             ### 📁 Files Generated
             - `m3u_playlist.m3u` - M3U format playlist
-            - `m3u_links.txt` - Text list of links
-            - `m3u_data.json` - Full JSON data
+            - `m3u_links.txt` - Text list of links (one per line)
+            - `m3u_data.json` - Full JSON data with details
