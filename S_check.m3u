@@ -56,24 +56,19 @@ http://213.169.39.30:5216
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 group-title="Selection Sport",Eurosport 1 HD (FHD)
 http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 group-title="Кино",FAN HD
+#EXTINF:-1 group-title="Кино",FAN HD (FHD)
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 group-title="Хобби",Fashion TV HD (FHD)
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби",FashionLifeStyle HD (FHD)
 http://31.148.48.15/Fashion_One_HD/index.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="Live.Event.us" tvg-name="Fighting WWE RAW ROXIE (FHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Fighting WWE RAW ROXIE (FHD)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://601.xn--1000-ugoa0hsb9a0hb.com/wwe.m3u8
 #EXTINF:-1 group-title="Хобби",Food Time HD (FHD)
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Детям",Fox Kids (SD)
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 501
 https://7pal.short.gy/fox501au
-#EXTINF:-1 group-title="Selection Sport",Fox Sports 502
+#EXTINF:-1 group-title="Selection Sport",Fox Sports 502 (FHD)
 https://7pal.short.gy/fox502au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 503
 https://7pal.short.gy/fox503au
@@ -81,6 +76,8 @@ https://7pal.short.gy/fox503au
 https://7pal.short.gy/fox504au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 505
 https://7pal.short.gy/fox505au
+#EXTINF:-1 group-title="Selection Sport",Fox Sports 506
+https://7pal.short.gy/fox506au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 507
 https://7pal.short.gy/fox507au
 #EXTINF:-1 group-title="Музыка",Kiss Kiss (SD)
@@ -95,66 +92,41 @@ http://213.169.39.30:5137
 http://213.169.39.30:5257
 #EXTINF:-1 group-title="Музыка",Maidan (HD)
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Atlanta Hawks  Minnesota Timberwolves TVPASS (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Atlanta Hawks  Minnesota Timberwolves TVPASS (SD)
+#EXTINF:-1 tvg-chno="54" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Atlanta Hawks  Minnesota Timberwolves TVPASS" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Atlanta Hawks  Minnesota Timberwolves TVPASS
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://v1.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=R643dMLto82AWg6Q2YymVA&expires=1770706846&user_id=RjU5a3U3bDV3TW1GRW1BZWJhMGVPZmN5eTVWWGExdXZzdVJzSHpiaw==
-#EXTINF:-1 tvg-chno="80" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Atlanta Hawks vs Minnesota Timberwolves ROXIE (FHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Atlanta Hawks vs Minnesota Timberwolves ROXIE (FHD)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTINF:-1 tvg-chno="74" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Cleveland Cavaliers vs Denver Nuggets XSTRMEST (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Cleveland Cavaliers vs Denver Nuggets XSTRMEST (HD)
+#EXTVLCOPT:http-referrer=https://atletifan.com/fans/?id=n7
+#EXTVLCOPT:http-origin=https://atletifan.com/fans/?id=n7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Atlanta Hawks vs Minnesota Timberwolves XSTRMEST (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Atlanta Hawks vs Minnesota Timberwolves XSTRMEST (HD)
-#EXTVLCOPT:http-referrer=https://atletifan.com/fans/?id=n5
-#EXTVLCOPT:http-origin=https://atletifan.com/fans/?id=n5
+https://d7h4etj2q67u9.cloudfront.net/status/n7/fronts.woff2?a60795
+#EXTINF:-1 tvg-chno="88" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Los Angeles Lakers vs Oklahoma City Thunder iSTRMEAST" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Los Angeles Lakers vs Oklahoma City Thunder iSTRMEAST
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d7h4etj2q67u9.cloudfront.net/status/n5/fronts.woff2?27ab0d
-#EXTINF:-1 tvg-chno="92" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Chicago Bulls  Brooklyn Nets TVPASS (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Chicago Bulls  Brooklyn Nets TVPASS (SD)
+https://red1.kamfir7.space/playlist/44905/load-playlist
+#EXTINF:-1 tvg-chno="96" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Memphis Grizzlies vs Golden State Warriors XSTRMEST (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Memphis Grizzlies vs Golden State Warriors XSTRMEST (HD)
+#EXTVLCOPT:http-referrer=https://atletifan.com/fans/?id=n8
+#EXTVLCOPT:http-origin=https://atletifan.com/fans/?id=n8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d7h4etj2q67u9.cloudfront.net/status/n8/fronts.woff2?0e985d
+#EXTINF:-1 tvg-chno="118" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Oklahoma City Thunder vs Los Angeles Lakers XSTRMEST (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Oklahoma City Thunder vs Los Angeles Lakers XSTRMEST (HD)
+#EXTVLCOPT:http-referrer=https://atletifan.com/fans/?id=n9
+#EXTVLCOPT:http-origin=https://atletifan.com/fans/?id=n9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d7h4etj2q67u9.cloudfront.net/status/n9/fronts.woff2?216495
+#EXTINF:-1 tvg-chno="123" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Philadelphia 76ers  Portland Trail Blazers TVPASS (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Philadelphia 76ers  Portland Trail Blazers TVPASS (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://e2.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=s8riFlRhUm-3MOIWIXzZRQ&expires=1770705068&user_id=SVBCZ3R0VjdSWU5JSTZZTFVlb3Vsa3BPbzdVajY3Z0tuNGtMejJTVw==
-#EXTINF:-1 tvg-chno="96" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Chicago Bulls vs Brooklyn Nets ROXIE (FHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Chicago Bulls vs Brooklyn Nets ROXIE (FHD)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://v15.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=wDwH3XkZQh3m9BrVZHwToQ&expires=1770714038&user_id=MDA5ZWZ2RGRUNGR2M2prY3AzclhVWVNYYkdnS2JOMUR4Y2pXbUMxbA==
+#EXTINF:-1 tvg-chno="130" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Philadelphia 76ers vs Portland Trail Blazers XSTRMEST (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Philadelphia 76ers vs Portland Trail Blazers XSTRMEST (HD)
+#EXTVLCOPT:http-referrer=https://atletifan.com/fans/?id=n10
+#EXTVLCOPT:http-origin=https://atletifan.com/fans/?id=n10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Detroit Pistons vs Charlotte Hornets ROXIE (FHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Detroit Pistons vs Charlotte Hornets ROXIE (FHD)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
-#EXTINF:-1 tvg-chno="129" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Milwaukee Bucks vs Orlando Magic ROXIE (FHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Milwaukee Bucks vs Orlando Magic ROXIE (FHD)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba4.m3u8
-#EXTINF:-1 tvg-chno="132" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Milwaukee Bucks vs Orlando Magic XSTRMEST" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Milwaukee Bucks vs Orlando Magic XSTRMEST
-#EXTVLCOPT:http-referrer=https://atletifan.com/fans/?id=n4
-#EXTVLCOPT:http-origin=https://atletifan.com/fans/?id=n4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d7h4etj2q67u9.cloudfront.net/status/n4/fronts.woff2?46c8aa
-#EXTINF:-1 tvg-chno="151" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Sacramento Kings  New Orleans Pelicans TVPASS (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Sacramento Kings  New Orleans Pelicans TVPASS (SD)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://e5.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=h2-9t3NxoNi79aQfO8CEXQ&expires=1770706855&user_id=RjU5a3U3bDV3TW1GRW1BZWJhMGVPZmN5eTVWWGExdXZzdVJzSHpiaw==
-#EXTINF:-1 tvg-chno="155" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Sacramento Kings vs New Orleans Pelicans ROXIE (FHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Sacramento Kings vs New Orleans Pelicans ROXIE (FHD)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8
-#EXTINF:-1 tvg-chno="158" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Sacramento Kings vs New Orleans Pelicans XSTRMEST (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Sacramento Kings vs New Orleans Pelicans XSTRMEST (HD)
-#EXTVLCOPT:http-referrer=https://atletifan.com/fans/?id=n6
-#EXTVLCOPT:http-origin=https://atletifan.com/fans/?id=n6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d7h4etj2q67u9.cloudfront.net/status/n6/fronts.woff2?9d5767
-#EXTINF:-1 tvg-chno="162" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Utah Jazz vs Miami Heat ROXIE (FHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Utah Jazz vs Miami Heat ROXIE (FHD)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba3.m3u8
+https://d7h4etj2q67u9.cloudfront.net/status/n10/fronts.woff2?65c722
 #EXTINF:-1 group-title="Развлечение",Nano (SD)
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Selection Sport",Okko Спорт Прайм HD (FHD)
@@ -223,7 +195,7 @@ http://87.120.142.11:18000/Rossiya1
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Знания",Univer HD (FHD)
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="222" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE Monday Night Raw iSTRMEAST" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",WWE Monday Night Raw iSTRMEAST
+#EXTINF:-1 tvg-chno="162" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE Monday Night Raw iSTRMEAST" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",WWE Monday Night Raw iSTRMEAST
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -382,7 +354,7 @@ http://31.148.48.15/Mir_Seriala/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Хобби",Мужской (SD)
 http://195.26.83.96:7007/play/11/index.m3u8
-#EXTINF:-1 group-title="Религия",МузСоюз HD (FHD)
+#EXTINF:-1 group-title="Религия",МузСоюз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv",МузТВ 7 Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -571,13 +543,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино",Сити Эдем  Кинодок (HD)
 https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино",Сити Эдем  Киноклассика (FHD)
+#EXTINF:-1 group-title="Кино",Сити Эдем  Киноклассика (HD)
 https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино" tvg-id="40783",Сити Эдем  Киномистика (HD)
+#EXTINF:-1 group-title="Кино" tvg-id="40783",Сити Эдем  Киномистика (FHD)
 https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино",Сити Эдем  Киносемья
+#EXTINF:-1 group-title="Кино",Сити Эдем  Киносемья (FHD)
 https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино" tvg-id="41333",Сити Эдем  Киноэкшен (SD)
+#EXTINF:-1 group-title="Кино" tvg-id="41333",Сити Эдем  Киноэкшен (HD)
 https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Детям",Смайл ТВ (HD)
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
@@ -671,8 +643,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="Развлечение" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che",Че Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 tvg-id="shanson-tv" group-title="Музыка",ШансонТВ (SD)
-http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Развлечение",Ю ТВ (SD)
 http://178.134.1.158:8081/U/index.m3u8
 #EXTINF:-1 group-title="Развлечение" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl7",Ю ТВ 7 Архив (4K)
@@ -727,6 +697,8 @@ http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/6PR-Thumbnail-Default-Light.png",ช่อง 6PR Perth
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://play-lh.googleusercontent.com/ILEB-4qoKswu6G6sovpsoaiFjTljQV0v3dv-V7YSUpFDl0RK0jagTLPpJeBNV9huqA=w526-h296-rw",ช่อง 7Star TV (FHD)
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://f.ptcdn.info/428/057/000/p88xfxv2eU2OHPlO7dF-o.png",ช่อง 9 (FHD)
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1995189563_b3000000.m3u8
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vxc3vq6dxy8j.jpeg",ช่อง 90 ลูกทุ่ง รักไทย
@@ -799,7 +771,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง AXN (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/df51c4d0-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",ช่อง AXN (FHD)
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/df51c4d0-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",ช่อง AXN (SD)
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueaxn.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง AXS TV (FHD)
@@ -887,7 +859,7 @@ https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง American Crimes (SD)
 https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",ช่อง American Horrors (SD)
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",ช่อง American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง American Ninja Warrior (SD)
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
@@ -912,11 +884,15 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 group-title="Truevisions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",ช่อง Asian Food Network (HD)
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/asianfoodchannel.m3u8
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.ais.th/content/dam/ais/consumer/content/lifestyle/tv-and-movie/premuim-content/ch-logo-asian.jpg",ช่อง Asian Hits
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.ais.th/content/dam/ais/consumer/content/lifestyle/tv-and-movie/premuim-content/ch-logo-asian.jpg",ช่อง Asian Hits (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Aspire (HD)
 https://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",ช่อง Astro AEC (HD)
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Astro_HHD.png",ช่อง Astro Hua Hee Dai (HD)
+http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmu_LiTAGHGoqvhVwtYs9SN-iOz6i3Hv929w&s",ช่อง Astro Quan Jia (HD)
 http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง At Home with Family Handyman (HD)
@@ -985,7 +961,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 https://nl.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://bs.tbs.co.jp/sns/images/SNSichiran_bstbs_new_540.jpg",ช่อง BSTBS (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.btn.co.kr/images/main/fs_05.jpg",ช่อง BTN TV (HD)
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.btn.co.kr/images/main/fs_05.jpg",ช่อง BTN TV
 https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง BTV (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
@@ -993,7 +969,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Baby TV
 http://supersonictv.live:8080/live/006779/439866/21790.m3u8
-#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง BabyFirstTV
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง BabyFirstTV (FHD)
 http://supersonictv.live:8080/live/006779/439866/21789.m3u8
 #EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง Bad Girls Club (SD)
 https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8
@@ -1041,7 +1017,7 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg",ช่อง Bloomberg TV Australia (HD)
 https://bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Boomerang
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Boomerang (HD)
 http://supersonictv.live:8080/live/006779/439866/21791.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://oa-profile-media.line-scdn.net/0hjpbz121UNV9fAx-LupZKCHBcOy5sYWwJMGEtbCkCbHMnYSBaf2B5MXofO292Zm5ZNzByOSgBP2omNXBbMzF_OX8CaCpzOyUIYjIpOg/w480",ช่อง Boonniyom TV (SD)
 https://live.x2.co.th/live/bntv.m3u8
@@ -1074,38 +1050,24 @@ http://php.jdshipin.com/smt.php?id=Celestial2
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueccm.m3u8
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png",ช่อง CCTN (FHD)
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV10科教
-https://live.chinacert.cftest5.cn/mg/?id=624878405
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV11戏曲
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV11戏曲 (FHD)
 https://live.chinacert.cftest5.cn/mg/?id=667987558
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV12社会与法 (FHD)
-https://live.chinacert.cftest5.cn/mg/?id=673168185
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV13新闻
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV13新闻 (FHD)
 https://live.chinacert.cftest5.cn/mg/?id=608807423
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV14少儿
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV14少儿 (FHD)
 https://live.chinacert.cftest5.cn/mg/?id=624878440
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV15音乐
-https://live.chinacert.cftest5.cn/mg/?id=673168223
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV17农业农村 (FHD)
-https://live.chinacert.cftest5.cn/mg/?id=673168256
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV1综合
-https://live.chinacert.cftest5.cn/mg/?id=608807420
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV3综艺
-https://live.chinacert.cftest5.cn/mg/?id=624878271
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV4中文国际
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV4中文国际 (FHD)
 https://live.chinacert.cftest5.cn/mg/?id=631780421
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV4欧洲
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV4欧洲 (FHD)
 https://live.chinacert.cftest5.cn/mg/?id=608807419
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV4美洲
-https://live.chinacert.cftest5.cn/mg/?id=608807416
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV5体育赛事
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV5体育赛事 (FHD)
 https://live.chinacert.cftest5.cn/mg/?id=641886773
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV7国防军事
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV6电影 (FHD)
+https://live.chinacert.cftest5.cn/mg/?id=624878396
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV7国防军事 (FHD)
 https://live.chinacert.cftest5.cn/mg/?id=673168121
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV8电视剧
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV8电视剧 (FHD)
 https://live.chinacert.cftest5.cn/mg/?id=624878356
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://dev-systemtechnik.com/wp-content/uploads/2019/01/cctv_blog.jpg",ช่อง CCTV9纪录
-https://live.chinacert.cftest5.cn/mg/?id=673168140
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง CELESTIAL MOVIES (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pds.exblog.jp/pds/1/201606/12/12/c0193512_7112354.jpg",ช่อง CGNTV Japan (FHD)
@@ -1114,15 +1076,11 @@ https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGN
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง CGTN (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",ช่อง CGTN
-https://live.chinacert.cftest5.cn/mg/?id=609017205
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง CGTN DOCUMENTARY (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",ช่อง CGTN俄语
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",ช่อง CGTN俄语 (FHD)
 https://live.chinacert.cftest5.cn/mg/?id=609006446
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",ช่อง CGTN外语纪录
-https://live.chinacert.cftest5.cn/mg/?id=609006487
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",ช่อง CGTN西班牙语
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",ช่อง CGTN西班牙语 (FHD)
 https://live.chinacert.cftest5.cn/mg/?id=609006450
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",ช่อง CGTN阿拉伯语 (FHD)
 https://live.chinacert.cftest5.cn/mg/?id=609154345
@@ -1136,6 +1094,8 @@ https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif",ช่อง CJB SBS (HD)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง CMT (SD)
+https://fl1.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/F7kryheJM-vlSy3fGkvgzaHgQNWv1XVXbgREvuoUBh_8JQmNBzgD2FDbSQ-7qJMTeEam",ช่อง CNA (FHD)
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.goalsmapper.com/public/2021/05/12002027/cna.png",ช่อง CNA (SD)
@@ -1188,7 +1148,7 @@ http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
 http://atlanticthai.primcast.com:5898/;stream.mp3
 #EXTINF:-1 group-title="SoFast TV" tvg-logo="https://images.newsfilecorp.com/files/10827/237848_5c8003b764c198a8_002full.jpg",ช่อง Cartoon Classics (SD)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
-#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Cartoon Network
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Cartoon Network (FHD)
 http://supersonictv.live:8080/live/006779/439866/21792.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/1/1f/Original_Cartoon_Network_logo.png/revision/latest/scale-to-width-down/682?cb=20120713161358",ช่อง Cartoon Network Japan (HD)
 https://nl.utako.moe/cartoon_network/index.m3u8
@@ -1267,7 +1227,7 @@ https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
 https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Crime  Investigation (HD)
 https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
-#EXTINF:-1 group-title="Truevisions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/250px-Crime_%2B_Investigation_Logo_10.2019.svg.png",ช่อง Crime  Investigation
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/250px-Crime_%2B_Investigation_Logo_10.2019.svg.png",ช่อง Crime  Investigation (FHD)
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/crime-Investigation.m3u8
 #EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Crime  Investigation (SD)
@@ -1280,7 +1240,7 @@ https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.t
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69F4SPmxna_V7_u4LoSHGPVW-e3j74XqpiQ&s",ช่อง DBM TV (FHD)
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง DC外国电影 (SD)
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง DC外国电影
 https://live.metshop.top/huya/11342428
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png",ช่อง DLTV 1 (SD)
 https://cdn-live.dltv.ac.th/dltv01.m3u8
@@ -1339,15 +1299,13 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=153
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",ช่อง Discovery Channel Japan (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Disney Channel
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Disney Channel (HD)
 http://supersonictv.live:8080/live/006779/439866/21796.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Disney Channel (HD)
 https://fl1.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Disney Channel (SD)
-https://tvpass.org/live/DisneyChannelEast/hd
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/disneychannel/images/2/2c/DisneyChannel2019Logo.png/revision/latest?cb=20220729130459",ช่อง Disney Channel Japan (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Disney Jr
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Disney Jr (HD)
 http://supersonictv.live:8080/live/006779/439866/21798.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Disney Junior (HD)
 https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -1357,10 +1315,8 @@ https://tvpass.org/live/DisneyJuniorEast/hd
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Disney XD (HD)
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Disney XD
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Disney XD (HD)
 http://supersonictv.live:8080/live/006779/439866/21801.m3u8
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Disney XD (SD)
-https://tvpass.org/live/DisneyXDEast/hd
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQSCrRegAQSgzf1KPZUlwHERcH_D8nNkcq6Q&s",ช่อง Dlife (HD)
 https://nl.utako.moe/dlife/index.m3u8
 #EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง Doctor Who Classic (SD)
@@ -1447,12 +1403,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง FX (HD)
 https://fl1.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง FX Movie Channel (SD)
-https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง FX (SD)
+https://tvpass.org/live/FXEast/hd
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง FXM (HD)
 https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง FXX (SD)
-https://tvpass.org/live/FXXEast/hd
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง FYI (HD)
 https://fl1.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง FYI (SD)
@@ -1492,6 +1446,8 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/foodnetwork.m3u
 https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Fox Business Network (HD)
 https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Fox Business Network (SD)
+https://tvpass.org/live/FoxBusiness/hd
 #EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Fox News Channel (SD)
 https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Fox Sports 1 (HD)
@@ -1500,7 +1456,7 @@ https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Free form (HD)
 https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Freeform
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Freeform (HD)
 http://supersonictv.live:8080/live/006779/439866/21805.m3u8
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://play-lh.googleusercontent.com/oEkCn-8RapO7XgDAY_LQvNrTpHyK40BeSaV2mWMGZJRt-8VP92Fd0-eVoQAmiUHPEVg",ช่อง Fresh News (HD)
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
@@ -1524,8 +1480,6 @@ http://104.143.4.5:2080/funroads.m3u8
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Fuse (HD)
 https://fl1.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png",ช่อง G1 SBS (HD)
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง GALAXY (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง GALAXY PREMIUM (SD)
@@ -1564,9 +1518,11 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Golf Channel (HD)
 https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Golf Channel (SD)
+https://tvpass.org/live/GolfChannel/hd
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",ช่อง Golf Network (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ca/72/d6ca72b6-fa61-5563-3197-7640c84056a0/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/1200x630wa.png",ช่อง Gongyoung Shopping (HD)
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ca/72/d6ca72b6-fa61-5563-3197-7640c84056a0/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/1200x630wa.png",ช่อง Gongyoung Shopping
 https://etv.publichs.com/live5.stream/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ3CXdit8ZwlwvrAm7lyPiYSRNwZikjIkCH-up11Q=s900-c-k-c0x00ffffff-no-rj",ช่อง Good Idea TV (HD)
 https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
@@ -1584,7 +1540,7 @@ https://all3media-great-british-menu-1-gb.vidaa.wurl.tv/playlist.m3u8
 https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.roku.com/developer_channels/prod/d0c78a56a4391effb1dc5d21218ba9b3a9cd66554a9e9f9dea9b052892240c0f.png",ช่อง Grjngo 2 (SD)
 https://amogonetworx-grjngo-2-eu.vidaa.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIeyXtKBMiuXu_mV6AKmKwyHVkyDuFbI6n6zabgBxRgzqMXeqc1zL09cDzGHV3ULjUMGk&usqp=CAU",ช่อง Groovy TV (SD)
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIeyXtKBMiuXu_mV6AKmKwyHVkyDuFbI6n6zabgBxRgzqMXeqc1zL09cDzGHV3ULjUMGk&usqp=CAU",ช่อง Groovy TV (HD)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsEAlQ_TmpD-tmYBRg9ybIPlbAlM7LxDKsGg&s",ช่อง Gugbang TV (FHD)
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
@@ -1596,7 +1552,7 @@ https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbo.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",ช่อง HBO HITS (HD)
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbohits.m3u8
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",ช่อง HBO SIGNATURE (HD)
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",ช่อง HBO SIGNATURE (SD)
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbosignature.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",ช่อง HBO family (HD)
@@ -1620,8 +1576,6 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Hallmark Drama (HD)
 https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Hallmark Movies  Mysteries (SD)
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Hallmark Movies Mysteries (HD)
 https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง Hardcore Pawn (SD)
@@ -1640,7 +1594,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cff3309e-ded1-40dd-a6dc-e3a6d0a92d72/manifest.m3u8
 #EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://play-lh.googleusercontent.com/z9pMtCUfyRYbI_wotdBcZV8P6h8W8JbH5D00YXNOVO72XHVYKzDSoeEw7J-MPF-B0s0=w240-h480-rw",ช่อง Hesper TV (FHD)
 https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport (FHD)
 http://49.0.64.96:8007/HiSports
 #EXTINF:-1 group-title="SoFast TV" tvg-logo="https://images.newsfilecorp.com/files/10827/237848_5c8003b764c198a8_002full.jpg",ช่อง Hi5
 https://streams2.sofast.tv/WiseM3U8_31/sofast/cleanhls/master.m3u8
@@ -1702,7 +1656,7 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 https://8e979536.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0lTdXJ2aXZlZF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง IDX CHANNEL (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWF5iy7pz8qWStADdt3lRs1bQb465KYE7Yg&s",ช่อง IMTV (HD)
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWF5iy7pz8qWStADdt3lRs1bQb465KYE7Yg&s",ช่อง IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง INFAST (SD)
 https://lifestyle-rakuten.amagi.tv/playlist.m3u8
@@ -1746,7 +1700,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119",ช่อง JCOM BS (FHD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/250px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png",ช่อง JIBS SBS (HD)
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/250px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png",ช่อง JIBS SBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_original.png",ช่อง JKN18
 https://tv.trueid.net/th-th/live/jkn18
@@ -1772,14 +1726,10 @@ https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m
 https://nl.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.ytimg.com/vi/mEF9FDh4nZc/maxresdefault.jpg",ช่อง KBS LiveCam DokDo (SD)
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง KCBSDT1 (SD)
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Chosun.svg/revision/latest/scale-to-width-down/1200?cb=20230204021351",ช่อง KCTV 광주 CH05 (HD)
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lzY0CqKE62NiMboM_-HizbzkBjSXP7zDiuIu1xsgtOlFM=s900-c-k-c0x00ffffff-no-rj",ช่อง KDrama (HD)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง KFMBDT2 (SD)
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง KIDSTV (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง KIX (SD)
@@ -1790,8 +1740,6 @@ https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest?cb=20230625152624",ช่อง KPOP TV play (HD)
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง KTTVDT1 (SD)
-https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/a/aa/Ktv_logo.png/revision/latest?cb=20200821080929",ช่อง Kansai TV (FHD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",ช่อง Kayo Pops (SD)
@@ -1804,7 +1752,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e4/Kilisuci_TV_NEW_LOGO_2016.png/200px-Kilisuci_TV_NEW_LOGO_2016.png",ช่อง Kilisuci TV Kediri (SD)
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/SzUVoIqN6VV37DEau__D8QkDu1SQvByxbIC6pws9y-dwHnruLBwldJ6KARLLggqMpGc",ช่อง Korea TV (FHD)
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/SzUVoIqN6VV37DEau__D8QkDu1SQvByxbIC6pws9y-dwHnruLBwldJ6KARLLggqMpGc",ช่อง Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://dbs.radioline.fr/pictures/radio_8adf1bc7e41bba74091ee074730fb68f/logo200.jpg?size=600",ช่อง Kronehit (SD)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -1841,6 +1789,8 @@ https://fl1.moveonjoy.com/LIFETIME/index.m3u8
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/lifetime.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Lifetime Movies (SD)
 https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Logo (SD)
+https://tvpass.org/live/LogoEast/hd
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Jpkw_5gcirzJZLr-2Kbtsyzv3ZwhS9XZfg&s",ช่อง Look Thoong TV (HD)
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5fG5XkmCn6Br31e26zLPBBxoLursqsAiTA&s",ช่อง Lotte Home Shopping (HD)
@@ -1891,8 +1841,8 @@ https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง MSG
 https://fl1.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง MSNBC (SD)
-https://tvpass.org/live/MSNBC/hd
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง MSG (SD)
+https://tvpass.org/live/msg-madison-square-gardens/hd
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง MTV (HD)
 https://fl1.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",ช่อง MTV Japan (SD)
@@ -1917,8 +1867,6 @@ https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8
 https://fl1.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05HjvxyzFwNnlfxkhUJJPPew1oE4ymOSVLw&s",ช่อง Mei Ah Channel (HD)
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05HjvxyzFwNnlfxkhUJJPPew1oE4ymOSVLw&s",ช่อง Mei Ah Movie (HD)
-https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",ช่อง Mentari TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSovG6VOmXBuTb13VsT96ec0BLUI1V7LjE_Iw&s",ช่อง MierschTV (FHD)
@@ -1957,7 +1905,7 @@ https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง NBA TV (HD)
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/9n3ValGDAbFS8LuzMmcUKMXHrMYRLEJGH22sS_jIgiau_FirAwp_Lv_8dAXa3s6L09EB",ช่อง NBS Korea Agricultural Broadcasting (HD)
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/9n3ValGDAbFS8LuzMmcUKMXHrMYRLEJGH22sS_jIgiau_FirAwp_Lv_8dAXa3s6L09EB",ช่อง NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://s.isanook.com/ns/0/ud/192/963123/nbt.jpg",ช่อง NBT (HD)
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
@@ -1973,14 +1921,12 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/play
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRibcprtb4LLvm4lzmEqYa9VDuaVtVxyrhI-arlVA5bYA&s",ช่อง NDTV India (SD)
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcYoUwH9Be6Na0QSd2Yve7jKxRDtqE0sz3Wg&s",ช่อง NDTV Marathi (SD)
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcYoUwH9Be6Na0QSd2Yve7jKxRDtqE0sz3Wg&s",ช่อง NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTt8VVfoszudkVXM3r2wUDmw90jdQgVA2p3N4H5=s900-c-k-c0x00ffffff-no-rj",ช่อง NEW TM (FHD)
 https://vdo.plathong.net/wowza/flash7253/flash7253/chunklist_w167764757.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD (FHD)
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NFL RedZone (SD)
-https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง NHK (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",ช่อง NHK BS (SD)
@@ -2015,6 +1961,8 @@ https://tinyurl.com/bderscw3
 https://www.adintrend.tv/hd/ch37?t=live
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง National Geographic (HD)
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง National Geographic (SD)
+https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPheBHJ0E3ix72_H2kSWP5iMm-R19w5L9UQ&s",ช่อง National Geographic Japan (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง National Geographic Wild (HD)
@@ -2174,8 +2122,6 @@ https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qw
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง RCTI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
-#EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง ROCK ACTION (SD)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง ROCK entertainment (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://i.imgur.com/zAG288y.jpg",ช่อง ROLL (FHD)
@@ -2218,7 +2164,7 @@ https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 #EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง Rakuten TV Reality UK (SD)
 https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
-#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง Rakuten TV Romance Movies UK
+#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง Rakuten TV Romance Movies UK (SD)
 https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
 #EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง Rakuten TV SciFi UK (SD)
 https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
@@ -2408,7 +2354,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
 https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/2a38d855-a521-4d96-a6c7-933a0bf29754/0.m3u8?pdt=-9133&session=2a38d855-a521-4d96-a6c7-933a0bf29754&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTMzIn0.wWY9OBF4yy2xGYlTx_N_eud7S1bwrGw7oXya1meGNFY
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png",ช่อง TBS News (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIoACTfEJEOq8tJZ8hvHmL6eerzaYCrLGs0g&s",ช่อง TBS Seoul (FHD)
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIoACTfEJEOq8tJZ8hvHmL6eerzaYCrLGs0g&s",ช่อง TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="DISTRO TV" tvg-logo="https://www.distro.tv/img/small_poster.jpg",ช่อง TD Ameritrade Network (SD)
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
@@ -2427,16 +2373,14 @@ https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง TRANSTV (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-#EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง TRTWORLD
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000131/1024.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://true4u.com/images/true4u-live.jpg",ช่อง TRUE4U (HD)
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง TSN1 (SD)
 https://tvpass.org/live/tsn1/hd
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง TSN2 (SD)
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง TSN2
 https://tvpass.org/live/tsn2/hd
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง TSN3 (SD)
-https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง TSN5 (SD)
+https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png",ช่อง TV Asahi (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",ช่อง TV Asahi Channel 1 (HD)
@@ -2487,7 +2431,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://ia801208.us.archive.org/23/items/tvb-jade/TVB_Pearl.png",ช่อง TVB Pearl (FHD)
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://yt3.googleusercontent.com/c-l335C7k_tHh5l3CxFMXT_Kwq6wKTelyOfhZYNBTjTpUkxCOp85SIbKRNv4quN3VuDZBRvs=s900-c-k-c0x00ffffff-no-rj",ช่อง TVB Plus
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://yt3.googleusercontent.com/c-l335C7k_tHh5l3CxFMXT_Kwq6wKTelyOfhZYNBTjTpUkxCOp85SIbKRNv4quN3VuDZBRvs=s900-c-k-c0x00ffffff-no-rj",ช่อง TVB Plus (FHD)
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",ช่อง TVB Xinhe (HD)
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
@@ -2585,7 +2529,7 @@ https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits (HD)
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",ช่อง True Series (SD)
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",ช่อง True Series (HD)
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo28tujGljuIuLJTCE5Mro725AD8VMe9-TcA&s",ช่อง True Thai Film (HD)
@@ -2614,7 +2558,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",ช่อง VEVO 90s (SD)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",ช่อง VEVO 90s (SD)
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",ช่อง VEVO 90s (HD)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9q5J7f0x97zzzGfYlStEk-5DrSH40pZYrA&s",ช่อง VEVO Country (SD)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8
@@ -2660,12 +2604,12 @@ https://fl1.moveonjoy.com/WGN/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง WISDT2 (SD)
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง WNBCDT1 (SD)
-https://tvpass.org/live/WNBCDT1/hd
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง WNETDT1 (SD)
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง WNETDT1
 https://tvpass.org/live/WNET/hd
 #EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง WNJUDT1 (SD)
 https://tvpass.org/live/TelemundoEast/hd
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง WNYWDT1 (SD)
+https://tvpass.org/live/WNYWDT1/hd
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest?cb=20200215065013",ช่อง WOWOW Cinema (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2019-11-12-1443463.png/revision/latest?cb=20200215064659",ช่อง WOWOW Live (SD)
@@ -2777,7 +2721,7 @@ http://stream.revma.ihrhls.com/zc6410/hls.m3u8
 http://stream.revma.ihrhls.com/zc6734/hls.m3u8
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง iNews (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/iqiyi2.png",ช่อง iQIYI
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/iqiyi2.png",ช่อง iQIYI (SD)
 http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง imc
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
@@ -2801,8 +2745,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGVJJGeVAjbls68beHj-xpFCugJUcc6I-_g&s",ช่อง การ์ตูน (HD)
 http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3BQLfnnMNUSLQCiD_G3FH2fthjrNBThpJg&s",ช่อง คูล ชาแนล (HD)
-https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hfsu6j7fn2jh.png",ช่อง จส5 AM 567 KHz ชัยภูมิ
 http://media.login.in.th:8235/;stream.mp3
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/b5xenqq4q4kv.jpg",ช่อง จั๊กกะจี้เรดิโอ
@@ -2839,90 +2781,102 @@ https://live.zoom072.com/ch6/ch6.m3u8
 https://live.zoom072.com/ch8/ch8.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_W_2JqEruZTu1NuWTkX6OxW9zvDqzz7NzNA&s",ช่อง แซ่บ ชาแนล (HD)
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mtrmZJT1Ph8jHrmJimx2LqaGdQbzel3eT-sMQt=s900-c-k-c0x00ffffff-no-rj",ช่อง ไทไชโย (HD)
-https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png",ช่อง ウェザーニュースLiVE (HD)
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png",ช่อง キッズ (FHD)
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",ช่อง ワンニャンチャンネル (FHD)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 一代枭雄为报父仇励精图治 (HD)
+https://live.metshop.top/huya/11342398
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 上古神器轩辕剑 (SD)
 https://live.metshop.top/huya/11336579
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 中华小当家 (SD)
 https://live.metshop.top/huya/11342413
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 中国功夫经典大片 (HD)
 https://live.metshop.top/huya/11352941
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://pic6.sucaisucai.com/06/67/06867306_2.jpg",ช่อง 中学生
-https://live.chinacert.cftest5.cn/mg/?id=708869532
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 五福星系列 (SD)
 https://live.metshop.top/huya/11282233
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 倚天屠龙记六大门派围攻光明顶 (SD)
 https://live.metshop.top/huya/11342403
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk31KHEjGxuXTK6jF1WwDTAWr-v1qPqHNVhg&s",ช่อง 八度空间 (HD)
 http://php.jdshipin.com/smt.php?id=TV8
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 冲冲冲给老子上
-https://live.metshop.top/huya/11342392
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 刘小光捧腹大笑 (SD)
 https://live.metshop.top/huya/11352938
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 刘德华 (SD)
+https://live.metshop.top/huya/11342424
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 卧底警匪片 (HD)
 https://live.metshop.top/huya/11352886
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 历年贺岁档 (HD)
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 卧底警察的故事 (SD)
+https://live.metshop.top/huya/11279251
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 历年贺岁档
 https://live.metshop.top/huya/11601986
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 古墓系列 (FHD)
+https://live.metshop.top/huya/11352913
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 合家欢喜剧
+https://live.metshop.top/huya/11352877
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 周星星粤语经典版 (HD)
+https://live.metshop.top/huya/11336587
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 周星驰 (FHD)
 https://live.metshop.top/huya/11342412
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 国产悬疑精选
+https://live.metshop.top/huya/11342395
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 大宅门 (HD)
 https://live.metshop.top/huya/11352956
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 天龙八部 97版黄日华 (HD)
 https://live.metshop.top/huya/23903123
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 如意菜头
-https://live.metshop.top/huya/11352966
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 女神系列邱淑贞 王祖贤 张曼玉 (SD)
+https://live.metshop.top/huya/11336571
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 孙悟空唐三藏取西经 (FHD)
 https://live.metshop.top/huya/23735126
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 孙红雷硬汉电影 (SD)
 https://live.metshop.top/huya/11352917
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 家有儿女 我叫夏冰雹 (SD)
 https://live.metshop.top/huya/11352872
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 寻秦记 古天乐宣萱CP (HD)
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 寻秦记 古天乐宣萱CP
 https://live.metshop.top/huya/23864973
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 射雕之九阴真经姜大卫 张智霖 (SD)
 https://live.metshop.top/huya/23824164
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 庆余年 (FHD)
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 庆余年
 https://live.metshop.top/huya/11352960
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 康熙大帝的传奇一生
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 康熙大帝的传奇一生 (SD)
 https://live.metshop.top/huya/11352940
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 康熙民间私访
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 康熙民间私访 (SD)
 https://live.metshop.top/huya/11342418
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 开心鬼系列 (HD)
+https://live.metshop.top/huya/11342423
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 徐良除暴安良替天行道
 https://live.metshop.top/huya/10871113
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 成龙 (SD)
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 成龍历险记社会我阿福乌鸦坐飞机 (SD)
+https://live.metshop.top/huya/11352946
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 成龙 (HD)
 https://live.metshop.top/huya/11342386
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 我们都爱笑卡通
-https://live.metshop.top/huya/11352882
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png",ช่อง 手塚プロダクションTV (FHD)
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 抗日大片 (FHD)
+https://live.metshop.top/huya/11352897
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 搞笑的一家人 (SD)
 https://live.metshop.top/huya/11342402
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 新三国滚滚长江东逝水 (SD)
+https://live.metshop.top/huya/11352944
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 新水浒传在下正是西公子 (SD)
 https://live.metshop.top/huya/11342384
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 普通司机小马的直播间 (HD)
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 普通司机小马的直播间
 https://live.metshop.top/huya/23749096
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 林正英 (FHD)
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 李连杰 (HD)
+https://live.metshop.top/huya/11342390
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 林正英 (SD)
 https://live.metshop.top/huya/11342421
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 楚汉骄雄 (FHD)
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 楚汉骄雄
 https://live.metshop.top/huya/23740156
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 武林萌主唐小姐 (HD)
+https://live.metshop.top/huya/11336726
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg/250px-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg.png",ช่อง 民視新聞 HD (FHD)
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 沈腾合集 (FHD)
 https://live.metshop.top/huya/11601968
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 法证先锋
-https://live.metshop.top/huya/23829543
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 活佛济公
-https://live.metshop.top/huya/11342400
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 海绵宝宝 (SD)
 https://live.metshop.top/huya/11352919
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 港产搞笑恐怖 (HD)
-https://live.metshop.top/huya/11601960
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳視體育 (FHD)
 https://live5.tdm.com.mo/ch4/sport_ch4.live/chunklist_w183583392.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳視高清 (FHD)
@@ -2935,21 +2889,19 @@ https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w183583389.m3u8
 https://live5.tdm.com.mo/ch2/ch2.live/chunklist_w183583390.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视资讯 (FHD)
 https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w183583393.m3u8
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 热血学生保家卫国
-https://live.metshop.top/huya/11342434
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 灾难大片吞针主播 (HD)
+https://live.metshop.top/huya/11352887
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 燃青春热血男儿中国心 (HD)
 https://live.metshop.top/huya/11352905
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 状王宋世杰第二部张达明大战黄子华
-https://live.metshop.top/huya/23734183
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 猫和老鼠汤姆和杰瑞的故事 (HD)
+https://live.metshop.top/huya/11352879
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 王艳的孙蝶真的好美 (HD)
 https://live.metshop.top/huya/11342420
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 甄子丹
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 甄子丹 (FHD)
 https://live.metshop.top/huya/11352935
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 盗墓笔记少年篇
-https://live.metshop.top/huya/11336578
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 看完你也学不会系列
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 看完你也学不会系列 (HD)
 https://live.metshop.top/huya/11352945
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 神探狄仁杰
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 神探狄仁杰 (HD)
 https://live.metshop.top/huya/11352958
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 神貂侠侣陈妍希小笼包版姑姑 (HD)
 https://live.metshop.top/huya/11352964
@@ -2961,43 +2913,47 @@ http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
 http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
 #EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第五台
 http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 第十门 (FHD)
+https://live.metshop.top/huya/11352883
 #EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第四台
 http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 简小熙的直播间
-https://live.metshop.top/huya/11342399
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 纪晓岚岚宝珅宝的爱恨情仇 (FHD)
 https://live.metshop.top/huya/11342396
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 经典港剧笑嘻嘻 (FHD)
 https://live.metshop.top/huya/11352965
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 经典港片邻家少女 (FHD)
+https://live.metshop.top/huya/11352878
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 经典高智商犯罪片 (HD)
 https://live.metshop.top/huya/11352962
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 美猴王粤语版 (SD)
 https://live.metshop.top/huya/23734246
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 群雄逐鹿窃符救赵
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 群雄逐鹿窃符救赵 (FHD)
 https://live.metshop.top/huya/11342415
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 胡八一胖子沙漠古城找鬼洞 (SD)
 https://live.metshop.top/huya/11352871
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 花开正元 孙俪民国上位记 (HD)
+https://live.metshop.top/huya/11352920
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 荒漠中的枪神
 https://live.metshop.top/huya/11352906
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 萌新司机 (FHD)
+https://live.metshop.top/huya/11352881
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 虎牙八点档 (HD)
 https://live.metshop.top/huya/880261
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 许三多军营成长史 (SD)
 https://live.metshop.top/huya/11342430
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 邱淑贞太好看了吧 (HD)
 https://live.metshop.top/huya/11352949
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 邻li一家亲 满院白眼狼 (FHD)
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 邻li一家亲 满院白眼狼 (SD)
 https://live.metshop.top/huya/11342426
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CBN_Classic.png",ช่อง 重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 野蛮亲家血腥对线 (HD)
 https://live.metshop.top/huya/23863796
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 金庸的武侠世界
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 金庸的武侠世界 (HD)
 https://live.metshop.top/huya/11342435
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 镖行天下 镖在人在 (HD)
 https://live.metshop.top/huya/11352969
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 陆贞传奇
-https://live.metshop.top/huya/11342404
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 陈翔六点半
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 陈翔六点半 (FHD)
 https://live.metshop.top/huya/11274154
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 雍正皇帝的风云一生 (SD)
 https://live.metshop.top/huya/11342439
@@ -3005,15 +2961,17 @@ https://live.metshop.top/huya/11342439
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 韩国高分动作片 (FHD)
 https://live.metshop.top/huya/11352884
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 食为奴王祖蓝万绮雯
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 飞车电影
+https://live.metshop.top/huya/11279247
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 食为奴王祖蓝万绮雯 (HD)
 https://live.metshop.top/huya/23865058
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 鹿鼎记 小春版韦小宝
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 鹿鼎记 小春版韦小宝 (HD)
 https://live.metshop.top/huya/23865080
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黄渤经典回顾 (FHD)
 https://live.metshop.top/huya/11342429
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黄金配角  达叔
 https://live.metshop.top/huya/11336592
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黑帮大片
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黑帮大片 (HD)
 https://live.metshop.top/huya/11336719
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黑帮斗争 (SD)
 https://live.metshop.top/huya/11342419
