@@ -2,7 +2,7 @@
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2" group-title="Развлечение",2x2 Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Знания",360 (SD)
+#EXTINF:-1 group-title="Знания",360
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Знания",360 HD (FHD)
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
@@ -52,16 +52,24 @@ http://213.169.39.30:5134
 http://213.169.39.30:5136
 #EXTINF:-1 group-title="Selection Sport",Diema Sport 3
 http://213.169.39.30:5216
+#EXTINF:-1 group-title="Музыка",Europa Plus TV HD (FHD)
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 group-title="Selection Sport",Eurosport 1 HD (FHD)
 http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="Кино",FAN HD (FHD)
+http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 group-title="Хобби",Fashion TV HD (FHD)
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби",Food Time HD
+#EXTINF:-1 group-title="Хобби",FashionLifeStyle HD (FHD)
+http://31.148.48.15/Fashion_One_HD/index.m3u8
+#EXTINF:-1 group-title="Хобби",Food Time HD (FHD)
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Детям",Fox Kids (SD)
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 501
 https://7pal.short.gy/fox501au
+#EXTINF:-1 group-title="Selection Sport",Fox Sports 502
+https://7pal.short.gy/fox502au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 503
 https://7pal.short.gy/fox503au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 504
@@ -106,7 +114,7 @@ https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="Selection Sport",Russian Extreme (SD)
 http://195.26.83.96:7029/play/a008
-#EXTINF:-1 group-title="Знания",Silk Way HD
+#EXTINF:-1 group-title="Знания",Silk Way HD (SD)
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 group-title="Selection Sport",Sky Sport 1 NZ
 https://7pal.short.gy/skyspt1nz
@@ -118,9 +126,11 @@ https://7pal.short.gy/skyspt3nz
 https://7pal.short.gy/skyspt4nz
 #EXTINF:-1 group-title="Selection Sport",Sky Sport F1 UHD (4K)
 https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 group-title="Selection Sport",Sky Sport Main Event
+#EXTINF:-1 group-title="Selection Sport",Sky Sport Football (FHD)
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="Selection Sport",Sky Sport Main Event (FHD)
 https://7pal.short.gy/skspmaine
-#EXTINF:-1 group-title="Selection Sport",Sky Sport News
+#EXTINF:-1 group-title="Selection Sport",Sky Sport News (HD)
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 group-title="Кино",Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
@@ -130,8 +140,10 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="Selection Sport",TNT Sport 2 (FHD)
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="Selection Sport",TNT Sport 3 (FHD)
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 3
 https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 4
+https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Знания",TV BRICS (FHD)
 http://origin5.mediacdn.ru/live/brics/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское
@@ -150,11 +162,6 @@ http://87.120.142.11:18000/Rossiya1
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Знания",Univer HD
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="154" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE Monday Night Raw iSTRMEAST" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",WWE Monday Night Raw iSTRMEAST
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pl1.kamfir8.space/playlist/44907/load-playlist
 #EXTINF:-1 group-title="Хобби",World Fashion Channel (FHD)
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Хобби",World Fashion Channel HD (FHD)
@@ -173,6 +180,10 @@ http://178.134.1.158:8081/viasatsport/index.m3u8
 http://178.134.1.158:8081/tv1000/index.m3u8
 #EXTINF:-1 group-title="Хобби",Авто 24 (SD)
 http://178.124.152.238:8088/auto24
+#EXTINF:-1 group-title="Хобби",Авто Плюс (SD)
+http://31.148.48.15/Avto_Plus/index.m3u8
+#EXTINF:-1 group-title="Общие",БСТ (SD)
+http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Общие",БелРос (SD)
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Новости",Беларусь 24 (FHD)
@@ -190,7 +201,7 @@ http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детям",Детское кино Int (SD)
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Знания",Доктор HD
+#EXTINF:-1 group-title="Знания",Доктор HD (FHD)
 http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" group-title="Развлечение",Домашний 7 Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -198,25 +209,29 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" group-title="Развлечение",Домашний Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Хобби",Живи HD
+#EXTINF:-1 group-title="Хобби",Живи HD (FHD)
 http://31.148.48.15/Zhivi/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn",Загородная жизнь (SD)
 http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 group-title="Общие",Звезда (SD)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="zvezda-pl7",Звезда 7 Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 group-title="Общие",Звезда HD
+#EXTINF:-1 group-title="Общие",Звезда HD (FHD)
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="zvezda",Звезда Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Знания",Звезда Плюс (HD)
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания",Звезда Плюс HD (FHD)
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания",Зоо ТВ (SD)
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Новости",Известия (FHD)
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Индийское кино
+#EXTINF:-1 group-title="Кино",Индийское кино (SD)
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино",Индия (SD)
 http://158.101.222.193:88/georgia_play.php?id=zeetv
@@ -236,6 +251,8 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="Развлечение",Китай ТВ HD (FHD)
 http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 group-title="Знания",Конгресс ТВ HD (FHD)
+http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Selection Sport",Конный мир (SD)
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечение",Красная линия (SD)
@@ -247,6 +264,8 @@ http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 group-title="Новости",Кубань 24 (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 group-title="Музыка",КурайТВ (SD)
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="Хобби",Кухня (SD)
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 group-title="Знания",ЛДПР ТВ (SD)
@@ -283,7 +302,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="mir",Мир Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Кино",Мужское кино
+#EXTINF:-1 group-title="Кино",Мир сериала (SD)
+http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:-1 group-title="Кино",Мужское кино (SD)
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Хобби",Мужской (SD)
 http://195.26.83.96:7007/play/11/index.m3u8
@@ -297,6 +318,8 @@ http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv",МузТВ Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Музыка",Музыка Live (SD)
+http://31.148.48.15/La-Minor_TV/index.m3u8
 #EXTINF:-1 group-title="Детям",Мульт (SD)
 http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
 #EXTINF:-1 group-title="Детям",Мультимания (SD)
@@ -306,6 +329,8 @@ http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv-pl7",НТВ 7 Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv",НТВ Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
@@ -440,15 +465,15 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 group-title="Кино",Русский иллюзион (SD)
 http://195.26.83.96:7006/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Кино",Русский роман HD
+#EXTINF:-1 group-title="Кино",Русский роман HD (FHD)
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Хобби",Рыбалка и охота
 http://213.169.39.30:5262
-#EXTINF:-1 group-title="Детям",Рыжий
+#EXTINF:-1 group-title="Детям",Рыжий (SD)
 http://31.148.48.15/Rizhiy/index.m3u8
 #EXTINF:-1 group-title="Общие",СТВ Беларусь (SD)
 http://194.158.222.36:6103
-#EXTINF:-1 group-title="Развлечение",СТС
+#EXTINF:-1 group-title="Развлечение",СТС (SD)
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="sts-pl7",СТС 7 Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
@@ -457,7 +482,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 group-title="Детям",СТС Kids (SD)
 http://195.26.83.96:7006/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Детям",СТС Kids HD
+#EXTINF:-1 group-title="Детям",СТС Kids HD (FHD)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="sts-love-pl7",СТС Love 7 Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -476,13 +501,13 @@ https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
 https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино" tvg-id="40783",Сити Эдем  Киномистика (HD)
 https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино",Сити Эдем  Киносемья (FHD)
+#EXTINF:-1 group-title="Кино",Сити Эдем  Киносемья (HD)
 https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино" tvg-id="41333",Сити Эдем  Киноэкшен (FHD)
 https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино" tvg-id="46209",Сити Эдем  Теленовелла (HD)
 https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино" tvg-id="34246",Сити Эдем  Христианский (FHD)
+#EXTINF:-1 group-title="Кино" tvg-id="34246",Сити Эдем  Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Детям",Смайл ТВ (HD)
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
@@ -494,9 +519,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Новости",СоловьевLive HD (FHD)
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 group-title="Религия",Союз (FHD)
+http://31.148.48.15/Soyuz/index.m3u8
 #EXTINF:-1 group-title="Религия",Союз HD (FHD)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="Религия",Спас
+#EXTINF:-1 group-title="Религия",Спас (SD)
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религия" tvg-id="spas",Спас 7 Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -518,7 +545,7 @@ http://109.94.1.3:8080/132/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=24techno
 #EXTINF:-1 group-title="Новости",ТАСС (FHD)
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1 group-title="Религия",ТБВ HD
+#EXTINF:-1 group-title="Религия",ТБВ HD (FHD)
 https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 #EXTINF:-1 group-title="Религия",ТБН (HD)
 https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
@@ -582,113 +609,57 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Развлечение" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu",Ю ТВ Архив (4K)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง BeIN Sports XTRA (SD)
+#EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง BeIN Selection Sports XTRA (SD)
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง CBS Sports Network USA (HD)
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง ESPN U (HD)
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง ESPNews (HD)
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง FIGHT SPORTS (SD)
+#EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง FIGHT Selection SportS (SD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
-#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง FanDuel Sports Network (HD)
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง FanDuel Selection Sports Network (HD)
 https://fl1.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Fifth_Gear_logo_2024.png",ช่อง Fifth Gear (SD)
+#EXTINF:-1 group-title="Selection SportS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Fifth_Gear_logo_2024.png",ช่อง Fifth Gear (SD)
 https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887625&ads.csid=vidaa_us_fifthgear_ssai&ads.caid=FifthGear&ads.appVersion=1&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads._fw_player_width=1920&ads._fw_player_height=1080&ads.xumo_contentId=3867&ads.xumo_contentName=All3MediaFifthGear&ads.xumo_providerId=3867&ads.xumo_providerName=All3MediaFifthGear&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5407
-#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Fox Sports 1 (HD)
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Fox Sports 2 (SD)
-https://tvpass.org/live/FoxSports2/hd
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",ช่อง Gaora Sports (SD)
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",ช่อง Gaora Selection Sports (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport
-http://49.0.64.96:8007/HiSports
-https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
-https://psiiptv-b.sky-cdn.com/ttd25-playlist/index.m3u8
-https://psiiptv-b.sky-cdn.com/ttd01-playlist/tracks-v1a1/playlist.m3u8
-https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
-https://psiiptv-b.sky-cdn.com/ttd03-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/ttd04-Playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/ttd05-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/ttd06-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/ttd07-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/ttd08-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/ttd09-playlist/index.m3u8
-https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8
-https://psiiptv-b.sky-cdn.com/ttd11-playlist/index.m3u8
-https://psiiptv-b.sky-cdn.com/ttd12-playlist/index.m3u8
-https://psiiptv-b.sky-cdn.com/v2h1-playlist/index.m3u8
-https://psiiptv-b.sky-cdn.com/v2h2-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h3-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h4-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h5-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h6-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h7-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h8-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h9-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h10-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h11-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h12-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h13-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",ช่อง Horse and Country (SD)
+#EXTINF:-1 group-title="Selection SportS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",ช่อง Horse and Country (SD)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKy6Thi-nVwId_Z24tjywVxN29b2aPEmlRew&s",ช่อง INWONDER (SD)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-fetchtvau/playlist.m3u8
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",ช่อง J Sports 1 (SD)
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/j🎎|Selection Sport|🎎s1_logo.jpg",ช่อง J Selection Sports 1 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",ช่อง J Sports 2 (SD)
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/j🎎|Selection Sport|🎎s2_logo.jpg",ช่อง J Selection Sports 2 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png",ช่อง J Sports 3 (SD)
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png",ช่อง J Selection Sports 3 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257",ช่อง J Sports 4 (SD)
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/J_🎎|Selection Sport|🎎s_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257",ช่อง J Selection Sports 4 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง NBA TV (HD)
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Bay Area (SD)
-https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Philadelphia (SD)
-https://tvpass.org/live/nbc-sports-philadelphia/hd
 #EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NFL RedZone (SD)
 https://tvpass.org/live/NFLRedZone/hd
-https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV HD (HD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cdn.majorcineplex.com/uploads/content/images/onepiece18%283%29.jpg",ช่อง One Piece (SD)
-https://shorturl.at/5Y1ri
-https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/b20265d5-5ec4-4542-9d60-0d4eacb10c49/0.m3u8
-#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://2.bp.blogspot.com/-0wlOLgIzZWU/W2vkaoVLICI/AAAAAAAAqyA/7kqKVQMbsFQ8SOg--yrVdrmeMr4uVEW2ACLcBGAs/s1600/plugin-addon-redbulltv.png",ช่อง Red Bull TV (HD)
+#EXTINF:-1 group-title="Selection SportS CH" tvg-logo="https://2.bp.blogspot.com/-0wlOLgIzZWU/W2vkaoVLICI/AAAAAAAAqyA/7kqKVQMbsFQ8SOg--yrVdrmeMr4uVEW2ACLcBGAs/s1600/plugin-addon-redbulltv.png",ช่อง Red Bull TV (HD)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Selection SportsNet New York (HD)
+https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Selection Sportstars
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
+#EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Selection Sportstars2 (SD)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
+#EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Selection Sportstars4 (SD)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg/500px-%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg",ช่อง Sky A (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",ช่อง Sport Live Plus (HD)
-https://nl.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง SportsGrid (SD)
-https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="PLEX TV" tvg-logo="https://i.ytimg.com/vi/mw5gJifg1G0/hqdefault.jpg",ช่อง SportsGrid (SD)
-https://sportsgrid-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Sportsman Channel (HD)
-https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Sportstars
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
-#EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Sportstars2 (SD)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
-#EXTINF:-1 group-title="VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Sportstars4 (SD)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",ช่อง Takarazuka Sky Stage (FHD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
-#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeotv/WickedTuna/showimages/f77c1071dd7b82916caa59ea9b0b2f17/1600x900-Q90_f77c1071dd7b82916caa59ea9b0b2f17.jpg",ช่อง The Wicked Tuna Channel (SD)
+#EXTINF:-1 group-title="Selection SportS CH" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeotv/WickedTuna/showimages/f77c1071dd7b82916caa59ea9b0b2f17/1600x900-Q90_f77c1071dd7b82916caa59ea9b0b2f17.jpg",ช่อง The Wicked Tuna Channel (SD)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-fetchtvau/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png",ช่อง Trace Sports Stars (SD)
-https://tracesportstars-freetv.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-freetv/CDN/playlist.m3u8
-#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Trace Sports Stars (SD)
-https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://image.makewebeasy.net/makeweb/m_720x480/JhSURmF49/BaanBaanTV/baanbaan_TV_Final.png?v=202405291424",ช่อง baanbaan TV (FHD)
 https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
