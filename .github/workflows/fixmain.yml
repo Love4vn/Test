@@ -7,6 +7,9 @@ on:
     - cron: '*/10 * * * *'
   workflow_dispatch:
 
+# Add permissions
+permissions:
+  contents: write
 env:
   TZ: Asia/Ho_Chi_Minh
 
@@ -97,15 +100,28 @@ jobs:
         rm -f EPG1.xml || true
         echo "Auto Update IPTV in $DATE!✨CXT✨!" > README.md
 
-    - name: Clean
+    - name: Commit and Push Changes
       run: |
         git config --local user.email "Love4vn@gmail.com"
         git config --local user.name "Love4vn"
-        git checkout --orphan latest_branch
-        git add -A
-        git commit -am "$DATE"
-        git branch -D main
-        git branch -m main
-
-    - name: Push
-      run: git push -f origin main
+        
+        # Add only specific files (not workflow files)
+        git add IPTV.m3u VTV.m3u VCTV.m3u S_check.m3u EPG.xml README.md
+        
+        # Check if there are changes
+        if git diff --staged --quiet; then
+          echo "🟡 No changes to commit"
+          exit 0
+        fi
+        
+        # Commit changes
+        git commit -m "🔄 Auto-update IPTV at $DATE [skip ci]"
+        
+        # Pull first to avoid conflicts
+        git pull --rebase origin main || true
+        
+        # Push changes
+        git push origin main || {
+          echo "⚠️ Normal push failed, trying force push..."
+          git push -f origin main
+        }
