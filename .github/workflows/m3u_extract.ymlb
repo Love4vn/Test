@@ -1,0 +1,51 @@
+name: M3U Stream Extractor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 7 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  extract-m3u:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install selenium beautifulsoup4 webdriver-manager
+
+      - name: Install Chromium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+
+      - name: Run Extractor
+        run: python extract_m3u_links.py
+
+      - name: Upload Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: streams
+          path: output/
+
+      - name: Commit
+        run: |
+          git config --global user.name "Stream Bot"
+          git config --global user.email "action@github.com"
+          git add output/ 2>/dev/null || true
+          git commit -m "🎬 $(date)" 2>/dev/null || true
+          git push origin main 2>/dev/null || true
