@@ -13,10 +13,6 @@ http://213.169.39.30:5216
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 501
 https://7pal.short.gy/fox501au
-#EXTINF:-1 group-title="Selection Sport",Fox Sports 502 (FHD)
-https://7pal.short.gy/fox502au
-#EXTINF:-1 group-title="Selection Sport",Fox Sports 503 (FHD)
-https://7pal.short.gy/fox503au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 504
 https://7pal.short.gy/fox504au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 505
@@ -25,13 +21,11 @@ https://7pal.short.gy/fox505au
 https://7pal.short.gy/fox506au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 507
 https://7pal.short.gy/fox507au
-#EXTINF:-1 tvg-chno="44" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Finland  Sweden 1 PIXEL (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Finland  Sweden 1 PIXEL (SD)
+#EXTINF:-1 tvg-chno="47" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Finland  Sweden 1 PIXEL (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Finland  Sweden 1 PIXEL (SD)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-8/playlist.m3u8
-#EXTINF:-1 group-title="Selection Sport",Okko Спорт Прайм HD (FHD)
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Selection Sport",Premier Sport 1 (FHD)
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Selection Sport",Premier Sport 2 (FHD)
@@ -50,17 +44,19 @@ https://7pal.short.gy/skyspt4nz
 https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 group-title="Selection Sport",Sky Sport Football (FHD)
 https://7pal.short.gy/ssportsfb
-#EXTINF:-1 group-title="Selection Sport",Sky Sport Main Event (FHD)
-https://7pal.short.gy/skspmaine
-#EXTINF:-1 group-title="Selection Sport",Sky Sport News
+#EXTINF:-1 group-title="Selection Sport",Sky Sport News (HD)
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 group-title="Selection Sport",TNT Sport 1 (FHD)
 https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 2 (FHD)
+https://7pal.short.gy/tntspts2
 #EXTINF:-1 group-title="Selection Sport",TNT Sport 3 (FHD)
 https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 4 (HD)
+https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Selection Sport",Trace Sport Stars (SD)
 http://87.120.142.11:18000/Rossiya1
-#EXTINF:-1 group-title="Selection Sport",viju Sport (SD)
+#EXTINF:-1 group-title="Selection Sport",viju Sport
 http://178.134.1.158:8081/viasatsport/index.m3u8
 #EXTINF:-1 group-title="Selection Sport",Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
@@ -96,7 +92,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70
 https://nl.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",ช่อง Gaora Sports (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport (FHD)
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport
 http://49.0.64.96:8007/HiSports
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",ช่อง Horse and Country (SD)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
@@ -112,6 +108,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Bay Area (SD)
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Philadelphia (SD)
+https://tvpass.org/live/nbc-sports-philadelphia/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NFL RedZone (SD)
 https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV (SD)
