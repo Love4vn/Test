@@ -3,11 +3,6 @@
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Selection Sport",Bein Sports Xtra (SD)
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="Soccer.Dummy.us" tvg-name="Bundesliga 2 Elversberg vs Dynamo Dresden CDNTV" tvg-logo="https://i.gyazo.com/6c343e57acf501f4df3502d7ec646897.png" group-title="Live Events",Bundesliga 2 Elversberg vs Dynamo Dresden CDNTV
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+bundesliga+2&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+bundesliga+2&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-2/playlist.m3u8?token=87990e6f5f975984d0821b9661e1b510107102c61b68a9948c5767298d188e6e.1771095626.69659539dfd8bdac75488eea7bcc03b2.4542b8350b27458fa766c7b2b86ead14.9584d14e17f8dbf8538bd7cc58983b18&signature=aa0372ba05a76db44698067a980cddb8c877768416161d83c171d0f9229e110f
 #EXTINF:-1 tvg-chno="89" tvg-id="Soccer.Dummy.us" tvg-name="Dutch Eredivisie AZ Alkmaar vs Excelsior STRMHUB (SD)" tvg-logo="https://streamhub.pro/uploads/categories/1756452539_VriendenLoterij_Eredivisie_Logo.png" group-title="Live Events",Dutch Eredivisie AZ Alkmaar vs Excelsior STRMHUB (SD)
 #EXTVLCOPT:http-referrer=https://storytrench.net/
 #EXTVLCOPT:http-origin=https://storytrench.net/
@@ -18,11 +13,6 @@ https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8?st=Rm_N3_oS4XFQPw4m38BK7A&e=
 #EXTVLCOPT:http-origin=https://storytrench.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8?st=QWOypHWJR7MLUryW_9_zWQ&e=1771106425
-#EXTINF:-1 tvg-chno="96" tvg-id="Soccer.Dummy.us" tvg-name="Ekstraklasa Widzew d vs Wisa Pock CDNTV" tvg-logo="https://i.gyazo.com/362e31efdd0dad03b00858f4fb0901b5.png" group-title="Live Events",Ekstraklasa Widzew d vs Wisa Pock CDNTV
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge.cdn-live.ru/secure/api/v1/pl-canal-sport-3/playlist.m3u8?token=63681c3f26d1feade366daf99e98193cdfa7b1fdf6fb92f84ebadf4255286faf.1771095619.9bf63ce1659df9cace82d03eb95199a2.ee084e21a3dfbf9e044cf7949e5ec396.5eb5b7f327d53fafb585eabfa1d3d75c&signature=c237b462e4d34dc88cf06f2dc6601daed030fecdcc0424bc38584c97f10bb6b3
 #EXTINF:-1 tvg-chno="112" tvg-id="Soccer.Dummy.us" tvg-name="English FA Cup Liverpool vs Brighton HD FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/40.png&w=500&h=500" group-title="Live Events",English FA Cup Liverpool vs Brighton HD FAWA (HD)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -47,8 +37,6 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 https://edge.cdn-live.ru/secure/api/v1/us-astro-football/playlist.m3u8?token=79bed4ccdaae303df506edafcdae12e36891f31555c9b9d80f9648cc03c0ff57.1771097476.63fe8db843020340d664fbb4e4dd756c.37932f11d863ca70c36d215de97a8ff9.e1d0c09537909e0132cd9b484e02dc01&signature=7af1af82a5442572b529e10dd265a843663cfa40b4637783e11cbb276c99e651
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 501
 https://7pal.short.gy/fox501au
-#EXTINF:-1 group-title="Selection Sport",Fox Sports 502 (FHD)
-https://7pal.short.gy/fox502au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 503
 https://7pal.short.gy/fox503au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 504
@@ -104,13 +92,18 @@ https://pullsgp.yyzb456.top/live/stream-582352_lhd.m3u8
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge.cdn-live.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=e56e77a07e478c1116e9e37c6c1a17cd36b69beba25353f9e27afdca2aa93c57.1771097479.38b6700856f32545719ad07bdc11a083.1b63a416a2b2b8ab3c57cc587c74701c.315fe2a1c4a039287cfb781e0de18879&signature=e26353942df567e8eb6657407f9e7d5b640f4b3b0d76bff83fbf945c996e74b6
-#EXTINF:-1 tvg-chno="219" tvg-id="Live.Event.us" tvg-name="Live Event Inter vs Juventus OVOGOAL (HD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Inter vs Juventus OVOGOAL (HD)
+#EXTINF:-1 tvg-chno="219" tvg-id="Live.Event.us" tvg-name="Live Event Inter vs Juventus OVOGOAL (FHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Inter vs Juventus OVOGOAL (FHD)
 #EXTVLCOPT:http-referrer=https://gametimes.plus/home/blog3/
 #EXTVLCOPT:http-origin=https://gametimes.plus/home/blog3/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://gametimes.plus/3333.php
 #EXTINF:-1 group-title="Selection Sport",Okko Спорт Прайм HD (FHD)
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-chno="276" tvg-id="Live.Event.us" tvg-name="Olympic Olympic Winter Games Milano Cortina 2026 iSTRMEAST" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Olympic Olympic Winter Games Milano Cortina 2026 iSTRMEAST
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pl3.wecanfix4.space/playlist/44654/load-playlist
 #EXTINF:-1 group-title="Selection Sport",Premier Sport 1 (FHD)
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Selection Sport",Premier Sport 2 (HD)
@@ -137,6 +130,8 @@ https://7pal.short.gy/skyspt3nz
 https://7pal.short.gy/skyspt4nz
 #EXTINF:-1 group-title="Selection Sport",Sky Sport F1 UHD (4K)
 https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Selection Sport",Sky Sport News
+https://7pal.short.gy/ssportsnw
 #EXTINF:-1 tvg-chno="331" tvg-id="Soccer.Dummy.us" tvg-name="Soccer Lazio vs Atalanta ROXIE (HD)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",Soccer Lazio vs Atalanta ROXIE (HD)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
@@ -198,6 +193,8 @@ https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887625
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",ช่อง Fighting TV Samurai (HD)
 https://nl.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Fox Sports 2 (SD)
+https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",ช่อง Gaora Sports (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport (FHD)
@@ -216,10 +213,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Bay Area (SD)
+https://tvpass.org/live/nbc-sports-bay-area/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Philadelphia (SD)
 https://tvpass.org/live/nbc-sports-philadelphia/hd
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NFL RedZone (SD)
-https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV HD (HD)
@@ -270,7 +267,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",ช่อง True Series (SD)
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE (FHD)
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง WCBSDT1 (SD)
+https://tvpass.org/live/WCBSDT1/hd
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE
 http://Supersonictv.live:8080/live/006779/439866/22185.m3u8
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://image.makewebeasy.net/makeweb/m_720x480/JhSURmF49/BaanBaanTV/baanbaan_TV_Final.png?v=202405291424",ช่อง baanbaan TV (FHD)
 https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
