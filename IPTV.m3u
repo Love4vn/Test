@@ -303,7 +303,7 @@ https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 501
 https://7pal.short.gy/fox501au
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 502
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 502 (FHD)
 https://7pal.short.gy/fox502au
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 503 (FHD)
 https://7pal.short.gy/fox503au
@@ -320,8 +320,6 @@ https://7pal.short.gy/fox507au
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-6/playlist.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Okko Спорт Прайм HD (FHD)
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Premier Sport 1 (FHD)
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Premier Sport 2 (HD)
@@ -342,7 +340,7 @@ https://7pal.short.gy/SSF1uhd
 https://7pal.short.gy/ssportsfb
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport Main Event (FHD)
 https://7pal.short.gy/skspmaine
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport News
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport News (HD)
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 1 (FHD)
 https://7pal.short.gy/tntspts1
@@ -372,6 +370,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Матч Футбол 3 (SD)
 http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Astro_HHD.png",Channel Astro Hua Hee Dai (HD)
+http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmu_LiTAGHGoqvhVwtYs9SN-iOz6i3Hv929w&s",Channel Astro Quan Jia (HD)
 http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",Channel BeIN Sports XTRA (SD)
@@ -386,11 +386,9 @@ https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887625
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Channel Fighting TV Samurai (HD)
 https://nl.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel Fox Sports 2 (SD)
-https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",Channel Gaora Sports (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",Channel Hi Sport (FHD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",Channel Hi Sport
 http://49.0.64.96:8007/HiSports
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",Channel Horse and Country (SD)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
@@ -404,10 +402,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257",Channel J Sports 4 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel KCBSDT1 (SD)
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",Channel MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel NFL RedZone (SD)
-https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel NBC Sports Philadelphia (SD)
+https://tvpass.org/live/nbc-sports-philadelphia/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",Channel Nippon TV (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",Channel Nippon TV HD (HD)
