@@ -234,8 +234,6 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-id="vtv9hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.2.35:10618 và http://4.3.2.1:0000/udp/225.1.1d.128:30120" group-title="KNH C SC" group-title="🇻🇳📺| Kênh VTV 📢" tvg-logo="🇻🇳📺| Kênh VTV 📢" catchup-days="3" catchup-source="🇻🇳📺| Kênh VTV 📢",VTV9 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV9_HD
 #EXTINF:0 tvg-id="vtv9hd" group-title="🇻🇳📺| Kênh VTV 📢" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 HD 85Mbps
-https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv9hd" group-title="🇻🇳📺| Kênh VTV 📢" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 HD 85Mbps
 udp://@225.1.3.9:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="🇻🇳📺| Kênh VTV 📢" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 HD 8Mbps
 udp://@225.1.1.128:30120
@@ -273,10 +271,6 @@ https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 501
 https://7pal.short.gy/fox501au
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 502
-https://7pal.short.gy/fox502au
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 503 (SD)
-https://7pal.short.gy/fox503au
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 504
 https://7pal.short.gy/fox504au
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 505
@@ -316,9 +310,9 @@ https://7pal.short.gy/skspmaine
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 1 (FHD)
 https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 2 (FHD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 2
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 3 (FHD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 3
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 4 (FHD)
 https://7pal.short.gy/tntspts4
@@ -380,6 +374,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",Channel MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel NBC Sports Philadelphia (SD)
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel NFL RedZone (SD)
+https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",Channel Nippon TV (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",Channel Nippon TV HD (HD)
@@ -430,7 +428,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",Channel True Series (SD)
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",Channel WWE (FHD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",Channel WWE (HD)
 http://Supersonictv.live:8080/live/006779/439866/22185.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://image.makewebeasy.net/makeweb/m_720x480/JhSURmF49/BaanBaanTV/baanbaan_TV_Final.png?v=202405291424",Channel baanbaan TV (FHD)
 https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
