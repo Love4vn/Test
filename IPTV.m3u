@@ -277,14 +277,21 @@ http://213.169.39.30:5216
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 501
 https://7pal.short.gy/fox501au
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 504
-https://7pal.short.gy/fox504au
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 502
+https://7pal.short.gy/fox502au
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 503 (FHD)
+https://7pal.short.gy/fox503au
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 505
 https://7pal.short.gy/fox505au
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 506
 https://7pal.short.gy/fox506au
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 507
 https://7pal.short.gy/fox507au
+#EXTINF:-1 tvg-chno="111" tvg-id="Live.Event.us" tvg-name="Live Event Dortmund vs Atalanta OVOGOAL (HD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Dortmund vs Atalanta OVOGOAL (HD)
+#EXTVLCOPT:http-referrer=https://gametimes.plus/home/blog3/
+#EXTVLCOPT:http-origin=https://gametimes.plus/home/blog3/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://gametimes.plus/3333.php
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Okko Спорт Прайм HD (FHD)
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Premier Sport 1 (FHD)
@@ -297,7 +304,7 @@ http://195.26.83.96:7029/play/a008
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport 2 NZ
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport 3 NZ
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport 3 NZ (HD)
 https://7pal.short.gy/skyspt3nz
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport 4 NZ
 https://7pal.short.gy/skyspt4nz
@@ -305,38 +312,84 @@ https://7pal.short.gy/skyspt4nz
 https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport Football (FHD)
 https://7pal.short.gy/ssportsfb
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport Main Event (FHD)
-https://7pal.short.gy/skspmaine
-#EXTINF:-1 tvg-chno="105" tvg-id="Soccer.Dummy.us" tvg-name="Soccer Juventus vs Galatasaray XSTRMEST (HD)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",Soccer Juventus vs Galatasaray XSTRMEST (HD)
+#EXTINF:-1 tvg-chno="138" tvg-id="Soccer.Dummy.us" tvg-name="Soccer Atalanta vs Borussia Dortmund XSTRMEST (HD)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",Soccer Atalanta vs Borussia Dortmund XSTRMEST (HD)
+#EXTVLCOPT:http-referrer=https://atletifan.com/fans/?id=3
+#EXTVLCOPT:http-origin=https://atletifan.com/fans/?id=3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d3rzj7h9lnm2kf.cloudfront.net/status/3/fronts.woff2?a806b7
+#EXTINF:-1 tvg-chno="139" tvg-id="Soccer.Dummy.us" tvg-name="Soccer Paris SaintGermain vs AS Monaco XSTRMEST (HD)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",Soccer Paris SaintGermain vs AS Monaco XSTRMEST (HD)
 #EXTVLCOPT:http-referrer=https://atletifan.com/fans/?id=1
 #EXTVLCOPT:http-origin=https://atletifan.com/fans/?id=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d3rzj7h9lnm2kf.cloudfront.net/status/1/fronts.woff2?a613e8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 1
+https://d3rzj7h9lnm2kf.cloudfront.net/status/1/fronts.woff2?e8eb9e
+#EXTINF:-1 tvg-chno="140" tvg-id="Soccer.Dummy.us" tvg-name="Soccer Real Madrid vs Benfica XSTRMEST (HD)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",Soccer Real Madrid vs Benfica XSTRMEST (HD)
+#EXTVLCOPT:http-referrer=https://atletifan.com/fans/?id=2
+#EXTVLCOPT:http-origin=https://atletifan.com/fans/?id=2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://storage.googleapis.com/buuncaamw/mux_video_ts/index-1.m3u8
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 1 (FHD)
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 2 (FHD)
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 3 (FHD)
-https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 4 (FHD)
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Trace Sport Stars (SD)
 http://87.120.142.11:18000/Rossiya1
-#EXTINF:-1 tvg-chno="124" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Galatasaray vs Juventus 2 HD FAWA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League Galatasaray vs Juventus 2 HD FAWA
+#EXTINF:-1 tvg-chno="150" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League AS Monaco vs PSG 2 HD FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League AS Monaco vs PSG 2 HD FAWA (HD)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cfd5.cfdcdf.cfd/doopentea_m6/baygonhero19/chunks.m3u8?nimblesessionid=7918262&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI2IDU6NTE6NTUgUE0maGFzaF92YWx1ZT1wZFhNTy92clhaN25CMXNpV1ZpMERBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MCZpZD0xNzcxMzUwNzE1OTA2
-#EXTINF:-1 tvg-chno="125" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Galatasaray vs Juventus HD FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League Galatasaray vs Juventus HD FAWA (HD)
+https://livecdn-bp-nobar.maypn.stream/stream/3/chunks.m3u8?x-sign=2547f4dc355289dcf2f960a36ee02f8f&x-time=1771357740&is_vip=true&token=nobar-5d1a5f3a-d4b2-4a91-b01f-0b2286b04e0c
+#EXTINF:-1 tvg-chno="151" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League AS Monaco vs PSG 3 HD FAWA (FHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League AS Monaco vs PSG 3 HD FAWA (FHD)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pullsgp.yyzb456.top/live/stream-582352_lhd.m3u8
-#EXTINF:-1 tvg-chno="122" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Galatasaray vs Juventus iSTRMEAST" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League Galatasaray vs Juventus iSTRMEAST
+https://cfd5.cfdcdf.cfd/doopentea_m1/beinsporthd3_480p/chunks.m3u8?nimblesessionid=7930840&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI2IDg6MDM6MjYgUE0maGFzaF92YWx1ZT1hVStLTllER2djTGlEN3Nyd2JkVU5BPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MCZpZD0xNzcxMzU4NjA2NDcz
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League AS Monaco vs PSG 4 HD FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League AS Monaco vs PSG 4 HD FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://dptstream.net/4929f17d-c058-4241-9462-90fba7623c0a/live/chunks.m3u8
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League AS Monaco vs PSG HD FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League AS Monaco vs PSG HD FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pullsgp.yyzb456.top/live/stream-534857_lhd.m3u8
+#EXTINF:-1 tvg-chno="155" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League AS Monaco vs Paris SaintGermain iSTRMEAST" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League AS Monaco vs Paris SaintGermain iSTRMEAST
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pfl4.ascendastro.space/playlist/45329/load-playlist
+https://red6.lumenglide.shop/playlist/45330/load-playlist
+#EXTINF:-1 tvg-chno="160" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Benfica vs Real Madrid 2 HD FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League Benfica vs Real Madrid 2 HD FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://livecdn-bp-nobar.maypn.stream/stream/25/chunks.m3u8?x-sign=0e082251578f199f716dbf1f8644c525&x-time=1771357620&is_vip=true&token=nobar-5d1a5f3a-d4b2-4a91-b01f-0b2286b04e0c
+#EXTINF:-1 tvg-chno="161" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Benfica vs Real Madrid 3 HD FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League Benfica vs Real Madrid 3 HD FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://dptstream.net/581840f6-85af-4626-8864-f276b0697b11/live/chunks.m3u8?nimblesessionid=14237522
+#EXTINF:-1 tvg-chno="162" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Benfica vs Real Madrid 4 HD FAWA (FHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League Benfica vs Real Madrid 4 HD FAWA (FHD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cfd5.cfdcdf.cfd/doopentea_m1/beinsport1_480p/chunks.m3u8?nimblesessionid=7943322&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI2IDg6Mjk6NTUgUE0maGFzaF92YWx1ZT1TODBtWWR2alBVMWRadGwvNlRTemV3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MCZpZD0xNzcxMzYwMTk1MDI1
+#EXTINF:-1 tvg-chno="167" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Borussia Dortmund vs Atalanta 2 HD FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League Borussia Dortmund vs Atalanta 2 HD FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://livecdn-bp-nobar.maypn.stream/stream/24/chunks.m3u8?x-sign=9f873b88771cc1f9012e2cb23bce0ee8&x-time=1771357620&is_vip=true&token=nobar-5d1a5f3a-d4b2-4a91-b01f-0b2286b04e0c
+#EXTINF:-1 tvg-chno="168" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Borussia Dortmund vs Atalanta 3 HD FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League Borussia Dortmund vs Atalanta 3 HD FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://dptstream.net/c512a943-308f-45bd-a552-96f4d2f564fc/live/chunks.m3u8
+#EXTINF:-1 tvg-chno="163" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Borussia Dortmund vs Atalanta FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",UEFA Champions League Borussia Dortmund vs Atalanta FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pullsgp.yyzb456.top/live/stream-765648_lhd.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",viju Sport (SD)
 http://178.134.1.158:8081/viasatsport/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Беларусь 5 Интернет
@@ -443,7 +496,7 @@ https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tra
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",Channel Trace Urban (SD)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",Channel True Series (HD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",Channel True Series (SD)
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",Channel WWE (HD)
 http://Supersonictv.live:8080/live/006779/439866/22185.m3u8
@@ -476,82 +529,78 @@ https://live5.msrktz.app/live/97312754.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/LogoASMonacoFC2021.svg",03h00 18/02 Monaco vs Paris Saint Germain (Hội Quán) FULL HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1771363055-0-0-1a11bc4ae4fddcec7d379628b1de82a6
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1771366295-0-0-5ce5555b98b75ab4750d07102396dfb7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1771363055-0-0-6765ca66acc6d76ad50af8c49c8755c0
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1771366295-0-0-1793270ee51748c02f0715e257cdc222
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1771363055-0-0-29740b2954d6190080a88965465637d8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1771366295-0-0-dd82e158ddc078bc8051747ae04a467f
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1771363055-0-0-b9f46ca1c190230d129cb9caaac74ff8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1771366295-0-0-51150e1521d8ec4b996836a40448e4e0
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV ENZO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1771363775-0-0-456221045c5dd8981233c97795381a37
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1771367015-0-0-991617cf12cdb8496e8b824d2b08494f
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV ENZO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1771363775-0-0-6be1f23592b469d5c46c7a87e43e7584
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1771367015-0-0-28626f31770e09a33ea24b9bd5155f07
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV ENZO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1771363775-0-0-5c77815e37a8c2105eb19ce01847c155
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1771367015-0-0-7e858e19b0ce2ae6c23acb2b97a2adf2
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV ENZO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1771363775-0-0-36bd1c4f7030a568670d35f1de63adf8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1771367015-0-0-effdca737701f8613315bff8fb563636
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1771363775-0-0-c654180b271e36c87bb39dce098f4377
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1771367015-0-0-70ba5fa595da836380f21b7f199975f3
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1771363775-0-0-aab969fc3d7a3f03ba5e522c6db83ea4
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1771367015-0-0-6538e2b1111b0f63d43d094a70017ca9
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1771363775-0-0-00c7a3238b024affbddb95e85dc41e0f
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1771367015-0-0-c13558770a6298705abaad30b2c2484f
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1771363775-0-0-fca5580bfd3b3fd1d1d63970e6adf23d
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1771367015-0-0-d97bb5952cc3b48ad77f44bdc97c657e
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1771363055-0-0-f1ee558240e328c37fd96b81c6223cfd
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1771366295-0-0-3394964871ca8c7f67e828b586e1eb66
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1771363055-0-0-56b81d87fa1d58dd31818b2ef6603ee9
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1771366295-0-0-3a5d3717ee8130fcc912fbc4917fe831
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1771363055-0-0-ac374e04bb524af8b2550e71a950557e
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1771366295-0-0-f89a62d12fab5e1f892031736e7f0537
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1771363055-0-0-ee22f1ccdb1ef0dbf64428e596e6b96e
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1771366295-0-0-f1e17a241872cc8ec8a5cf4e17516800
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV SINGER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771363055-0-0-61bc516358680f6eeaa9979626714cf6
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1771366295-0-0-2b70de391b2d73a6290c0316242d59f1
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV SINGER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771363055-0-0-2212a7a40d35fba49b4d509ac8be2721
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1771366295-0-0-8f2e380f37ac2ac66ffa323e30cc19a1
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV SINGER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771363055-0-0-32d43ff8819a9dab15dedc68eff86887
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1771366295-0-0-1011440393ab2709cd0fb691a64b6744
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV SINGER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771363055-0-0-3e91320bc585aabb931d15c27310dc5e
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1771366295-0-0-fce329733dc3b9cb28b3b5556ece1dcc
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV VODKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1771363055-0-0-5f2cce4f94a1b0112129c5116563223f
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1771366295-0-0-c1bfe28703fb6907b84fca648e321443
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV VODKA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1771363055-0-0-b22fa202a8992510cd48de6816889ded
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1771366295-0-0-424bdcf1ebf4cd955ad0a358e4105ee1
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV VODKA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1771363055-0-0-5e3bbf689e223445791cfee403584767
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1771366295-0-0-57ef7390a744fdb5d64daed5126b9791
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/88f49359149d15535bf41f02fdc7ed88.png",03h00 ngày 18/02 AS Monaco vs Paris Saint Germain [BLV VODKA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1771363055-0-0-90fc32a84c5ac7f5693a5df66c344995
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1771366295-0-0-23b21861164b1d9c4fe40969c883867e
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125615_d2992d75.png",03h00 ngày 18/02 Benfica vs Real Madrid (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -563,11 +612,11 @@ https://cyber.chuoichien.tv/manze/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125615_d2992d75.png",03h00 ngày 18/02 Benfica vs Real Madrid (Chuối Chiên) HD4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze.flv
+https://cyber.chuoichien.tv/chuoidoo.flv
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125615_d2992d75.png",03h00 ngày 18/02 Benfica vs Real Madrid (Chuối Chiên) HD4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoidoo.flv
+https://cyber.chuoichien.tv/manze.flv
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125615_d2992d75.png",03h00 ngày 18/02 Benfica vs Real Madrid (Chuối Chiên) SD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -610,76 +659,76 @@ https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec7
 https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=4758310aa20b27e06c58e70379073cd8&txTime=6995240f
+https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=77a19ffac14d016f7880eb872feeba53&txTime=699530b7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=8e5a70030bcfef269303570bba51749d&txTime=6995240f
+https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=d47117c80bce76c922a2dc490b6d598b&txTime=699530b7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=8e5a70030bcfef269303570bba51749d&txTime=6995240f
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=d47117c80bce76c922a2dc490b6d598b&txTime=699530b7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=4758310aa20b27e06c58e70379073cd8&txTime=6995240f
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=77a19ffac14d016f7880eb872feeba53&txTime=699530b7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1771363415-0-0-0b38e1acbc42991d07f02d7d40683831
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1771366655-0-0-711e6a55c91205db8874f804c395ff8f
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV DECO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1771363415-0-0-70543dc7841ac4f278cee021a5cba6c9
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1771366655-0-0-f39b07763a9b99787f145842190d37ef
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV DECO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1771363415-0-0-2d12727a118d98a75de79802993a445e
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1771366655-0-0-3a80bc3d0e6822ced8cbd56f1377afc3
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV DECO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1771363415-0-0-05345b311889f78480e8a44f169c061c
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1771366655-0-0-f802cc69303036b6d2047925f5934460
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1771363415-0-0-02fd3f3ab4c26b93e4e5d4ae85bb798e
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1771366655-0-0-324467ba80920722d49903a8d2cb96f0
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1771363415-0-0-7afb094996d2fdf7d9129b9a54dbdc23
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1771366655-0-0-eb068c1a8227510cff171b3e503642af
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1771363415-0-0-99c1ba0032efc77fa1d2c3b1296f31f7
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1771366655-0-0-1dd31159f40eb327b69b0dfcd1608b9d
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1771363415-0-0-5f5ea6fd3105bca7797c1655523670a8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1771366655-0-0-e286cc6a2da94dd8a74b027ad15ff2e5
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1771363055-0-0-f8660655dfc3f7fe4195610f423940d9
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1771366295-0-0-15e47a640df753ff84dcaf0e6bc13eec
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1771363055-0-0-f71fd3d9270e6880850da445ec4668b2
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1771366295-0-0-3979dfb29a2702ec0a2abecabedad1d7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1771363055-0-0-f43d82eb1352ea6e900958b0b4d34a4a
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1771366295-0-0-66d3a59b4e8838dee6d442c4ce458e99
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1771363055-0-0-55f9504c0dfe48efd44ba6d6c3193271
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1771366295-0-0-7509174d83fe67459191b713908a511f
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771363055-0-0-7f690fae272fda24b39dfdd351c7e2af
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771366295-0-0-c21aa192c6d7daa38eded389dd614df7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1771363055-0-0-04e392377730c042d0c636ae00174315
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1771366295-0-0-dafb88054f7c54a65c5ca4a1671bb77d
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1771363055-0-0-cb0197dddaca2bf4b0f96b3afc2be289
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1771366295-0-0-07afa1a88a078783164efa861afe219e
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1771363055-0-0-94d24861f4699de408b8814eb4734f55
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1771366295-0-0-ddb4f8d217b59e2182d91434d9efb99e
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1771363415-0-0-3d7e4a332f007dbd7067c70a061b18ae
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1771366655-0-0-3105b01f24038245ddb292aa03fb076d
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1771363415-0-0-7f487733734ce9829c0db7207907e02d
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1771366655-0-0-cc0cb3803b65678a9a08ecf7684f75f2
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1771363415-0-0-613dca1b86b721fb36fb11b652997162
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1771366655-0-0-b8f0d246102fec78f0d851f28ab71b0c
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/2e108c58466a3afe90e91ba876e19d43.png",03h00 ngày 18/02 Benfica vs Real Madrid [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1771363415-0-0-7a314dd6f4ee58dcfabb9ce1de57b036
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1771366655-0-0-481fcc4bc9b5679747b05fc22ed0e0ba
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125555_332e69fe.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -696,110 +745,94 @@ https://stream.chuoichien.tv/chuoitong/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitong.flv
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV LEO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV LEO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV NGŨ CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV NGŨ CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV TẦN CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV TẦN CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1771363775-0-0-36370d47438415536dcc90bd380db94c
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1771367015-0-0-4ca973046f93ff67337593ed00fec3a6
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1771363775-0-0-bc522634d328e13af9d86189b7afe2ab
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1771367015-0-0-dba01aa2f3242516dbf920ee8c44e495
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1771363775-0-0-e16ed2968715069051ecd8c1accb571a
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1771367015-0-0-c4927c0b9c44f8f9b0a161a1fad50104
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1771363775-0-0-67ed378fcb4498d935d4f7d541d116fc
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1771367015-0-0-25b1cd256650fef726baacb740a30399
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV LUCAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lsd.flv?txSecret=4bdd08b91477d4cf0f31e36df3a8195d&txTime=6995213f
+https://pull.niur.live/live/stream-304148_lsd.flv?txSecret=7df8f3435d3f222d43b3ef19a5676064&txTime=69952de7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV LUCAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lhd.flv?txSecret=bb6e345d34426dedbf298f95567fc9c8&txTime=6995213f
+https://pull.niur.live/live/stream-304148_lhd.flv?txSecret=24bd0cff3b448c773699f1b23fe8b6dc&txTime=69952de7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV LUCAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=bb6e345d34426dedbf298f95567fc9c8&txTime=6995213f
+https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=24bd0cff3b448c773699f1b23fe8b6dc&txTime=69952de7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV LUCAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=4bdd08b91477d4cf0f31e36df3a8195d&txTime=6995213f
+https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=7df8f3435d3f222d43b3ef19a5676064&txTime=69952de7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1771363055-0-0-b0847f9c4971b10e873c25d50cbdde27
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1771366295-0-0-6c925286d69fc6270cf2d39a0e2de512
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV TOMIA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1771363055-0-0-8870d5e98ccab817a3eb6286bfc8609c
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1771366295-0-0-a82561fc3e50f34bafdabeb224da9a32
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1771363055-0-0-1df90c62a4b73a3035e0191a1dc3c045
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1771366295-0-0-f7378d240763af9787fe562e753bd6ec
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV TOMIA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1771363055-0-0-5836454428424a9829b654a1637ed492
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1771366295-0-0-9864efff6a2c811b90cace606ba56032
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV WUKONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1771363775-0-0-7b89acd4916471d7833ee05c9ea04592
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1771367015-0-0-b0b713790d52805dfbcd32148bdb25f5
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV WUKONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1771363775-0-0-489378d6d911cc6a1015a4a87fc410cf
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1771367015-0-0-38e8b6be5b58db3b1f3d3772a780b8f3
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1771363775-0-0-4a2f17d875b93854531094707ebe3c1c
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1771367015-0-0-f90d5f4c8784dd56fb0aaef304fa43e6
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV WUKONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1771363775-0-0-9bfe9a6cd0b76bdc85188240442bbd39
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1771367015-0-0-655d5d2f3a44529c4bdccebb7bb98749
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV XAVI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=2b135a5710855a6bc9f2df660ce8b8a7&txTime=6995240f
+https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=b48cf0c41eddc8d29a6de388ac202e7d&txTime=699530b7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV XAVI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=f19b1c44ca49b6f253235d37c37332b8&txTime=6995240f
+https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=cfed01217f80d450b522034f58ea31e5&txTime=699530b7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV XAVI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=f19b1c44ca49b6f253235d37c37332b8&txTime=6995240f
+https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=cfed01217f80d450b522034f58ea31e5&txTime=699530b7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [BLV XAVI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=2b135a5710855a6bc9f2df660ce8b8a7&txTime=6995240f
+https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=b48cf0c41eddc8d29a6de388ac202e7d&txTime=699530b7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [SÙNG A MÚP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1771363775-0-0-176d010d30c63e1995b0f1d443ce1599
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1771367015-0-0-f4a7513e1ea1902a3c4a0d8ad077da84
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [SÙNG A MÚP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1771363775-0-0-1f41643b948d80a2ee251dc1c62593a7
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1771367015-0-0-34c5da3d8a86892f6fecd43a496d28d8
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [SÙNG A MÚP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771363775-0-0-39782e604b377dfe8167a1e5a92f4880
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771367015-0-0-36febed2c40ef5b8936b1aab71e39b3a
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260215/663d9f0c5ad4179de0e87ca88f5e209e.png",03h00 ngày 18/02 Borussia Dortmund vs Atalanta [SÙNG A MÚP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771363775-0-0-b5fbf1917d5e61ce16060df68ea78261
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771367015-0-0-fd6a67b9bc59f6edd9b0b7f494d5c865
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125514_371080d3.png",03h00 ngày 18/02 Monaco vs Paris Saint Germain (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cyber.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125514_371080d3.png",03h00 ngày 18/02 Monaco vs Paris Saint Germain (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoito.flv
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125514_371080d3.png",03h00 ngày 18/02 Monaco vs Paris Saint Germain (Chuối Chiên) SD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125514_371080d3.png",03h00 ngày 18/02 Monaco vs Paris Saint Germain (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoito.flv
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/184_16487116696.png",03h00 ngày 18/02 Monaco vs Paris Saint Germain (PSG) (Lương Sơn) BLV A TỦA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
@@ -827,6 +860,38 @@ https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d7
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://img.colatv88xd.cc/football/team/bbfacbdbe67705172c6414d7e9c21b58.png!w80",03h10 18/02 Borussia Dortmund vs Atalanta B.C.
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/90865415.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h10 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV LEO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h10 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV LEO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h10 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h10 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h10 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h10 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h10 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV TẦN CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/90_164870996363.png",03h10 ngày 18/02 Borussia Dortmund vs Atalanta (Lương Sơn) BLV TẦN CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134451_f0892f53.png",19h15 ngày 18/02 Persib Bandung vs Ratchaburi (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134451_f0892f53.png",19h15 ngày 18/02 Persib Bandung vs Ratchaburi (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp",[UEFA Champions League] 03h00 18/02 Benfica vs Real Madrid [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
@@ -854,11 +919,11 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_sd.m3u8
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp",[UEFA Champions League] 03h00 18/02 Monaco vs Paris Saint Germain [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp",[UEFA Champions League] 03h00 18/02 Monaco vs Paris Saint Germain [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp",[UEFA Champions League] 03h00 18/02 Monaco vs Paris Saint Germain [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
@@ -867,15 +932,15 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[UEFA Champions League] AS Monaco vs Paris Saint Germain lúc 03:32 ngày 18/02/2026 [HLS]
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[UEFA Champions League] AS Monaco vs Paris Saint Germain lúc 04:28 ngày 18/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6994bf82fe263_44731/index.m3u8?expire=1771960834&sign=75d571d2f89d67519a4c641a887b6dae
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[UEFA Champions League] Benfica vs Real Madrid lúc 03:32 ngày 18/02/2026 [HLS]
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[UEFA Champions League] Benfica vs Real Madrid lúc 04:28 ngày 18/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6994c55a26633_42127/index.m3u8?expire=1771962330&sign=ad6424fd1efbf1a0bd62687c3c69ff07
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[UEFA Champions League] Borussia Dortmund vs Atalanta lúc 03:32 ngày 18/02/2026 [HLS]
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[UEFA Champions League] Borussia Dortmund vs Atalanta lúc 04:28 ngày 18/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6994bc4f26633_4908/index.m3u8?expire=1771960015&sign=3780e1fb24b71a2bd8a9a1631ba7ca2b
@@ -1041,6 +1106,8 @@ http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/164158.m3u8
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/164158
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",DSPORTS 1 🇦🇷
 http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",DSPORTS 🇦🇷
 http://201.230.121.186:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Digi Sport 2 🇷🇴
@@ -1051,8 +1118,8 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161872.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",ESP - BEIN SPORTS LA LIGA (M)(720)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/161872
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Eurosport 2 🇸🇪
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294036&extension=ts&play_token=BjAOctlP2o
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Eurosport 1 🇸🇪
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294038&extension=ts&play_token=NrLWS0P6US
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Eurosport 🇭🇷
 http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png",FUBO SPORTS 1
@@ -1063,8 +1130,12 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://enz.gdplayertv.to/assets/img/logo/fox-sports-1.png",Fox Sports 1
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png",Fox Sports 1
+http://79.127.138.221:443/3368/video.m3u8?token=3d43ae750ba5e9814f074f919b8e2f60
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://enz.gdplayertv.to/assets/img/logo/fox-sports-2.png",Fox Sports 2
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png",Fox Sports 2
+http://79.127.138.221:443/3367/video.m3u8?token=5ad742b0838080b87b1ea87c1394c5f4
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",GB: Sky Sports Golf HD
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112692
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",INFOSPORT 🇫🇷
@@ -1109,14 +1180,14 @@ https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 #EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png",NBC Sports Bay Area
 http://mytvstream.net:8080/live/43761449506/smallwood/9900.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" group-title="Thể Thao" tvg-logo="https://i.imgur.com/MTgUVKx.png",NBC Sports Bay Area (720p) - 720P
+https://tvpass.org/live/nbc-sports-bay-area/hd
 #EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png",NBC Sports Boston
 http://mytvstream.net:8080/live/43761449506/smallwood/20939.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.California.SAT.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png",NBC Sports California
 http://mytvstream.net:8080/live/43761449506/smallwood/20940.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png",NBC Sports Philadelphia
 http://mytvstream.net:8080/live/43761449506/smallwood/20943.m3u8
-#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png",NBC Sports Philadelphia (720p) - 720P
-https://tvpass.org/live/nbc-sports-philadelphia/hd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN SPORT
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",OTHER-SPORT_30A Golf Kingdom
@@ -1145,15 +1216,15 @@ https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://179.60.224.196:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://190.92.10.66:4000/play/a001/index.m3u8
+http://45.5.117.57:8200/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://167.250.223.26:8085/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://190.14.10.19:16000/play/a09u/index.m3u8
+http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://181.78.109.48:9998/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://45.5.117.57:8200/play/a050/index.m3u8
+http://190.14.10.19:16000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9599
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORT 1 HD 🇨🇿
@@ -1207,9 +1278,9 @@ http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
 #EXTINF:-1 tvg-id="b2d5d52b-a280-41da-b95c-8a53bef2fc1b" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/bfb81d3b07ce417ba65ecb5132c9f7c3",Sky Sports GOLF
 https://fifabangladesh.site/?id=b2d5d52b-a280-41da-b95c-8a53bef2fc1b
 #EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
-http://supersonictv.live:8080/006779/439866/78151
-#EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
 http://supersonictv.live:8080/Bobby1/Bobby1/78151
+#EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
+http://supersonictv.live:8080/006779/439866/78151
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" group-title="Thể Thao" tvg-logo="https://i.imgur.com/RKUHQi8.png",Sky Sports Golf- HD
 https://7pal.short.gy/ssportsgf
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",SkySport Golf FHD
