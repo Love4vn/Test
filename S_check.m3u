@@ -13,7 +13,7 @@ http://213.169.39.30:5216
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 501
 https://7pal.short.gy/fox501au
-#EXTINF:-1 group-title="Selection Sport",Fox Sports 502 (FHD)
+#EXTINF:-1 group-title="Selection Sport",Fox Sports 502
 https://7pal.short.gy/fox502au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 503 (FHD)
 https://7pal.short.gy/fox503au
@@ -27,11 +27,6 @@ https://7pal.short.gy/fox506au
 https://7pal.short.gy/fox507au
 #EXTINF:-1 group-title="Selection Sport",Okko Спорт Прайм HD (FHD)
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="Live.Event.us" tvg-name="Olympic Olympic Winter Games Milano Cortina 2026 iSTRMEAST" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Olympic Olympic Winter Games Milano Cortina 2026 iSTRMEAST
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pl3.wecanfix4.space/playlist/44654/load-playlist
 #EXTINF:-1 group-title="Selection Sport",Premier Sport 1 (FHD)
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Selection Sport",Premier Sport 2 (HD)
@@ -42,7 +37,7 @@ http://195.26.83.96:7029/play/a008
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Selection Sport",Sky Sport 2 NZ
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 group-title="Selection Sport",Sky Sport 3 NZ (HD)
+#EXTINF:-1 group-title="Selection Sport",Sky Sport 3 NZ
 https://7pal.short.gy/skyspt3nz
 #EXTINF:-1 group-title="Selection Sport",Sky Sport 4 NZ
 https://7pal.short.gy/skyspt4nz
@@ -58,7 +53,7 @@ https://7pal.short.gy/tntspts1
 https://7pal.short.gy/tntspts2
 #EXTINF:-1 group-title="Selection Sport",TNT Sport 3 (FHD)
 https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="Selection Sport",TNT Sport 4 (FHD)
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 4 (HD)
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Selection Sport",Trace Sport Stars (SD)
 http://87.120.142.11:18000/Rossiya1
@@ -78,7 +73,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Selection Sport",Матч Планета (SD)
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 group-title="Selection Sport",Матч Футбол 3 (SD)
+#EXTINF:-1 group-title="Selection Sport",Матч Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Astro_HHD.png",ช่อง Astro Hua Hee Dai (HD)
 http://php.jdshipin.com/smt.php?id=Huahee
@@ -112,10 +107,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257",ช่อง J Sports 4 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง KCBSDT1 (SD)
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NFL RedZone (SD)
-https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Bay Area (SD)
+https://tvpass.org/live/nbc-sports-bay-area/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV HD (HD)
