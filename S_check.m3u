@@ -3,11 +3,6 @@
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Selection Sport",Bein Sports Xtra (SD)
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="Copa Libertadores Guaran vs Juventud CDNTV" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live Events",Copa Libertadores Guaran vs Juventud CDNTV
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge.cdn-live.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=2047b71b154af4e583b70c70b788778a195a2ea627a36fc753986365397ce845.1771536624.de693e93d7d1f4189f55c497fc141ff5.b71b0e98f8dcf888d208cd306edf7017.dd425aabbb189523a9ca77d782983c98&signature=d45132e3369c92f8aca73df5098fda9f3f233bcc461111f2c31b1b5c6f7a7ce2
 #EXTINF:-1 group-title="Selection Sport",Diema Sport
 http://213.169.39.30:5134
 #EXTINF:-1 group-title="Selection Sport",Diema Sport 2
@@ -40,7 +35,7 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 https://7pal.short.gy/fox501au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 502 (FHD)
 https://7pal.short.gy/fox502au
-#EXTINF:-1 group-title="Selection Sport",Fox Sports 503 (FHD)
+#EXTINF:-1 group-title="Selection Sport",Fox Sports 503
 https://7pal.short.gy/fox503au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 504
 https://7pal.short.gy/fox504au
@@ -103,8 +98,12 @@ https://7pal.short.gy/skyspt3nz
 https://7pal.short.gy/skyspt4nz
 #EXTINF:-1 group-title="Selection Sport",Sky Sport F1 UHD (4K)
 https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Selection Sport",Sky Sport Football (FHD)
+https://7pal.short.gy/ssportsfb
 #EXTINF:-1 group-title="Selection Sport",Sky Sport Main Event (FHD)
 https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="Selection Sport",Sky Sport News
+https://7pal.short.gy/ssportsnw
 #EXTINF:-1 tvg-chno="137" tvg-id="Soccer.Dummy.us" tvg-name="Soccer Celtic vs Stuttgart ROXIE (FHD)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",Soccer Celtic vs Stuttgart ROXIE (FHD)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
@@ -117,9 +116,11 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt.m3u8
 https://daffodil.833577.xyz/tnt5.m3u8
 #EXTINF:-1 group-title="Selection Sport",TNT Sport 1 (FHD)
 https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 2 (FHD)
+https://7pal.short.gy/tntspts2
 #EXTINF:-1 group-title="Selection Sport",TNT Sport 3 (FHD)
 https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="Selection Sport",TNT Sport 4
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 4 (FHD)
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 tvg-chno="157" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Conference League Drita vs Celje 2 FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",UEFA Conference League Drita vs Celje 2 FAWA (HD)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -202,7 +203,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Selection Sport",Матч Планета (SD)
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 group-title="Selection Sport",Матч Футбол 3 (SD)
+#EXTINF:-1 group-title="Selection Sport",Матч Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Astro_HHD.png",ช่อง Astro Hua Hee Dai (HD)
 http://php.jdshipin.com/smt.php?id=Huahee
@@ -220,6 +221,8 @@ https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887625
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",ช่อง Fighting TV Samurai (HD)
 https://nl.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง Fox Sports 2 (SD)
+https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",ช่อง Gaora Sports (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport (FHD)
@@ -236,12 +239,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257",ช่อง J Sports 4 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง KCBSDT1 (SD)
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Bay Area (SD)
-https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Philadelphia (SD)
-https://tvpass.org/live/nbc-sports-philadelphia/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV HD (HD)
@@ -290,11 +291,9 @@ https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tra
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",ช่อง Trace Urban (SD)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",ช่อง True Series (SD)
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",ช่อง True Series (HD)
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง WCBSDT1 (SD)
-https://tvpass.org/live/WCBSDT1/hd
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE (HD)
 http://Supersonictv.live:8080/live/006779/439866/22185.m3u8
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://image.makewebeasy.net/makeweb/m_720x480/JhSURmF49/BaanBaanTV/baanbaan_TV_Final.png?v=202405291424",ช่อง baanbaan TV (FHD)
 https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
