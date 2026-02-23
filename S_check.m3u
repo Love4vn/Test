@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Selection Sport",AstrakhanRU Sport HD
+#EXTINF:-1 group-title="Selection Sport",AstrakhanRU Sport HD (SD)
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Selection Sport",Bein Sports Xtra (SD)
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
@@ -11,6 +11,8 @@ http://213.169.39.30:5136
 http://213.169.39.30:5216
 #EXTINF:-1 group-title="Selection Sport",Eurosport 1 HD (FHD)
 http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="Selection Sport",Fox Sports 501
+https://7pal.short.gy/fox501au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 504
 https://7pal.short.gy/fox504au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 505
@@ -19,32 +21,37 @@ https://7pal.short.gy/fox505au
 https://7pal.short.gy/fox506au
 #EXTINF:-1 group-title="Selection Sport",Fox Sports 507
 https://7pal.short.gy/fox507au
-#EXTINF:-1 tvg-chno="13" tvg-id="Live.Event.us" tvg-name="Live Event Alavs vs Girona PAWA (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Alavs vs Girona PAWA (SD)
+#EXTINF:-1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="Live Event Alavs vs Girona PAWA (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Alavs vs Girona PAWA (SD)
 #EXTVLCOPT:http-referrer=https://pawastreams.net/alaves-vs-girona/99963/
 #EXTVLCOPT:http-origin=https://pawastreams.net/alaves-vs-girona/99963/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://lb.buzztip.site/la/index.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Baltimore Orioles  Detroit Tigers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Baltimore Orioles  Detroit Tigers TVAPP (SD)
+#EXTINF:-1 tvg-chno="15" tvg-id="Live.Event.us" tvg-name="Live Event Bologna vs Udinese PAWA (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Bologna vs Udinese PAWA (SD)
+#EXTVLCOPT:http-referrer=https://pawastreams.net/bologna-vs-udinese/99961/
+#EXTVLCOPT:http-origin=https://pawastreams.net/bologna-vs-udinese/99961/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb.buzztip.site/it/index.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Baltimore Orioles  Detroit Tigers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Baltimore Orioles  Detroit Tigers TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB23/mono.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Chicago Cubs  San Francisco Giants TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Chicago Cubs  San Francisco Giants TVAPP (SD)
+#EXTINF:-1 tvg-chno="22" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Chicago Cubs  San Francisco Giants TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Chicago Cubs  San Francisco Giants TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB15/mono.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Los Angeles Dodgers  San Diego Padres TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Los Angeles Dodgers  San Diego Padres TVAPP (SD)
+#EXTINF:-1 tvg-chno="26" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Los Angeles Dodgers  San Diego Padres TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Los Angeles Dodgers  San Diego Padres TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB12/mono.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Cleveland Cavaliers  Oklahoma City Thunder TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Cleveland Cavaliers  Oklahoma City Thunder TVAPP (SD)
+#EXTINF:-1 tvg-chno="38" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Cleveland Cavaliers  Oklahoma City Thunder TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Cleveland Cavaliers  Oklahoma City Thunder TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Orlando Magic  Los Angeles Clippers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Orlando Magic  Los Angeles Clippers TVAPP (SD)
+#EXTINF:-1 tvg-chno="42" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Orlando Magic  Los Angeles Clippers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Orlando Magic  Los Angeles Clippers TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -71,8 +78,8 @@ https://7pal.short.gy/SSF1uhd
 https://7pal.short.gy/skspmaine
 #EXTINF:-1 group-title="Selection Sport",Sky Sport News
 https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="Selection Sport",TNT Sport 2 (FHD)
-https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 4 (FHD)
+https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Selection Sport",Trace Sport Stars (SD)
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 group-title="Selection Sport",viju Sport (SD)
@@ -93,9 +100,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Selection Sport",Матч Футбол 3 (SD)
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",ช่อง Astro AEC (HD)
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",ช่อง Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmu_LiTAGHGoqvhVwtYs9SN-iOz6i3Hv929w&s",ช่อง Astro Quan Jia (HD)
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmu_LiTAGHGoqvhVwtYs9SN-iOz6i3Hv929w&s",ช่อง Astro Quan Jia
 http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง BeIN Sports XTRA (SD)
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
@@ -113,7 +120,7 @@ https://nl.utako.moe/fighting_tv/index.m3u8
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",ช่อง Gaora Sports (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport (FHD)
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport
 http://49.0.64.96:8007/HiSports
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",ช่อง Horse and Country (SD)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
@@ -127,12 +134,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257",ช่อง J Sports 4 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง KCBSDT1 (SD)
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Bay Area (SD)
 https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 group-title="Selection Sport"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NBC Sports Boston (SD)
+https://tvpass.org/live/nbc-sports-boston/hd
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="Selection Sport"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV HD (HD)
