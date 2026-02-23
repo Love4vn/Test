@@ -272,41 +272,93 @@ http://213.169.39.30:5136
 http://213.169.39.30:5216
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Eurosport 1 HD (FHD)
 http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="Live Event Alavs vs Girona PAWA (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Alavs vs Girona PAWA (SD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 503
+https://7pal.short.gy/fox503au
+#EXTINF:-1 tvg-chno="16" tvg-id="Live.Event.us" tvg-name="Live Event Alavs vs Girona PAWA (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Alavs vs Girona PAWA (SD)
 #EXTVLCOPT:http-referrer=https://pawastreams.net/alaves-vs-girona/99963/
 #EXTVLCOPT:http-origin=https://pawastreams.net/alaves-vs-girona/99963/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://lb.buzztip.site/la/index.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="Live.Event.us" tvg-name="Live Event Bologna vs Udinese PAWA (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Bologna vs Udinese PAWA (SD)
+#EXTINF:-1 tvg-chno="17" tvg-id="Live.Event.us" tvg-name="Live Event Bologna vs Udinese PAWA (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Bologna vs Udinese PAWA (SD)
 #EXTVLCOPT:http-referrer=https://pawastreams.net/bologna-vs-udinese/99961/
 #EXTVLCOPT:http-origin=https://pawastreams.net/bologna-vs-udinese/99961/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://lb.buzztip.site/it/index.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Baltimore Orioles  Detroit Tigers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Baltimore Orioles  Detroit Tigers TVAPP (SD)
+#EXTINF:-1 tvg-chno="20" tvg-id="Live.Event.us" tvg-name="Live Event Fenerbahe vs Kasmpaa PAWA (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Fenerbahe vs Kasmpaa PAWA (SD)
+#EXTVLCOPT:http-referrer=https://pawastreams.net/fenerbahce-vs-kasimpasa/99959/
+#EXTVLCOPT:http-origin=https://pawastreams.net/fenerbahce-vs-kasimpasa/99959/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb.buzztip.site/fe/index.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Arizona Diamondbacks  Cleveland Guardians TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Arizona Diamondbacks  Cleveland Guardians TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/MLB23/mono.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Chicago Cubs  San Francisco Giants TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Chicago Cubs  San Francisco Giants TVAPP (SD)
+http://origin.thetvapp.to/hls/MLB06/mono.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Athletics  San Francisco Giants TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Athletics  San Francisco Giants TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB15/mono.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Los Angeles Dodgers  San Diego Padres TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Los Angeles Dodgers  San Diego Padres TVAPP (SD)
+#EXTINF:-1 tvg-chno="29" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Atlanta Braves  Baltimore Orioles TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Atlanta Braves  Baltimore Orioles TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/MLB26/mono.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Boston Red Sox  Tampa Bay Rays TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Boston Red Sox  Tampa Bay Rays TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/MLB17/mono.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Chicago Cubs  Kansas City Royals TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Chicago Cubs  Kansas City Royals TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/MLB24/mono.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Chicago White Sox  Colorado Rockies TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Chicago White Sox  Colorado Rockies TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/MLB25/mono.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Miami Marlins  St Louis Cardinals TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Miami Marlins  St Louis Cardinals TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/MLB19/mono.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Milwaukee Brewers  San Diego Padres TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Milwaukee Brewers  San Diego Padres TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB12/mono.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Cleveland Cavaliers  Oklahoma City Thunder TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Cleveland Cavaliers  Oklahoma City Thunder TVAPP (SD)
+#EXTINF:-1 tvg-chno="47" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Minnesota Twins  Detroit Tigers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Minnesota Twins  Detroit Tigers TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Orlando Magic  Los Angeles Clippers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Orlando Magic  Los Angeles Clippers TVAPP (SD)
+http://origin.thetvapp.to/hls/MLB23/mono.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB New York Mets  Toronto Blue Jays TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB New York Mets  Toronto Blue Jays TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NBATV/mono.m3u8
+http://origin.thetvapp.to/hls/MLB04/mono.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB New York Yankees  Pittsburgh Pirates TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB New York Yankees  Pittsburgh Pirates TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/MLB16/mono.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Philadelphia Phillies  Washington Nationals TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Philadelphia Phillies  Washington Nationals TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/MLB02/mono.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Seattle Mariners  Los Angeles Dodgers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Seattle Mariners  Los Angeles Dodgers TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/MLB22/mono.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Texas Rangers  Los Angeles Angels TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Texas Rangers  Los Angeles Angels TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/MLB30/mono.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Okko Спорт Прайм HD (FHD)
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Premier Sport 1 (FHD)
@@ -315,20 +367,14 @@ https://7pal.short.gy/prsport1
 https://7pal.short.gy/prsport2
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Russian Extreme (SD)
 http://195.26.83.96:7029/play/a008
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport 3 NZ (HD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport 3 NZ
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport F1 UHD (4K)
-https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport Football (FHD)
 https://7pal.short.gy/ssportsfb
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport Main Event (HD)
 https://7pal.short.gy/skspmaine
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport News
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 1 (FHD)
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 3 (FHD)
-https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TNT Sport 2 (FHD)
+https://7pal.short.gy/tntspts2
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Trace Sport Stars (SD)
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",viju Sport (SD)
@@ -347,7 +393,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Матч Планета (SD)
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Матч Футбол 3
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Матч Футбол 3 (SD)
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Channel Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
@@ -369,7 +415,7 @@ https://nl.utako.moe/fighting_tv/index.m3u8
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",Channel Gaora Sports (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",Channel Hi Sport
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",Channel Hi Sport (FHD)
 http://49.0.64.96:8007/HiSports
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",Channel Horse and Country (SD)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
@@ -383,12 +429,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257",Channel J Sports 4 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel KCBSDT1 (SD)
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",Channel MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel NBC Sports Bay Area (SD)
-https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel NFL RedZone (SD)
-https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel NBC Sports Boston (SD)
+https://tvpass.org/live/nbc-sports-boston/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",Channel Nippon TV (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",Channel Nippon TV HD (HD)
@@ -415,7 +461,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",Channel Sportstars4
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbCvlS5dVNB4dCTucggWnoqGPorUZReTPpA&s",Channel TV Series
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbCvlS5dVNB4dCTucggWnoqGPorUZReTPpA&s",Channel TV Series (HD)
 http://49.0.64.96:8007/SERIES
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-jade.jpeg.webp",Channel TVB Jade Astro (FHD)
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
@@ -437,9 +483,9 @@ https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tra
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",Channel Trace Urban (SD)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",Channel True Series (SD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",Channel True Series (HD)
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",Channel WWE (HD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",Channel WWE
 http://Supersonictv.live:8080/live/006779/439866/22185.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://image.makewebeasy.net/makeweb/m_720x480/JhSURmF49/BaanBaanTV/baanbaan_TV_Final.png?v=202405291424",Channel baanbaan TV (FHD)
 https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
@@ -453,18 +499,39 @@ https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/VTV2HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80",00h00 24/02 Fenerbahce vs Kasimpasa
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/87547578.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Fenerbah%C3%A7e.svg",00h00 24/02 Fenerbahçe vs Kasımpaşa (Hội Quán) FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/5951_1gqbseddaft.png",00h00 ngày 24/02 Amedspor vs Belediye Vanspor (Lương Sơn) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/5951_1gqbseddaft.png",00h00 ngày 24/02 Amedspor vs Belediye Vanspor (Lương Sơn) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/5951_1gqbseddaft.png",00h00 ngày 24/02 Amedspor vs Belediye Vanspor (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/5951_1gqbseddaft.png",00h00 ngày 24/02 Amedspor vs Belediye Vanspor (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/34984_163650862329.png",00h00 ngày 24/02 Eintracht Frankfurt (W) vs SC Freiburg (W) (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/34984_163650862329.png",00h00 ngày 24/02 Eintracht Frankfurt (W) vs SC Freiburg (W) (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/34984_163650862329.png",00h00 ngày 24/02 Eintracht Frankfurt (W) vs SC Freiburg (W) (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/34984_163650862329.png",00h00 ngày 24/02 Eintracht Frankfurt (W) vs SC Freiburg (W) (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125650_26561183.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -481,6 +548,277 @@ https://stream.chuoichien.tv/chuoidoo/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoidoo.flv
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/492_1gv1ygch630.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa (Lương Sơn) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/492_1gv1ygch630.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/492_1gv1ygch630.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa (Lương Sơn) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/492_1gv1ygch630.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa (Lương Sơn) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/492_1gv1ygch630.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/492_1gv1ygch630.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/492_1gv1ygch630.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa (Lương Sơn) BLV URA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/492_1gv1ygch630.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa (Lương Sơn) BLV URA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1771872816-0-0-f545855a965ada444d087ed26c3e2b08
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1771872816-0-0-249b1833e543f3ed3275d4cfdd5385ab
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1771872816-0-0-73312398053f59f033c3045581e7a449
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1771872816-0-0-9764a067a9af967856a3a6ee02e2b5b8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1771872816-0-0-81e8c57fabd95b15f3e02b3ccf270f51
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1771872816-0-0-6749de97509bbfd3710f2410e7507514
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1771872816-0-0-ef47e57ac00487c96b61666da7704104
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1771872816-0-0-0679a70fbdf7704c8de4c5cefc44eac8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1771872816-0-0-bfe7976bd6812b18316eea3790a4bdf3
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1771872816-0-0-b098c24cc0c3fd9343a25b0da5d784fb
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1771872816-0-0-36381da569cb88fef7097349fad2f6dc
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1771872816-0-0-da90773921d99abc03603dc675432fc3
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1771872816-0-0-3da5998e8209c85358aee21f15e24a25
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1771872816-0-0-b186845f98e47896584da82984ef21bc
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1771872816-0-0-173f278f984f21cf6bd7257eaf32d581
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1771872816-0-0-966fd1863e2e2e9eab650480b2d8d126
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771872816-0-0-73f8a02b164fc82cf3b689d4db281c7f
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771872816-0-0-627d67c30cfce3f42f961694db3e2d01
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771872816-0-0-811370d831be126cc58db8cfd3e9608d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771872816-0-0-21d72bd0b6b20bfefe427bf8f74c1f5b
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=11eddaeb3637d505f4b9eb873d429b57&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=0888f4ff722f4d8de8c903b45cf458ea&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=0888f4ff722f4d8de8c903b45cf458ea&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/7cf7ae3bff32ed5754d470f8fde7ac4b.png",00h00 ngày 24/02 Fenerbahce vs Kasimpasa [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=11eddaeb3637d505f4b9eb873d429b57&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1185_1hck9fdc8k28.png",00h00 ngày 24/02 Stal Mielec vs LKS Lodz (Lương Sơn) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1185_1hck9fdc8k28.png",00h00 ngày 24/02 Stal Mielec vs LKS Lodz (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://img.colatv88xd.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80",00h30 24/02 ACF Fiorentina vs Pisa
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/88508431.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",00h30 ngày 24/02 Fiorentina vs Pisa (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",00h30 ngày 24/02 Fiorentina vs Pisa (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",00h30 ngày 24/02 Fiorentina vs Pisa (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",00h30 ngày 24/02 Fiorentina vs Pisa (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",00h30 ngày 24/02 Fiorentina vs Pisa (Lương Sơn) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",00h30 ngày 24/02 Fiorentina vs Pisa (Lương Sơn) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=91c4e1e5f73082c7b244246ea1e800cf&txTime=699ce718
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=be103749832fa8df8d0384ceedff2fa1&txTime=699ce718
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=be103749832fa8df8d0384ceedff2fa1&txTime=699ce718
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=91c4e1e5f73082c7b244246ea1e800cf&txTime=699ce718
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=8c75ed88b88f2b41dbd33d2484c25955&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=d0bd118dd539930da9176719793b74ff&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=d0bd118dd539930da9176719793b74ff&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=8c75ed88b88f2b41dbd33d2484c25955&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=d85a45e92fcf875e1c8629e1fa7896e1&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=d323065bc21f762ccda251f1c649e2ba&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=d323065bc21f762ccda251f1c649e2ba&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=d85a45e92fcf875e1c8629e1fa7896e1&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=17ac77e7f8d1138b5b4195f41c915f30&txTime=699ce5b0
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=a933e0eb779dcbb9218de6e2b9b8eb7d&txTime=699ce5b0
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=a933e0eb779dcbb9218de6e2b9b8eb7d&txTime=699ce5b0
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=17ac77e7f8d1138b5b4195f41c915f30&txTime=699ce5b0
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771872456-0-0-c0c1f58b691cd7b045bceb03bc0b28c4
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771872456-0-0-46ec1f69164f8c6a9dc311ea59ef3bbd
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771872456-0-0-19e1a80a89c7b9b7221c5f426840de86
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771872456-0-0-96bb5cc3b50e34c94a886758ec8a80a4
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [RED BULL] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1771872096-0-0-27918c335b3a9e5e32c0435a5482f931
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [RED BULL] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1771872096-0-0-407f481d7d088dcb80a9771a6764bc4b
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [RED BULL] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1771872096-0-0-c9eb03de34169eb9421d5cb8b4cd0c32
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/df2cc359b63a1af4ad3a56a96d01c338.png",00h30 ngày 24/02 Fiorentina vs Pisa [RED BULL] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1771872096-0-0-b1df5003956140c2dea093481d2acd3c
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1613px-Fcsb-logo.svg.png",01h00 24/02 FCSB vs Metaloglobus (Hội Quán) FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/78e94928f68217822fd09be0b7605282.png",01h00 ngày 24/02 Brondby IF vs Sonderjyske [BLV ADAM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=e5153ae887fe6867e81064b800f691fe&txTime=699ce718
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/78e94928f68217822fd09be0b7605282.png",01h00 ngày 24/02 Brondby IF vs Sonderjyske [BLV ADAM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=0150b414fe40e7a555e5250b458d1497&txTime=699ce718
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/78e94928f68217822fd09be0b7605282.png",01h00 ngày 24/02 Brondby IF vs Sonderjyske [BLV ADAM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=0150b414fe40e7a555e5250b458d1497&txTime=699ce718
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/78e94928f68217822fd09be0b7605282.png",01h00 ngày 24/02 Brondby IF vs Sonderjyske [BLV ADAM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=e5153ae887fe6867e81064b800f691fe&txTime=699ce718
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/78e94928f68217822fd09be0b7605282.png",01h00 ngày 24/02 Brondby IF vs Sonderjyske [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1771872096-0-0-34179ebf8c680763df9b01e3a67acc8c
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/78e94928f68217822fd09be0b7605282.png",01h00 ngày 24/02 Brondby IF vs Sonderjyske [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1771872096-0-0-a29a4bbc25090e84ee9e741f3f371e52
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/78e94928f68217822fd09be0b7605282.png",01h00 ngày 24/02 Brondby IF vs Sonderjyske [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1771872096-0-0-5c5342381ce18316c8ab9f7b2cf98f55
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/78e94928f68217822fd09be0b7605282.png",01h00 ngày 24/02 Brondby IF vs Sonderjyske [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1771872096-0-0-8bdd7a3fdfa4d7f47349d1142829408d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/97d031d9c5156c562a228eaeb72cafbc.png",01h00 ngày 24/02 FCSB vs Metaloglobus [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=18fd4fe51e799a0e4dbebee3dcdbc89f&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/97d031d9c5156c562a228eaeb72cafbc.png",01h00 ngày 24/02 FCSB vs Metaloglobus [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=55373f18ee66dfc4ac944e74ed8af924&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/97d031d9c5156c562a228eaeb72cafbc.png",01h00 ngày 24/02 FCSB vs Metaloglobus [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=55373f18ee66dfc4ac944e74ed8af924&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/97d031d9c5156c562a228eaeb72cafbc.png",01h00 ngày 24/02 FCSB vs Metaloglobus [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=18fd4fe51e799a0e4dbebee3dcdbc89f&txTime=699ce880
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/97d031d9c5156c562a228eaeb72cafbc.png",01h00 ngày 24/02 FCSB vs Metaloglobus [Lửng Mật] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1771872456-0-0-f6026ad01d05e86ac4d7c94ae88bac0c
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/97d031d9c5156c562a228eaeb72cafbc.png",01h00 ngày 24/02 FCSB vs Metaloglobus [Lửng Mật] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1771872456-0-0-093208b92611dc627b401cbc665b7c24
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/97d031d9c5156c562a228eaeb72cafbc.png",01h00 ngày 24/02 FCSB vs Metaloglobus [Lửng Mật] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1771872456-0-0-5b32d4bdd5790f3f66fb4d2463e1a094
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/97d031d9c5156c562a228eaeb72cafbc.png",01h00 ngày 24/02 FCSB vs Metaloglobus [Lửng Mật] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1771872456-0-0-96c87a34e654d2eb5f4391f154f55b87
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/4613848429c181f2ae1fea259de8aac7.png",01h00 ngày 24/02 Lechia Gdansk vs Zaglebie Lubin [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1771872816-0-0-12625eea473cc8ba9d2854f3749724c2
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/4613848429c181f2ae1fea259de8aac7.png",01h00 ngày 24/02 Lechia Gdansk vs Zaglebie Lubin [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1771872816-0-0-032264a4639e20c13cb9dc169b5203c7
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/4613848429c181f2ae1fea259de8aac7.png",01h00 ngày 24/02 Lechia Gdansk vs Zaglebie Lubin [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1771872816-0-0-542c25502a244720ad93e00df0797053
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/4613848429c181f2ae1fea259de8aac7.png",01h00 ngày 24/02 Lechia Gdansk vs Zaglebie Lubin [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1771872816-0-0-1190981c9683c6ca4ecad69577530ba2
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/4613848429c181f2ae1fea259de8aac7.png",01h00 ngày 24/02 Lechia Gdansk vs Zaglebie Lubin [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1771872096-0-0-ab5ccf9f6cb7df84a701fced667f34e4
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/4613848429c181f2ae1fea259de8aac7.png",01h00 ngày 24/02 Lechia Gdansk vs Zaglebie Lubin [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1771872096-0-0-45a28109fc96a4701eefdb0df64b17bc
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/4613848429c181f2ae1fea259de8aac7.png",01h00 ngày 24/02 Lechia Gdansk vs Zaglebie Lubin [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1771872096-0-0-635de42eac0824110a33c7851873aa1f
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/4613848429c181f2ae1fea259de8aac7.png",01h00 ngày 24/02 Lechia Gdansk vs Zaglebie Lubin [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1771872096-0-0-4362152bfd6903815f4d88c84f0bc86d
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134005_f85c2439.png",02h00 ngày 24/02 Damac vs Al-Ahli Jeddah (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -497,10 +835,6 @@ https://cyber.chuoichien.tv/chuoibay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoibay/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125603_0139810c.png",02h45 ngày 24/02 Bologna vs Udinese (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoibay.flv
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133658_a2b33348.png",04h00 ngày 24/02 Cucuta vs Deportes Tolima (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -509,18 +843,6 @@ https://cyber.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/manze/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133658_a2b33348.png",04h00 ngày 24/02 Cucuta vs Deportes Tolima (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze.flv
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.api-sports.io/football/teams/6230.png",22h00 23/02 Csikszereda vs AFC Hermannstadt (Hội Quán) FULL HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.api-sports.io/football/teams/2653.png",22h00 23/02 Javor vs Mladost Lucani (Hội Quán) FHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133920_535af99e.png",22h00 ngày 23/02 Csikszereda vs AFC Hermannstadt (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -533,254 +855,84 @@ https://stream.chuoichien.tv/chuoichon/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoichon.flv
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/26551_1h56c0xwvd2h.png",22h00 ngày 23/02 FK Csikszereda Miercurea Ciuc vs Hermannstadt (Lương Sơn) BLV TỐNG GIANG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/26551_1h56c0xwvd2h.png",22h00 ngày 23/02 FK Csikszereda Miercurea Ciuc vs Hermannstadt (Lương Sơn) BLV TỐNG GIANG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/082a14ed878be1d4c8caa5362a8880ec.png",22h00 ngày 23/02 FK Csikszereda Miercurea Ciuc vs Hermannstadt [BLV VOI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1771869216-0-0-984768df3f06745760da36c4e5935af1
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/082a14ed878be1d4c8caa5362a8880ec.png",22h00 ngày 23/02 FK Csikszereda Miercurea Ciuc vs Hermannstadt [BLV VOI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1771869216-0-0-662cb0a6e179462878b29743cbd403ce
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/082a14ed878be1d4c8caa5362a8880ec.png",22h00 ngày 23/02 FK Csikszereda Miercurea Ciuc vs Hermannstadt [BLV VOI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1771869216-0-0-59091d3740356131d837f2412b1adbb6
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/082a14ed878be1d4c8caa5362a8880ec.png",22h00 ngày 23/02 FK Csikszereda Miercurea Ciuc vs Hermannstadt [BLV VOI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1771869216-0-0-ae620fb0247f2a227bf3516a2cdfb045
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/082a14ed878be1d4c8caa5362a8880ec.png",22h00 ngày 23/02 FK Csikszereda Miercurea Ciuc vs Hermannstadt [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771868496-0-0-fa69645b2edf4f5cba35cf93f34e1a18
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/082a14ed878be1d4c8caa5362a8880ec.png",22h00 ngày 23/02 FK Csikszereda Miercurea Ciuc vs Hermannstadt [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771868496-0-0-8d08d29ab7177a917044a46ea85b347b
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/082a14ed878be1d4c8caa5362a8880ec.png",22h00 ngày 23/02 FK Csikszereda Miercurea Ciuc vs Hermannstadt [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771868496-0-0-4f8dd2077b6209a1a67e67b8ecd8261c
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/082a14ed878be1d4c8caa5362a8880ec.png",22h00 ngày 23/02 FK Csikszereda Miercurea Ciuc vs Hermannstadt [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771868496-0-0-52acf365410007e10af0b2eb808b4d3e
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.api-sports.io/football/teams/2744.png",22h15 23/02 Sepahan FC vs Esteghlal Khuzestan (Hội Quán) FULL HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1687_1heh221z7ra.png",22h15 ngày 23/02 Sepahan vs Esteghlal Khozestan (Lương Sơn) BLV TRƯƠNG THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1687_1heh221z7ra.png",22h15 ngày 23/02 Sepahan vs Esteghlal Khozestan (Lương Sơn) BLV TRƯƠNG THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1687_1heh221z7ra.png",22h15 ngày 23/02 Sepahan vs Esteghlal Khozestan (Lương Sơn) BLV TẦN CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1687_1heh221z7ra.png",22h15 ngày 23/02 Sepahan vs Esteghlal Khozestan (Lương Sơn) BLV TẦN CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PFC_Botev_Plovdiv_logo.svg/1200px-PFC_Botev_Plovdiv_logo.svg.png",23h00 23/02 Botev Plovdiv vs Ludogorets (Hội Quán) FULL HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1702_1grwfgny7w1t.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad (Lương Sơn) BLV LÝ QUỲ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1702_1grwfgny7w1t.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1702_1grwfgny7w1t.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad (Lương Sơn) BLV NGŨ CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1702_1grwfgny7w1t.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad (Lương Sơn) BLV NGŨ CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1702_1grwfgny7w1t.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad (Lương Sơn) BLV ĐOÀN DỰ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1702_1grwfgny7w1t.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad (Lương Sơn) BLV ĐOÀN DỰ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [BLV WUKONG] (Socolive) flv
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [BLV WUKONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1771868856-0-0-11b793d02b89f25a55b6b58909bd598b
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [BLV WUKONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1771872816-0-0-bdce9b1b8f74c26b9492b14e55b7703d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [BLV WUKONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1771868856-0-0-799cda4909a1577c6f3c97235da19eb1
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [BLV WUKONG] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1771872816-0-0-a53eff364191075ad6aa6aea474f5a58
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1771868856-0-0-7890de012938532ad3270cebffb9050b
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [BLV WUKONG] (Socolive) m3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1771872816-0-0-a0a72cfff7fc39a19b058d89b9929716
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [BLV WUKONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1771868856-0-0-1c429ad691e4292d845acab3c39aee6b
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [CR Bưởi] (Socolive) flv
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1771872816-0-0-bc989705edcfff65689e56f7f6998c68
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1771869216-0-0-92bf29a5414e2f0b50081dfff7cb1d7c
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [CR Bưởi] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1771872816-0-0-af03d05c6f0bf27a7fece50663e57749
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1771869216-0-0-e6be25e4d4330bbf713b9ba8370bdde8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [CR Bưởi] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1771872816-0-0-1fead0d3a729c7a01fc26f38435896c7
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1771869216-0-0-2177ef5172f6eff9ba4c6ee3d8675b00
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [CR Bưởi] (Socolive) m3u8
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1771872816-0-0-934c65a16b54589acb80ee2d2f8614f5
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1771869216-0-0-754a4e9fc135d1470fac2923c463e5fe
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1771872816-0-0-fe70a6f7168afd088a85208a3f6e5024
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1771869216-0-0-cb0564b1a2397921070a17b9842754fe
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1771872816-0-0-158810e42349f3dec800d3e7e4475018
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1771869216-0-0-a80223fce7dbf275ab6c942b28a0159b
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1771872816-0-0-078ac3f381466d8ecbb262b6728a06bb
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1771869216-0-0-fd938a4bbb76899a518cb0a50442f50b
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1771872816-0-0-6968ba94005e98ea2f6cc548a2eef0d7
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260219/ac4fa4b10df8293147cecbc8a41432fb.png",23h00 ngày 23/02 Botev Plovdiv vs Ludogorets Razgrad [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1771869216-0-0-68bfbe933fcd6c0e34214811bc89de3e
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [Đình Bắc] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1771868856-0-0-4f44df8aea4fd8b063de9ab8e8339cd2
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [Đình Bắc] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1771868856-0-0-0569ceb984fc574c60ccad99e16ebfdf
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [Đình Bắc] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1771868856-0-0-315ca4b991f84ea9c9f544677d104b34
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",BUL D1: Botev Plovdiv vs Ludogorets Razgrad [Đình Bắc] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1771868856-0-0-0dc801ea4fe23ce1c7dea27619636adf
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",RWBL: MBA Moscow W vs Novosibirsk W [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1771868496-0-0-bc0ccac16d7f9d20434a180f448b37d9
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",RWBL: MBA Moscow W vs Novosibirsk W [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1771868496-0-0-d5c40c1b39fb1a64ad5421f9d1fa9226
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",RWBL: MBA Moscow W vs Novosibirsk W [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1771868496-0-0-25b89356ed1e94bfb1db0ec5040ceb57
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",RWBL: MBA Moscow W vs Novosibirsk W [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1771868496-0-0-d207f880734664220a7bfbabdd51bddc
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1771869216-0-0-148b469ce1145be3495e96cfa9f88b50
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1771869216-0-0-9b4d6e56504eb6057c61d08755706697
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1771869216-0-0-05089415fc1106f603179077d4962c70
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1771869216-0-0-675162121e0f850c3609a9b12342bb65
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1771868856-0-0-6fd1ed06bd5e654a219ae0487caf5b68
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1771868856-0-0-4fb1f35301f85c42c679d73bbb5d48a8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1771868856-0-0-5c485dfd67974b4d102c7af6485f1319
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1771868856-0-0-61018d86c601d0d0524e772cdfa8c0d7
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1771868496-0-0-fe7160578eb06aae4ce77b2dbb1b3d2d
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1771868496-0-0-5ed19b7d069d962d7ea1a7647553228a
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1771868496-0-0-5e1f4c216564567e5b2bf44882300311
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1771868496-0-0-9c4fe7edb25f250cc1806923dfe5002b
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1771868505-0-0-c4853e96855a4a92695c26ba51b3c133
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1771868505-0-0-4b4de5879f397c703091d6e9730d6ebf
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1771868505-0-0-9da04ea1c38084a5c9e0685ad2044236
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1771868505-0-0-985780fc7738a7480c810c00949409a7
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [LOKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1771869216-0-0-ec3ccb1ad353bc1ce260c67648914127
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [LOKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1771869216-0-0-17aeaf30b45d78eb99df6b4000aeb62a
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [LOKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1771869216-0-0-7919aeed2c0a8a77ca29ca9be497a10d
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [LOKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1771869216-0-0-b0cd5ef5be648dc25e3d246a13ad8709
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=b077d8c35909677b555fa2db35b79ae8&txTime=699cd7a0
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=c213f34a15e3b6e72794c4df84afb8e0&txTime=699cd7a0
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=c213f34a15e3b6e72794c4df84afb8e0&txTime=699cd7a0
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260218/ce7d5ac52ff7a2ff1cd33846c6a90761.png",TUR D1: Fenerbahce vs Kasimpasa [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=b077d8c35909677b555fa2db35b79ae8&txTime=699cd7a0
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[AFC Futsal Championship] 22h00 23/02 Kairat Almaty vs Cartagena [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_full-hd.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[AFC Futsal Championship] 22h00 23/02 Kairat Almaty vs Cartagena [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_hd.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[AFC Futsal Championship] 22h00 23/02 Kairat Almaty vs Cartagena [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_sd.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[ATP Dubai] Felix Auger-Aliassime vs Zhang Z. lúc 23:48 ngày 23/02/2026 [HLS]
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1771872816-0-0-bda3869c71ce1d7b3faf18ff83f19b33
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[ATP Dubai] Halys Q. vs Draper J. lúc 00:51 ngày 24/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/699c643026634_4733/index.m3u8?expire=1772461744&sign=0386e786a58d8d3bf050c295832cfab8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Bulgarian First League] Botev Plovdiv vs Ludogorets Razgrad lúc 23:48 ngày 23/02/2026 [HLS]
+https://2893254555.global.cdnfastest.com/live/699c8a18fe271_4733/index.m3u8?expire=1772471448&sign=1a671482b56324035c98b011de21f27b
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Italian Serie A] Fiorentina vs Pisa lúc 00:51 ngày 24/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/699c72dffe271_133172/index.m3u8?expire=1772465503&sign=6124c0d09dca8da0ef4a8ccde9fbe591
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Iran Pro League] Sepahan vs Esteghlal Khozestan lúc 23:48 ngày 23/02/2026 [HLS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/699c6c0726634_72787/index.m3u8?expire=1772463751&sign=d25c67f08b349bc0519f58d4be95547f
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Persian Gulf Pro League] 22h00 23/02 Sepahan FC vs Esteghlal Khuzestan [FHD]
+https://2893254555.global.cdnfastest.com/live/699c81c7fe271_4439/index.m3u8?expire=1772469319&sign=ddf7011b56b02423b110872ebbb74e4c
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Serie A] 00h00 24/02 Fiorentina vs Pisa [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_full-hd.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Persian Gulf Pro League] 22h00 23/02 Sepahan FC vs Esteghlal Khuzestan [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Serie A] 00h00 24/02 Fiorentina vs Pisa [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Persian Gulf Pro League] 22h00 23/02 Sepahan FC vs Esteghlal Khuzestan [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Serie A] 00h00 24/02 Fiorentina vs Pisa [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Süper Lig] 22h00 23/02 Fenerbahçe vs Kasımpaşa [FHD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_sd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Süper Lig] 00h00 24/02 Fenerbahçe vs Kasımpaşa [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Süper Lig] 22h00 23/02 Fenerbahçe vs Kasımpaşa [HD]
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Süper Lig] 00h00 24/02 Fenerbahçe vs Kasımpaşa [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_hd.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Süper Lig] 22h00 23/02 Fenerbahçe vs Kasımpaşa [SD]
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Süper Lig] 00h00 24/02 Fenerbahçe vs Kasımpaşa [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_sd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Turkish Super League] Fenerbahce vs Kasimpasa lúc 00:51 ngày 24/02/2026 [HLS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://2893254555.global.cdnfastest.com/live/699c7fd326634_95554/index.m3u8?expire=1772468819&sign=3d88e6ae272c89fec9ef4accab19ea2b
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/51-copa-del-rey.png?q=75&w=50",02/05 Soccer 03:00pm Real Betis vs Atlético Madrid = SkySportsLaLiga (Z)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/175721.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50",02/15 Soccer 10:15am Rayo Vallecano vs Atlético Madrid = SkySportsLaLiga (Z)
@@ -975,6 +1127,8 @@ http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",CT SPORT HD 🇨🇿
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ColimdoTV.do@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/ZeUgLCa.png",ColimdoT TV (720p) (spa2)  (Spanish) (Sports) - 720P
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",DAZN Combat (eng3)  (English) (Sports)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/J2Ky5OO.png",DD Sports (720p) - 720P
@@ -998,13 +1152,11 @@ http://91.201.172.14:35006/
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",EKOL SPORTS 🇹🇷
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",ESP - BEIN SPORTS LA LIGA (M)(720)
-http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/161872
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",ESP - BEIN SPORTS LA LIGA (M)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161872.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",ESP - BEIN SPORTS LA LIGA (M)(720)
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/161872
 #EXTINF:-1 tvg-id="Equidia.fr@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/QPpbRcZ.png",Equidia (1080p) (fra1)  (French) (Sports) - 1080P
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Eurosport 1 🇸🇪
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294038&extension=ts&play_token=NrLWS0P6US
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Eurosport 🇭🇷
 http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="F1Channel.ie@US" group-title="Thể Thao" tvg-logo="https://i.imgur.com/cjXzWsI.png",F1 Channel (1080p) [Geo-blocked] (eng3)  (English) (Sports) - 1080P
@@ -1043,8 +1195,6 @@ https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/Lgux6Ik.png",Golf Channel (1080p) [Not 24/7] (eng4)  (English) (Sports) - 1080P
 https://tvpass.org/live/GolfChannel/hd
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="Thể Thao" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="HorseTV.it@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/nK4UUX4.png",Horse TV (720p) (ita1)  (Italian) (Sports) - 720P
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",INFOSPORT 🇫🇷
@@ -1085,8 +1235,6 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn" group-title="Thể Thao",MNB Sport
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1 tvg-id="MSG.us@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/SEQFh0P.png",MSG (1080p) [Not 24/7] (eng5)  (English) (Sports) - 1080P
-https://tvpass.org/live/msg-madison-square-gardens/hd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",MTR Sports-1 🇬🇧
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV.it@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/47X44DD.png",MadeinBO TV (1080p) (ita1)  (Italian) (Sports) - 1080P
@@ -1101,6 +1249,8 @@ https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de" group-title="Thể Thao" tvg-logo="https://i.imgur.com/SLrjImc.png",More Than Sports TV (1080p) - 1080P
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="MultivisionSports.gt" group-title="Thể Thao" tvg-logo="https://i.imgur.com/wLjSSo2.jpg",Multivisión Sports (720p) [Not 24/7] - 720P
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA TV (1080p) [Geo-blocked] (eng6)  (English) (Sports) - 1080P
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATVCanada.ca@SD" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png",NBA TV Canada (1080p) (eng6)  (English) (Sports) - 1080P
@@ -1177,15 +1327,15 @@ https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SCTV 22 - SSPORT 1 🇻🇳
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://45.5.117.57:8200/play/a050/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://179.60.224.196:8000/play/a0i7/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://45.5.117.57:8200/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://190.14.10.19:16000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://181.78.109.48:9998/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://190.14.10.19:16000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://167.250.223.26:8085/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
@@ -1243,9 +1393,9 @@ http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
 #EXTINF:-1 tvg-id="b2d5d52b-a280-41da-b95c-8a53bef2fc1b" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/bfb81d3b07ce417ba65ecb5132c9f7c3",Sky Sports GOLF
 https://fifabangladesh.site/?id=b2d5d52b-a280-41da-b95c-8a53bef2fc1b
 #EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
-http://supersonictv.live:8080/006779/439866/78151
-#EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
 http://supersonictv.live:8080/Bobby1/Bobby1/78151
+#EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
+http://supersonictv.live:8080/006779/439866/78151
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",SkySport Golf FHD
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/107882
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",SkySports Golf
@@ -1314,6 +1464,8 @@ https://tvpass.org/live/tsn1/hd
 https://tvpass.org/live/tsn2/hd
 #EXTINF:-1 tvg-id="TVPSport.pl@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/JUZDOCO.png",TVP Sport (1080p) (pol1)  (Polish) (Sports) - 1080P
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="TVRSport.ro@SD" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/320px-TVR_Sport_Logo_2023.svg.png",TVR Sport (ron1)  (Romanian) (General) (Sports)
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png",TVRI Sport (720p) - 720P
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-id="TVSBowlingNetwork.us@SD" group-title="Thể Thao" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",TVS Bowling Network (720p) (eng8)  (English) (Sports) - 720P
@@ -1358,14 +1510,12 @@ http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/108607
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg",V SPORT GOLF HD (SD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/113865
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Vsport 2 🇸🇪
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294045&extension=ts&play_token=IePOQAQFek
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Vsport Extra 🇸🇪
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294058&extension=ts&play_token=XLhm4jy6Q6
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Vsport Football 🇸🇪
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294068&extension=ts&play_token=X7FgSJ9YKe
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Vsport 3 🇸🇪
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294039&extension=ts&play_token=mhow2fBWnl
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Vsport Golf 🇸🇪
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294066&extension=ts&play_token=1V0qv2EB94
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Vsport Motor 🇸🇪
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294062&extension=ts&play_token=HKSdQsGCnY
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",WIN SPORT 🇨🇴
 http://181.205.205.173:8888/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",WIN SPORT 🇨🇴
