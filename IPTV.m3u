@@ -427,7 +427,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 https://streams2.sofast.tv/ptnr-yupptv/title-adventuresportstv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/dbac0562-cc83-4443-a546-44c04912102a/manifest.m3u8?hdnts=st%3D1769558011~exp%3D1769579611~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-adventuresportstv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fdbac0562-cc83-4443-a546-44c04912102a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_292_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_292_-1~hmac%3D9696120bc087fbdef152080e7e85d4de6dffa9f0b36abc97667a6eab06827145
 #EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD"tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png"group-title="🎯🔔|Selection Sport|🔔🎯",Afarin Baxcha 1080p (FHD)
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="AfraSeries.ir@SD"tvg-logo="https://i.postimg.cc/g0mb09vM/afra-series.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",Afra Series (HD)
+#EXTINF:-1 tvg-id="AfraSeries.ir@SD"tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Afra Series (HD)
 https://afrashls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Africa24Sport.fr@SD"tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1"group-title="🎯🔔|Selection Sport|🔔🎯",Africa 24 Sport 1080p (FHD)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
@@ -435,11 +435,11 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 https://amg02188-jungotv-amg02188c2-vizio-us-5631.playouts.now.amagi.tv/playlist/amg02188-jungotv-awsn-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDM4ODUxNTA4N30
 #EXTINF:-1 tvg-id="altitude-sports-denver"tvg-name="Altitude Sports Denver (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Altitude Sports Denver (SD)
 https://tvpass.org/live/altitude-sports-denver/sd
-#EXTINF:-1 tvg-id="AnixeHDSerie.de@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/512px-Anixe_HD.svg.png"group-title="🎯🔔|Selection Sport|🔔🎯",Anixe HD Serie 360p (SD)
+#EXTINF:-1 tvg-id="AnixeHDSerie.de@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/960px-Anixe_HD.svg.png"group-title="🎯🔔|Selection Sport|🔔🎯",Anixe HD Serie 360p (SD)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://lo1.in/exyu/arensp1.png"group-title="🎯🔔|Selection Sport|🔔🎯",Arena Sport 1 (HD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://lo1.in/exyu/arensp1.png"group-title="🎯🔔|Selection Sport|🔔🎯",Arena Sport 1
 https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Arena Sport 2
+#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Arena Sport 2 (HD)
 https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",AstrakhanRU Sport HD (SD)
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
@@ -489,11 +489,16 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 http://107.175.220.4:11799/Bolaarena2/playlist.m3u8
 #EXTINF:-1 tvg-logo="4️⃣🇰 🇺 🇭 🇩"group-title="🎯🔔|Selection Sport|🔔🎯",BUNDESLIGA 2 (SD)
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
-#EXTINF:-1 tvg-chno="15" tvg-id="Basketball.Dummy.us" tvg-name="Basketball Euroleague Monaco vs Olympiacos 2 FAWA" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live Events",Basketball Euroleague Monaco vs Olympiacos 2 FAWA
+#EXTINF:-1 tvg-chno="14" tvg-id="Basketball.Dummy.us" tvg-name="Basketball Euroleague Bayern Munchen vs Anadolu Efes 2 FAWA" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live Events",Basketball Euroleague Bayern Munchen vs Anadolu Efes 2 FAWA
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pullsgp.yyzb456.top/live/stream-239803_lhd.m3u8
+https://pullsgp.yyzb456.top/live/stream-568588_lhd.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="Basketball.Dummy.us" tvg-name="Basketball Euroleague Panathinaikos vs Zalgiris Kaunas 2 FAWA (FHD)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live Events",Basketball Euroleague Panathinaikos vs Zalgiris Kaunas 2 FAWA (FHD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://sgpull.ysnqngh.cn/live/ecee492d70c646fe9776821962181521.m3u8?txSecret=7a640730b687a6313b1313d6e09828e9&txTime=69B5B5E6
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 6
 http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Bein Sports Xtra (SD)
@@ -610,6 +615,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 #EXTINF:-1 channel-id="USAJ3504545A"tvg-id="USAJ3504545A"tvg-chno="2550"tvg-name="Cars (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20241112T000610SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",Cars (SD)
 https://jmp2.uk/stvp-USAJ3504545A
+#EXTINF:-1 tvg-id="chicago-sports-network"tvg-name="Chicago Sports Network (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Chicago Sports Network (SD)
+https://tvpass.org/live/chicago-sports-network/sd
 #EXTINF:-1 tvg-id="CinePremiere.us@SD"tvg-logo="https://i.imgur.com/PdhWTO6.png"group-title="🎯🔔|Selection Sport|🔔🎯",Cine Premiere 720p (SD)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 channel-id="US4600006R8"tvg-id="US4600006R8"tvg-chno="2356"tvg-name="Combate Global MMA (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20250421T234910SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",Combate Global MMA (SD)
@@ -620,6 +627,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://jmp2.uk/stvp-US4600010KE
 #EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png"group-title="🎯🔔|Selection Sport|🔔🎯",DSPORTS FIGHT (SD)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+#EXTINF:-1 tvg-chno="31" tvg-id="Live.Event.us" tvg-name="Darts Darts Premier League 2 FAWA (HD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Darts Darts Premier League 2 FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://livecdn-bp-nobar.maypn.stream/stream/31/chunks.m3u8?x-sign=66e53bfb48c437e6f399fd138625ce55&x-time=1773346860&is_vip=true&token=nobar-c749443d-98d0-4a89-b5a3-337379e22304
 #EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Dazn Ringside (SD)
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Dazn laliga hypermotion 1 (SD)
@@ -660,44 +672,42 @@ http://dragon1977.com:80/047306b75f/b5a06cc482d6/891518
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/891517
 #EXTINF:-1 tvg-chno="48"tvg-id="ESPNU.HD.us2"tvg-name="ESPN U (HD)"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png"group-title="🎯🔔|Selection Sport|🔔🎯",ESPN U (HD)
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="espn-u"tvg-name="ESPN U (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",ESPN U (SD)
-https://tvpass.org/live/ESPNU/sd
 #EXTINF:-1 channel-id="US34000040T"tvg-id="US34000040T"tvg-chno="2340"tvg-name="ESPN8 The Ocho (HD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US34000040T_20251021T192153SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",ESPN8 The Ocho (HD)
 https://jmp2.uk/stvp-US34000040T
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport1.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",EUROSPORT 1 (FHD)
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",EUROSPORT 2
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",EUROSPORT 2 (FHD)
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="Eurosport 2"tvg-name="Eurosport 2"tvg-logo="https://mimipipi22.github.io/logo/sports/eurosports.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",EUROSPORT 2
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561705/index.mpd
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Euro Sport 2 HD
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Euro Sport 2 HD (FHD)
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Euro Sport HD (HD)
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 tvg-id="258468998307"tvg-name="Euro Sport HD (HD)"tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png"group-title="🎯🔔|Selection Sport|🔔🎯",Euro Sport HD (HD)
+#EXTINF:-1 tvg-id="258468998307"tvg-name="Euro Sport HD"tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png"group-title="🎯🔔|Selection Sport|🔔🎯",Euro Sport HD
 https://sm-monirul.top/Toffee/live.php?id=258468998307&e=.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD"tvg-logo="https://i.imgur.com/8t9mdg9.png"group-title="🎯🔔|Selection Sport|🔔🎯",Euronews Portuguese 720p (SD)
 https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-id="Live.Event.us" tvg-name="Europa Conference League Rayo Vallecano vs Samsunspor STRMHUB (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Europa Conference League Rayo Vallecano vs Samsunspor STRMHUB (SD)
+#EXTINF:-1 tvg-chno="43" tvg-id="Live.Event.us" tvg-name="Europa Conference League AEK Athens vs NK Celje STRMHUB (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Europa Conference League AEK Athens vs NK Celje STRMHUB (SD)
 #EXTVLCOPT:http-referrer=https://storytrench.net/
 #EXTVLCOPT:http-origin=https://storytrench.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://smarthard.click/hls/T8PPfLuC68iO/index.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-id="Live.Event.us" tvg-name="Europa Conference League Shakhtar Donetsk vs Lech Poznan STRMHUB (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Europa Conference League Shakhtar Donetsk vs Lech Poznan STRMHUB (SD)
+https://smarthard.click/hls/YKidUGTnva9I/index.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="Live.Event.us" tvg-name="Europa Conference League AEK Larnaca vs Crystal Palace STRMHUB (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Europa Conference League AEK Larnaca vs Crystal Palace STRMHUB (SD)
+#EXTVLCOPT:http-referrer=https://storytrench.net/
+#EXTVLCOPT:http-origin=https://storytrench.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://smarthard.click/hls/0Wm95aOWfZf5/index.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="Live.Event.us" tvg-name="Europa Conference League Mainz vs Sigma Olomouc STRMHUB (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Europa Conference League Mainz vs Sigma Olomouc STRMHUB (SD)
+#EXTVLCOPT:http-referrer=https://storytrench.net/
+#EXTVLCOPT:http-origin=https://storytrench.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://smarthard.click/hls/L7Tc05o1sLD/index.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-id="Live.Event.us" tvg-name="Europa Conference League Rakw Czestochowa vs Fiorentina STRMHUB (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Europa Conference League Rakw Czestochowa vs Fiorentina STRMHUB (SD)
 #EXTVLCOPT:http-referrer=https://storytrench.net/
 #EXTVLCOPT:http-origin=https://storytrench.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://smarthard.click/hls/OtAyhi4SDYAt/index.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="Live.Event.us" tvg-name="Europa Conference League Sparta Prague vs AZ Alkmaar STRMHUB (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Europa Conference League Sparta Prague vs AZ Alkmaar STRMHUB (SD)
-#EXTVLCOPT:http-referrer=https://storytrench.net/
-#EXTVLCOPT:http-origin=https://storytrench.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://smarthard.click/hls/yoFUOhoEkh/index.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="Live.Event.us" tvg-name="Europa Conference League Strasbourg vs Rijeka STRMHUB (SD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Europa Conference League Strasbourg vs Rijeka STRMHUB (SD)
-#EXTVLCOPT:http-referrer=https://storytrench.net/
-#EXTVLCOPT:http-origin=https://storytrench.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://smarthard.click/hls/lh4OJ125RSMp/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png",Eurosport 1
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Eurosport 1 HD (FHD)
@@ -714,8 +724,6 @@ https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 #EXTINF:-1 tvg-id="Fight.Sports.id"tvg-name="Fight Sports"tvg-logo="https://mimipipi22.github.io/logo/sports/fightsports.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",FIGHT SPORTS (SD)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-#EXTINF:-1 tvg-id=""group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png?w=272",FIGHT SPORTS HD
-https://012v4.goiptv.us.ci/stream/starhub/fightsportshd/
 #EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://mimipipi22.github.io/logo/sports/fighttv.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",FIGHT TV PREMIUM (HD)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 #EXTINF:-1 tvg-id="Football.TV.id"tvg-name=""tvg-logo="https://mimipipi22.github.io/logo/sports/footballtv.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",FOOTBALL TV (HD)
@@ -748,14 +756,14 @@ https://9e7ec74c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 https://dbrb49pjoymg4.cloudfront.net/10001/99951266/hls/playlist.m3u8?ads.xumo_channelId=99951266&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=FanDuelTV&ads.csid=xumo_[PLATFORM]_FanDuelTV_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3971&ads.xumo_contentName=FanDuelTV&ads.xumo_providerId=3971&ads.xumo_providerName=FanDuelTV&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951266&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 channel-id="US1400012RF"tvg-id="US1400012RF"tvg-chno="2344"tvg-name="FanDuel TV Extra (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400012RF_20250318T021027SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",FanDuel TV Extra (SD)
 https://jmp2.uk/stvp-US1400012RF
-#EXTINF:-1 tvg-id="fanduel-sports-indiana"tvg-name="Fanduel Sports Indiana (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Fanduel Sports Indiana (SD)
-https://tvpass.org/live/fanduel-sports-indiana/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd"tvg-name="Fanduel Sports Network Detroit (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Fanduel Sports Network Detroit (SD)
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida"tvg-name="Fanduel Sports Network Florida (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Fanduel Sports Network Florida (SD)
+https://tvpass.org/live/fanduel-sports-network-florida/sd
 #EXTINF:-1 tvg-id="fanduel-sports-network-north"tvg-name="Fanduel Sports Network North (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Fanduel Sports Network North (SD)
 https://tvpass.org/live/fanduel-sports-network-north/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin"tvg-name="Fanduel Sports Network Wisconsin (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Fanduel Sports Network Wisconsin (SD)
-https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
-#EXTINF:-1 tvg-id="bally-sports-sun"tvg-name="Fanduel Sports Sun (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Fanduel Sports Sun (SD)
-https://tvpass.org/live/fanduel-sports-sun/sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina"tvg-name="Fanduel Sports Southeast South Carolina"group-title="🎯🔔|Selection Sport|🔔🎯",Fanduel Sports Southeast South Carolina
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
 #EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Fanduel TV (SD)
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex.m3u8
 #EXTINF:-1 tvg-name="Fight (SD)"tvg-logo="https://images.iptvmate.net/tvglogo/18af9e8bc3788c4e4164c35729cd8533.png"group-title="🎯🔔|Selection Sport|🔔🎯",Fight (SD)
@@ -768,14 +776,16 @@ https://a3569457567-s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
 #EXTINF:-1 channel-id="US600011Q2"tvg-id="US600011Q2"tvg-chno="2510"tvg-name="Formula 1 Channel (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US600011Q2_20241112T001019SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",Formula 1 Channel (SD)
 https://jmp2.uk/stvp-US600011Q2
-#EXTINF:-1 tvg-id="Formula.ge@SD"tvg-logo="https://i.postimg.cc/bwb9v94m/formula.png"group-title="🎯🔔|Selection Sport|🔔🎯",Formula 1080p (SD)
+#EXTINF:-1 tvg-id="Formula.ge@SD"tvg-logo="https://i.imgur.com/fsqBn8G.png"group-title="🎯🔔|Selection Sport|🔔🎯",Formula 1080p (SD)
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 501
 https://7pal.short.gy/fox501au
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 502
 https://7pal.short.gy/fox502au
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 504
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 504 (HD)
 https://7pal.short.gy/fox504au
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 505 (HD)
+https://7pal.short.gy/fox505au
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 506 (HD)
 https://7pal.short.gy/fox506au
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Fox Sports 507 (HD)
@@ -846,8 +856,8 @@ http://dragon1977.com:80/047306b75f/b5a06cc482d6/827973
 https://jmp2.uk/stvp-USBD4200011W4
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png?w=272"group-title="🎯🔔|Selection Sport|🔔🎯",Hub Premier2 HD (FHD)
 https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-id=""group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png?w=272",Hub Sports 1 HD
-https://012v4.goiptv.us.ci/stream/starhub/hubsports1hd/
+#EXTINF:-1 tvg-id=""group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272",Hub Sports 6 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports6hd/
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://klcbsofficial.com/favicon.ico",ID  KLCBS
 https://streaming.klcbsofficial.com/listen/klcbs/klcbs
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://klcbsofficial.com/favicon.ico",ID  KLCBS
@@ -872,19 +882,19 @@ https://nl.utako.moe/js3/index.m3u8
 https://nl.utako.moe/js4/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="KMTV CBS 3 Omaha news feed only (HD)"tvg-logo="https://images.iptvmate.net/tvglogo/d4ef8ace6eba39ec8f58f933a4b21081.png"group-title="🎯🔔|Selection Sport|🔔🎯",KMTV CBS 3 Omaha news feed only (HD)
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10"group-title="🎯🔔|Selection Sport|🔔🎯",LALIGA (SD)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10"group-title="🎯🔔|Selection Sport|🔔🎯",LALIGA
 https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10"group-title="🎯🔔|Selection Sport|🔔🎯",LALIGA (SD)
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 #EXTINF:-1 tvg-id=""tvg-name="Lax Sports Network TV (HD)"tvg-logo="https://images.iptvmate.net/tvglogo/da3eba35df32e73cebbdbfa4cf4b8447.png"group-title="🎯🔔|Selection Sport|🔔🎯",Lax Sports Network TV (HD)
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-id="Live.Event.us" tvg-name="Live Event Lille vs Aston Villa OVOGOAL (FHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Lille vs Aston Villa OVOGOAL (FHD)
+#EXTINF:-1 tvg-chno="84" tvg-id="Live.Event.us" tvg-name="Live Event Lille vs Aston Villa OVOGOAL (FHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",Live Event Lille vs Aston Villa OVOGOAL (FHD)
 #EXTVLCOPT:http-referrer=https://24start.net/homes/blog1/
 #EXTVLCOPT:http-origin=https://24start.net/homes/blog1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://24start.net/s1.php
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-id="Матч! ТВ.ru"tvg-logo="https://i.ibb.co.com/580BTxg/matchru.png",MATCH
-https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png"group-title="🎯🔔|Selection Sport|🔔🎯",Lotus Macao Skygo
+https://cdn.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-id="Матч! Боец.ru"tvg-logo="https://i.ibb.co.com/FwcxRWP/matchfight.png",MATCH FIGHT
 https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-id="Матч! Футбол 1.ru"tvg-logo="https://i.ibb.co.com/TLDsrbz/matchf1.png",MATCH FOOTBALL 1
@@ -893,70 +903,59 @@ https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
 #EXTINF:-1 tvg-id="Матч! Игра.ru"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="",MATCH IGRA
 https://video.beeline.tv/live/d/channel510.isml/manifest-stb.mpd
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-id="МАТЧ ПРЕМЬЕР.ru"tvg-logo="https://i.ibb.co.com/6HMSwdy/matchpremier.png",MATCH PREMIERE
-https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
-#EXTINF:-1 tvg-id="Матч! Страна.ru"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="",MATCH STRANA
-http://video.beeline.tv/live/d/channel304.isml/manifest-stb.mpd
-#EXTINF:-1 tvg-id="here"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="",MIR BASKETBOLA
-https://video.beeline.tv/live/d/channel423.isml/manifest-stb.mpd
-#EXTINF:-1 tvg-chno="107" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Athletics  Texas Rangers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Athletics  Texas Rangers TVAPP (SD)
+#EXTINF:-1 tvg-chno="86" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Athletics  Texas Rangers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Athletics  Texas Rangers TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB028/mono.m3u8
-#EXTINF:-1 tvg-chno="110" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Atlanta Braves  Pittsburgh Pirates TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Atlanta Braves  Pittsburgh Pirates TVAPP (SD)
+#EXTINF:-1 tvg-chno="89" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Atlanta Braves  Pittsburgh Pirates TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Atlanta Braves  Pittsburgh Pirates TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLBNetwork/mono.m3u8
-#EXTINF:-1 tvg-chno="114" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Boston Red Sox vs Minnesota Twins ROXIE (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Boston Red Sox vs Minnesota Twins ROXIE (HD)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.xn--1000-ugoa0hsb9a0hb.com/mlb.m3u8
 #EXTINF:-1 channel-id="US1400001WV"tvg-id="US1400001WV"tvg-chno="2315"tvg-name="MLB Channel (FHD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20250929T231756SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",MLB Channel (FHD)
 https://jmp2.uk/stvp-US1400001WV
-#EXTINF:-1 tvg-chno="117" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Chicago White Sox  San Francisco Giants TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Chicago White Sox  San Francisco Giants TVAPP (SD)
+#EXTINF:-1 tvg-chno="96" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Chicago White Sox  San Francisco Giants TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Chicago White Sox  San Francisco Giants TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB015/mono.m3u8
-#EXTINF:-1 tvg-chno="119" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Cincinnati Reds  Los Angeles Dodgers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Cincinnati Reds  Los Angeles Dodgers TVAPP (SD)
+#EXTINF:-1 tvg-chno="98" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Cincinnati Reds  Los Angeles Dodgers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Cincinnati Reds  Los Angeles Dodgers TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB022/mono.m3u8
-#EXTINF:-1 tvg-chno="121" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Colorado Rockies  Arizona Diamondbacks TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Colorado Rockies  Arizona Diamondbacks TVAPP (SD)
+#EXTINF:-1 tvg-chno="100" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Colorado Rockies  Arizona Diamondbacks TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Colorado Rockies  Arizona Diamondbacks TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB021/mono.m3u8
-#EXTINF:-1 tvg-chno="129" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Milwaukee Brewers  Cleveland Guardians TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Milwaukee Brewers  Cleveland Guardians TVAPP (SD)
+#EXTINF:-1 tvg-chno="107" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Milwaukee Brewers  Cleveland Guardians TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Milwaukee Brewers  Cleveland Guardians TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB006/mono.m3u8
-#EXTINF:-1 tvg-chno="134" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB New York Mets  St Louis Cardinals TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB New York Mets  St Louis Cardinals TVAPP (SD)
+#EXTINF:-1 tvg-chno="110" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB New York Mets  St Louis Cardinals TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB New York Mets  St Louis Cardinals TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB019/mono.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB New York Yankees  Detroit Tigers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB New York Yankees  Detroit Tigers TVAPP (SD)
+#EXTINF:-1 tvg-chno="112" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB New York Yankees  Detroit Tigers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB New York Yankees  Detroit Tigers TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB023/mono.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Seattle Mariners  Chicago Cubs TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Seattle Mariners  Chicago Cubs TVAPP (SD)
+#EXTINF:-1 tvg-chno="118" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Seattle Mariners  Chicago Cubs TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Seattle Mariners  Chicago Cubs TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB001/mono.m3u8
-#EXTINF:-1 tvg-chno="147" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Toronto Blue Jays  Philadelphia Phillies TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Toronto Blue Jays  Philadelphia Phillies TVAPP (SD)
+#EXTINF:-1 tvg-chno="122" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Toronto Blue Jays  Philadelphia Phillies TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Toronto Blue Jays  Philadelphia Phillies TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/MLB003/mono.m3u8
-#EXTINF:-1 tvg-chno="149" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Washington Nationals  Houston Astros TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Washington Nationals  Houston Astros TVAPP (SD)
+#EXTINF:-1 tvg-chno="124" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Washington Nationals  Houston Astros TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Washington Nationals  Houston Astros TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -965,16 +964,12 @@ http://origin.thetvapp.to/hls/MLB020/mono.m3u8
 https://37ed58e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8?ads.wurl_channel=1386&ads.wurl_name=MSGSportsZone&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzk5Njk0OTA2Mn0
 #EXTINF:-1 channel-id="USBD300021B8"tvg-id="USBD300021B8"tvg-chno="2424"tvg-name="MSG SportsZone (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20240520T220114SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",MSG SportsZone (SD)
 https://jmp2.uk/stvp-USBD300021B8
-#EXTINF:-1 tvg-id="marquee-sports-network"tvg-name="Marquee Sports Network (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Marquee Sports Network (SD)
-https://tvpass.org/live/marquee-sports-network/sd
 #EXTINF:-1 channel-id="US21000043S"tvg-id="US21000043S"tvg-chno="2481"tvg-name="MeatEater (FHD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US21000043S_20250909T002823SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",MeatEater (FHD)
 https://jmp2.uk/stvp-US21000043S
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242170/1/267/150/0.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",MeatEater (FHD)
 https://linear-934.frequency.stream/dist/vizio/934/hls/master/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQ3NjAzNTQxNTR9
 #EXTINF:-1 tvg-id="MemoriasTVSeries.co@SD"tvg-logo="https://i.imgur.com/ohCSMhY.png"group-title="🎯🔔|Selection Sport|🔔🎯",Memorias TV Series 720p Geoblocked (HD)
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
-#EXTINF:-1 tvg-id="midatlantic-sports-network"tvg-name="Midatlantic Sports Network (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Midatlantic Sports Network (SD)
-https://tvpass.org/live/midatlantic-sports-network/sd
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1701121816/1/267/150/0.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",Monster Jam (SD)
 https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1693&wurl_name=MonsterJam&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDIwNjIwNzMwMn0
 #EXTINF:-1 channel-id="US3500007C4"tvg-id="US3500007C4"tvg-chno="2533"tvg-name="MotoGP Channel (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500007C4_20251110T235106SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",MotoGP Channel (SD)
@@ -989,12 +984,17 @@ https://jmp2.uk/stvp-US700021SM
 http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.id"tvg-name="NBA TV (SD)"tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",NBA TV (SD)
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
-#EXTINF:-1 tvg-id="nba-tv-usa"tvg-name="NBA TV USA (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",NBA TV USA (SD)
-https://tvpass.org/live/NBATV/sd
 #EXTINF:-1 tvg-id="XUMO_99951253"tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/300x300.webp?type=color_onBlack"group-title="🎯🔔|Selection Sport|🔔🎯",NBC Sports NOW (SD)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253&ads.asnw=169843&ads.afid=380753925&ads.sfid=19208128&ads.csid=xumo_[PLATFORM]_NBCUSports_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99951253&ads._fw_ifa_type=[IFA_TYPE]
 #EXTINF:-1 channel-id="USBD420002446"tvg-id="USBD420002446"tvg-chno="2338"tvg-name="NBC Sports NOW (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250729T010447SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",NBC Sports NOW (SD)
 https://jmp2.uk/stvp-USBD420002446
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia"tvg-name="NBC Sports Philadelphia (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",NBC Sports Philadelphia (SD)
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+#EXTINF:-1 tvg-chno="143" tvg-id="NCAA.Sports.Dummy.us" tvg-name="NCAA Men Akron vs Buffalo iSTRMEAST" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",NCAA Men Akron vs Buffalo iSTRMEAST
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://red1.ignitelaunch.shop/playlist/46987/load-playlist
 #EXTINF:-1 tvg-chno="108"tvg-id="New.England.Sports.Network.HD.us2"tvg-name="NESN (FHD)"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35038_dark_360w_270h.png"group-title="🎯🔔|Selection Sport|🔔🎯",NESN (FHD)
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:-1 channel-id="US300062TG"tvg-id="US300062TG"tvg-chno="2327"tvg-name="NESN Nation (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300062TG_20250304T041517SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",NESN Nation (SD)
@@ -1009,72 +1009,74 @@ https://jmp2.uk/stvp-US2600007WJ
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="nfl-network"tvg-name="NFL Network (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",NFL Network (SD)
 https://tvpass.org/live/NFLNetwork/sd
-#EXTINF:-1 tvg-chno="187" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Anaheim Ducks  Toronto Maple Leafs TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Anaheim Ducks  Toronto Maple Leafs TVAPP (SD)
+#EXTINF:-1 tvg-id="nfl-redzone"tvg-name="NFL RedZone (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",NFL RedZone (SD)
+https://tvpass.org/live/NFLRedZone/sd
+#EXTINF:-1 tvg-chno="159" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Anaheim Ducks  Toronto Maple Leafs TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Anaheim Ducks  Toronto Maple Leafs TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL19/mono.m3u8
-#EXTINF:-1 tvg-chno="192" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Calgary Flames  New Jersey Devils TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Calgary Flames  New Jersey Devils TVAPP (SD)
+#EXTINF:-1 tvg-chno="164" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Calgary Flames  New Jersey Devils TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Calgary Flames  New Jersey Devils TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL26/mono.m3u8
-#EXTINF:-1 tvg-chno="195" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Chicago Blackhawks  Utah Mammoth TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Chicago Blackhawks  Utah Mammoth TVAPP (SD)
+#EXTINF:-1 tvg-chno="167" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Chicago Blackhawks  Utah Mammoth TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Chicago Blackhawks  Utah Mammoth TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL05/mono.m3u8
-#EXTINF:-1 tvg-chno="197" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Colorado Avalanche  Seattle Kraken TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Colorado Avalanche  Seattle Kraken TVAPP (SD)
+#EXTINF:-1 tvg-chno="169" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Colorado Avalanche  Seattle Kraken TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Colorado Avalanche  Seattle Kraken TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL16/mono.m3u8
-#EXTINF:-1 tvg-chno="199" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Columbus Blue Jackets  Florida Panthers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Columbus Blue Jackets  Florida Panthers TVAPP (SD)
+#EXTINF:-1 tvg-chno="171" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Columbus Blue Jackets  Florida Panthers TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Columbus Blue Jackets  Florida Panthers TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL07/mono.m3u8
-#EXTINF:-1 tvg-chno="201" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Detroit Red Wings  Tampa Bay Lightning TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Detroit Red Wings  Tampa Bay Lightning TVAPP (SD)
+#EXTINF:-1 tvg-chno="173" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Detroit Red Wings  Tampa Bay Lightning TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Detroit Red Wings  Tampa Bay Lightning TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL08/mono.m3u8
-#EXTINF:-1 tvg-chno="204" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Edmonton Oilers  Dallas Stars TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Edmonton Oilers  Dallas Stars TVAPP (SD)
+#EXTINF:-1 tvg-chno="176" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Edmonton Oilers  Dallas Stars TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Edmonton Oilers  Dallas Stars TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL27/mono.m3u8
-#EXTINF:-1 tvg-chno="209" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Nashville Predators  Vancouver Canucks TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Nashville Predators  Vancouver Canucks TVAPP (SD)
+#EXTINF:-1 tvg-chno="181" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Nashville Predators  Vancouver Canucks TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Nashville Predators  Vancouver Canucks TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL31/mono.m3u8
-#EXTINF:-1 tvg-chno="211" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL New York Rangers  Winnipeg Jets TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL New York Rangers  Winnipeg Jets TVAPP (SD)
+#EXTINF:-1 tvg-chno="183" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL New York Rangers  Winnipeg Jets TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL New York Rangers  Winnipeg Jets TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL01/mono.m3u8
-#EXTINF:-1 tvg-chno="215" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Philadelphia Flyers  Minnesota Wild TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Philadelphia Flyers  Minnesota Wild TVAPP (SD)
+#EXTINF:-1 tvg-chno="187" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Philadelphia Flyers  Minnesota Wild TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Philadelphia Flyers  Minnesota Wild TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL11/mono.m3u8
-#EXTINF:-1 tvg-chno="217" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Pittsburgh Penguins  Vegas Golden Knights TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Pittsburgh Penguins  Vegas Golden Knights TVAPP (SD)
+#EXTINF:-1 tvg-chno="189" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Pittsburgh Penguins  Vegas Golden Knights TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Pittsburgh Penguins  Vegas Golden Knights TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL10/mono.m3u8
-#EXTINF:-1 tvg-chno="221" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL San Jose Sharks  Boston Bruins TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL San Jose Sharks  Boston Bruins TVAPP (SD)
+#EXTINF:-1 tvg-chno="193" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL San Jose Sharks  Boston Bruins TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL San Jose Sharks  Boston Bruins TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL03/mono.m3u8
-#EXTINF:-1 tvg-chno="224" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL St Louis Blues  Carolina Hurricanes TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL St Louis Blues  Carolina Hurricanes TVAPP (SD)
+#EXTINF:-1 tvg-chno="196" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL St Louis Blues  Carolina Hurricanes TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL St Louis Blues  Carolina Hurricanes TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL04/mono.m3u8
-#EXTINF:-1 tvg-chno="226" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Washington Capitals  Buffalo Sabres TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Washington Capitals  Buffalo Sabres TVAPP (SD)
+#EXTINF:-1 tvg-chno="198" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Washington Capitals  Buffalo Sabres TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Washington Capitals  Buffalo Sabres TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -1089,25 +1091,25 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 http://dragon1977.com:80/047306b75f/b5a06cc482d6/802482
 #EXTINF:-1 tvg-id="new-england-sports-network"tvg-name="New England Sports Network (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",New England Sports Network (SD)
 https://tvpass.org/live/new-england-sports-network/sd
-#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Nova Sport 1 (HD)
+#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Nova Sport 1
 https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT1_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Nova Sport 2 (HD)
+#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Nova Sport 2
 https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT2_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="onsportsplus"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg",ON Sports
+#EXTINF:-1 tvg-id="onsportsplus"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg",ON Sports (HD)
 https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
-#EXTINF:-1 tvg-id="onsports"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg",ON Sports HD
+#EXTINF:-1 tvg-id="onsports"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg",ON Sports HD (HD)
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 #EXTINF:-1 tvg-id="onsportsnews"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp",ON Sports News (SD)
 https://livevlisctcdnw.seenow.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k307aBr.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",ONE SPORT (SD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k307aBr.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",ONE SPORT
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ffp4qg.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",ONE SPORTS (SD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ffp4qg.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",ONE SPORTS
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Okko Спорт Прайм HD (FHD)
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 channel-id="US2600006VY"tvg-id="US2600006VY"tvg-chno="2352"tvg-name="One Championship TV (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20241031T150124SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",One Championship TV (SD)
 https://jmp2.uk/stvp-US2600006VY
-#EXTINF:-1 tvg-id="XUMO_99991374"tvg-logo="https://image.xumo.com/v1/channels/channel/99991374/300x300.webp?type=color_onBlack"group-title="🎯🔔|Selection Sport|🔔🎯",Outdoor America (FHD)
+#EXTINF:-1 tvg-id="XUMO_99991374"tvg-logo="https://image.xumo.com/v1/channels/channel/99991374/300x300.webp?type=color_onBlack"group-title="🎯🔔|Selection Sport|🔔🎯",Outdoor America (SD)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991374/hls/playlist.m3u8?ads.xumo_channelId=99991374&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ObsessionMediaOutdoorAmerica&ads.csid=xumo_[PLATFORM]_ObsessionMediaOutdoorAmerica_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=1096&ads.xumo_contentName=ObsessionMediaOutdoorAmerica&ads.xumo_providerId=1096&ads.xumo_providerName=ObsessionMediaOutdoorAmerica&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991374&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 channel-id="USBD1200020Y4"tvg-id="USBD1200020Y4"tvg-chno="2491"tvg-name="Outdoor America (FHD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20250325T015246SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",Outdoor America (FHD)
 https://jmp2.uk/stvp-USBD1200020Y4
@@ -1141,23 +1143,23 @@ https://onehls.persiana.live/hls/stream.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99951390/hls/playlist.m3u8?ads.xumo_channelId=99951390&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=SinclairTennisChannelPickleballTV&ads.csid=xumo_[PLATFORM]_SinclairTennisChannelPickleballTV_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4198&ads.xumo_contentName=SinclairTennisChannelPickleballTV&ads.xumo_providerId=4198&ads.xumo_providerName=SinclairTennisChannelPickleballTV&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951390&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 channel-id="USBD4200016QR"tvg-id="USBD4200016QR"tvg-chno="2444"tvg-name="PickleballTV (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200016QR_20240520T220130SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",PickleballTV (SD)
 https://jmp2.uk/stvp-USBD4200016QR
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 1 (SD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 2 (SD)
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 3 (SD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 3
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 4 (SD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 4
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 5 (SD)
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 6 (SD)
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 7 (SD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 7
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 8 (SD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 8
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 9 (SD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s"channel-number="1"group-title="🎯🔔|Selection Sport|🔔🎯",Pilipinas Live 9
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 #EXTINF:-1 tvg-name="Pluto TV Action Sports (SD)"tvg-logo="https://images.iptvmate.net/tvglogo/f07a1de9e816156b9eb2bd991811083c.png"group-title="🎯🔔|Selection Sport|🔔🎯",Pluto TV Action Sports (SD)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1181,7 +1183,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="5f9853138d19af0007104a8d"tvg-logo="https://images.iptvmate.net/tvglogo/0ce4d255b334126c0d7a95e57d278515.png"group-title="🎯🔔|Selection Sport|🔔🎯",Pluto TV Series Comedia (SD)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="PlutoTVSeriesLatinas.us@SD"tvg-logo="https://i.imgur.com/hxl6Ctq.png"group-title="🎯🔔|Selection Sport|🔔🎯",Pluto TV Series Latinas 720p Not 247 (SD)
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484"tvg-logo="https://images.iptvmate.net/tvglogo/1d370d6f9e41c5626b50d53e0e855d21.png"group-title="🎯🔔|Selection Sport|🔔🎯",Pluto TV Series Latinas (SD)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba"tvg-logo="https://images.iptvmate.net/tvglogo/55b962ce45f880cd8e7caae5111df0b1.png"group-title="🎯🔔|Selection Sport|🔔🎯",Pluto TV Series Retro (SD)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -1201,9 +1203,9 @@ https://amg01258-raycom-amg01258c1-vizio-us-780.playouts.now.amagi.tv/playlist/a
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Premier Sport 2 (FHD)
 https://7pal.short.gy/prsport2
-#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Premier Sports (SD)
+#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Premier Sports
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Premier Sports 2 (SD)
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Premier Sports 2
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd
 #EXTINF:-1 tvg-id="PremierSportsRugby"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="",Premier Sports Rugby (SD)
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
@@ -1291,7 +1293,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://sm-monirul.top/Toffee/live.php?id=43dcec1011e7&e=.m3u8
 #EXTINF:-1 tvg-id="abc6677968ef"tvg-name="SONY SPORTS TEN 2 HD"tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png"group-title="🎯🔔|Selection Sport|🔔🎯",SONY SPORTS TEN 2 HD
 https://sm-monirul.top/Toffee/live.php?id=abc6677968ef&e=.m3u8
-#EXTINF:-1 tvg-id="fd6de8bd1666"tvg-name="SONY SPORTS TEN 5 HD (HD)"tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png"group-title="🎯🔔|Selection Sport|🔔🎯",SONY SPORTS TEN 5 HD (HD)
+#EXTINF:-1 tvg-id="fd6de8bd1666"tvg-name="SONY SPORTS TEN 5 HD"tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png"group-title="🎯🔔|Selection Sport|🔔🎯",SONY SPORTS TEN 5 HD
 https://sm-monirul.top/Toffee/live.php?id=fd6de8bd1666&e=.m3u8
 #EXTINF:-1 tvg-id="276"tvg-chno="323"tvg-name="space-series"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/epxndj.png"group-title="🎯🔔|Selection Sport|🔔🎯",SPACE SERIES (SD)
 https://streams2.sofast.tv/ptnr-yupptv/title-Space_Series_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8?hdnts=st%3D1769558016~exp%3D1769579616~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Space_Series_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F18d329ef-d478-413c-b68f-c123494ac434%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_276_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_276_-1~hmac%3D294764385ba77328fa2c43091876ddd27ac2f30bb6b82219878180a4f2076001
@@ -1325,18 +1327,16 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 tvg-id="SPOTV (SD).id"tvg-name="SPOTV (SD)"tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",SPOTV (SD)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV (SD).png"group-title="🎯🔔|Selection Sport|🔔🎯",SPOTV (SD)
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png"group-title="🎯🔔|Selection Sport|🔔🎯",SPOTV
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 #EXTINF:-1 tvg-id="SPOTV.2.id"tvg-name="SPOTV2"tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",SPOTV 2 (SD)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2 (SD).png"group-title="🎯🔔|Selection Sport|🔔🎯",SPOTV2 (SD)
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png"group-title="🎯🔔|Selection Sport|🔔🎯",SPOTV2
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 #EXTINF:-1 channel-id="USBB10000058A"tvg-id="USBB10000058A"tvg-chno="2480"tvg-name="SURFER TV (FHD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000058A_20250826T234505SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",SURFER TV (FHD)
 https://jmp2.uk/stvp-USBB10000058A
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Serie Club (HD)
 http://151.80.18.177:86/Serie_Club_HD/index.m3u8
-#EXTINF:-1 tvg-id="SerieMax.ci@SD"tvg-logo="https://i.imgur.com/GaRQXHT.png"group-title="🎯🔔|Selection Sport|🔔🎯",Serie Max (HD)
-https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1 channel-id="US4400006IX"tvg-id="US4400006IX"tvg-chno="1606"tvg-name="Series K Edge (FHD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4400006IX_20251209T005947SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",Series K Edge (FHD)
 https://jmp2.uk/stvp-US4400006IX
 #EXTINF:-1 channel-id="US4300002FK"tvg-id="US4300002FK"tvg-chno="1608"tvg-name="Series K Heart (FHD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4300002FK_20251209T005951SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",Series K Heart (FHD)
@@ -1347,7 +1347,7 @@ https://jmp2.uk/stvp-US440000708
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #EXTINF:-1 tvg-id=""tvg-name=""group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFnTFCfQV-xQdy8miUJ2-dhgvSrripDVGXQ&s",Setanta Sports 2
 https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561504/index.mpd
-#EXTINF:-1 tvg-id="SinPoTV.id@HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sin Po TV (SD)
+#EXTINF:-1 tvg-id="SinPoTV.id@HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sin Po TV
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #EXTINF:-1 tvg-name="Sky 1 Racing"tvg-id=""group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://images.iptvmate.net/tvglogo/21c306a04e0e0851ffded212ca73e6dc.png",Sky 1 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
@@ -1371,11 +1371,11 @@ https://stream.skynewsarabia.com/ott/ott.m3u8
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae@HD"tvg-logo="https://i.imgur.com/FjtzQQs.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky News Arabia Vertical 1080p (SD)
 https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra1.au@SD"tvg-logo="https://i.imgur.com/ZsPb8nL.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky News Extra 1 540p (SD)
+#EXTINF:-1 tvg-name="Sky News Australia Extra 1 (SD)"tvg-id="skynews.com.au"tvg-logo="https://images.iptvmate.net/tvglogo/41ed99ce3c60d87e37fab81263523a2e.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky News Australia Extra 1 (SD)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra2.au@SD"tvg-logo="https://i.imgur.com/ZsPb8nL.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky News Extra 2 540p Not 247 (SD)
+#EXTINF:-1 tvg-name="Sky News Australia Extra 2 (SD)"tvg-id="skynews.com.au"tvg-logo="https://images.iptvmate.net/tvglogo/41ed99ce3c60d87e37fab81263523a2e.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky News Australia Extra 2 (SD)
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra3.au@SD"tvg-logo="https://i.imgur.com/ZsPb8nL.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky News Extra 3 1080p (SD)
+#EXTINF:-1 tvg-name="Sky News Australia Extra 3 (SD)"tvg-id="skynews.com.au"tvg-logo="https://images.iptvmate.net/tvglogo/41ed99ce3c60d87e37fab81263523a2e.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky News Australia Extra 3 (SD)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport 1 NZ (HD)
 https://7pal.short.gy/skyspt1nz
@@ -1401,7 +1401,7 @@ https://7pal.short.gy/ssportsat
 https://7pal.short.gy/ssportscrk
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk"tvg-logo="https://i.imgur.com/mssdWvm.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sports F1 FHD (FHD)
 https://7pal.short.gy/ssportsf1
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk"tvg-logo="https://i.imgur.com/RKUHQi8.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sports Golf FHD (FHD)
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk"tvg-logo="https://i.imgur.com/RKUHQi8.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sports Golf FHD (HD)
 https://7pal.short.gy/ssportsgf
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk"tvg-logo="https://i.imgur.com/gBtWXwY.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sports Main Event FHD (FHD)
 https://7pal.short.gy/SkSpMainE
@@ -1409,16 +1409,6 @@ https://7pal.short.gy/SkSpMainE
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk"tvg-logo="https://i.imgur.com/ZNUDU1r.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sports Tennis FHD (HD)
 https://7pal.short.gy/ssportstn
-#EXTINF:-1 tvg-chno="249" tvg-id="Soccer.Dummy.us" tvg-name="Soccer Lille vs Aston Villa ROXIE (FHD)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",Soccer Lille vs Aston Villa ROXIE (FHD)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.serverbandel.sbs/tnt.m3u8
-#EXTINF:-1 tvg-chno="250" tvg-id="Soccer.Dummy.us" tvg-name="Soccer Panathinaikos vs Real Betis ROXIE (FHD)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",Soccer Panathinaikos vs Real Betis ROXIE (FHD)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.serverbandel.sbs/tnt5.m3u8
 #EXTINF:-1 tvg-id="SonyOneSeriesComedie.fr@HD"tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sony One Series Comedie 1080p (FHD)
 https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneSeriesThriller.fr@HD"tvg-logo="https://i.imgur.com/RVS8LDj.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sony One Series Thriller 1080p (FHD)
@@ -1433,7 +1423,7 @@ https://wurlspeedvision.global.transmit.live/hls/68daecff919798c108f05375/v1/spe
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png"group-title="🎯🔔|Selection Sport|🔔🎯",SpoTV 2 (SD)
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="",SpoTv Now (FHD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="",SpoTv Now
 https://slive.mana2.my/SpotvNow/index.mpd
 #EXTINF:-1 tvg-id="SporTV2BR"tvg-name="SporTV 2 BR (SD)"tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",SporTV 2 BR (SD)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
@@ -1461,20 +1451,18 @@ http://212.102.60.231/SNY/index.m3u8
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Sportsnet.360.ca"tvg-logo="https://i.imgur.com/oKnzVLr.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sportsnet 360 (HD)
 https://7pal.short.gy/sptsnet360
-#EXTINF:-1 tvg-id="sportsnet-360"tvg-name="Sportsnet 360"group-title="🎯🔔|Selection Sport|🔔🎯",Sportsnet 360
-https://tvpass.org/live/sportsnet-360/sd
-#EXTINF:-1 tvg-id="sportsnet-east"tvg-name="Sportsnet East (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Sportsnet East (SD)
-https://tvpass.org/live/sportsnet-east/sd
 #EXTINF:-1 tvg-id="Sportsnet.One.ca"tvg-logo="https://i.imgur.com/ttlElcO.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sportsnet ONE (HD)
 https://7pal.short.gy/sptsnet1
 #EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca"tvg-logo="https://i.imgur.com/UDfhP02.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sportsnet Ontario (HD)
 https://7pal.short.gy/sptsneton
-#EXTINF:-1 tvg-id="sportsnet-ontario"tvg-name="Sportsnet Ontario (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Sportsnet Ontario (SD)
+#EXTINF:-1 tvg-id="sportsnet-ontario"tvg-name="Sportsnet Ontario"group-title="🎯🔔|Selection Sport|🔔🎯",Sportsnet Ontario
 https://tvpass.org/live/sportsnet-ontario/sd
 #EXTINF:-1 tvg-id="sportsnet-pacific"tvg-name="Sportsnet Pacific (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Sportsnet Pacific (SD)
 https://tvpass.org/live/sportsnet-pacific/sd
 #EXTINF:-1 tvg-id="sportsnet-pittsburgh"tvg-name="Sportsnet Pittsburgh (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Sportsnet Pittsburgh (SD)
 https://tvpass.org/live/sportsnet-pittsburgh/sd
+#EXTINF:-1 tvg-id="sportsnet-west"tvg-name="Sportsnet West (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",Sportsnet West (SD)
+https://tvpass.org/live/sportsnet-west/sd
 #EXTINF:-1 channel-id="USAJ3504705A"tvg-id="USAJ3504705A"tvg-chno="2384"tvg-name="Stadium (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504705A_20250217T210802SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",Stadium (SD)
 https://jmp2.uk/stvp-USAJ3504705A
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1735718200/1/267/150/0.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",Stadium (SD)
@@ -1503,9 +1491,9 @@ https://amg01444-tennischannel-amg01444c2-vizio-us-2327.playouts.now.amagi.tv/pl
 https://jmp2.uk/stvp-USBC600001QL
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",TF1 HD (HD)
 http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr@HD"tvg-logo="https://i.imgur.com/QxHt9NC.png"group-title="🎯🔔|Selection Sport|🔔🎯",TF1 HD 720p
+#EXTINF:-1 tvg-id="TF1.fr@HD"tvg-logo="https://i.imgur.com/QxHt9NC.png"group-title="🎯🔔|Selection Sport|🔔🎯",TF1 HD 720p GeoBlocked
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD"tvg-logo="https://i.imgur.com/4CJIDKQ.png"group-title="🎯🔔|Selection Sport|🔔🎯",TF1 Series Films 1080p (SD)
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD"tvg-logo="https://i.imgur.com/4CJIDKQ.png"group-title="🎯🔔|Selection Sport|🔔🎯",TF1 Series Films 1080p GeoBlocked (SD)
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 channel-id="USBB1000001XP"tvg-id="USBB1000001XP"tvg-chno="2408"tvg-name="TNA Wrestling (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000001XP_20250428T223407SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",TNA Wrestling (SD)
 https://jmp2.uk/stvp-USBB1000001XP
@@ -1563,7 +1551,7 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
 #EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",TVP Sport
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
-#EXTINF:-1 tvg-id="TVP Sport.cz"tvg-name=""tvg-logo="https://iptvboss.xyz/logos/Poland/TVPSport.pl.png"group-title="🎯🔔|Selection Sport|🔔🎯",TVP Sport
+#EXTINF:-1 tvg-id="TVP Sport (HD).cz"tvg-name=""tvg-logo="https://iptvboss.xyz/logos/Poland/TVPSport.pl.png"group-title="🎯🔔|Selection Sport|🔔🎯",TVP Sport (HD)
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Tvri.Sport.id"tvg-name="tvri sport"tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",TVRI SPORT
 https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs
@@ -1609,53 +1597,123 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 tvg-id="Tv4Futbol"tvg-name="Tv4Futbol"tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Tv4Futbol
 https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
-#EXTINF:-1 tvg-chno="272" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Conference League AZ Alkmaar vs Sparta Prague 2 FAWA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",UEFA Conference League AZ Alkmaar vs Sparta Prague 2 FAWA
+#EXTINF:-1 tvg-chno="238" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Conference League Celje vs AEK Athens 2 FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",UEFA Conference League Celje vs AEK Athens 2 FAWA (HD)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pullsgp.yyzb456.top/live/stream-613431_lhd.m3u8
-#EXTINF:-1 tvg-chno="302" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League AS Roma vs Bologna STRMHUB (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League AS Roma vs Bologna STRMHUB (SD)
-#EXTVLCOPT:http-referrer=https://storytrench.net/
-#EXTVLCOPT:http-origin=https://storytrench.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://smarthard.click/hls/kvJmq6EB26a/index.m3u8
-#EXTINF:-1 tvg-chno="304" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Aston Villa vs Lille STRMHUB (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Aston Villa vs Lille STRMHUB (SD)
-#EXTVLCOPT:http-referrer=https://storytrench.net/
-#EXTVLCOPT:http-origin=https://storytrench.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://smarthard.click/hls/y1M7fzurUAHk/index.m3u8
-#EXTINF:-1 tvg-chno="314" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League FC Porto vs VfB Stuttgart STRMHUB (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League FC Porto vs VfB Stuttgart STRMHUB (SD)
-#EXTVLCOPT:http-referrer=https://storytrench.net/
-#EXTVLCOPT:http-origin=https://storytrench.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://smarthard.click/hls/KRM95bYpU2eR/index.m3u8
-#EXTINF:-1 tvg-chno="333" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Panathinaikos vs Betis 2 FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Panathinaikos vs Betis 2 FAWA (HD)
+https://livecdn-bp-nobar.maypn.stream/stream/1/chunks.m3u8?x-sign=846af8d2bb7754cfd6dd43452d2431fe&x-time=1773345600&is_vip=true&token=nobar-aff994b3-bebb-48fe-8dd3-37200f8ede60
+#EXTINF:-1 tvg-chno="243" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Conference League Crystal Palace vs AEK Larnaca 2 FAWA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",UEFA Conference League Crystal Palace vs AEK Larnaca 2 FAWA
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pullsgp.yyzb456.top/live/stream-705956_lhd.m3u8
-#EXTINF:-1 tvg-chno="335" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Panathinaikos vs Real Betis TOTALSPRTK1 (FHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Panathinaikos vs Real Betis TOTALSPRTK1 (FHD)
-#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Panathinaikos-vs-Real-Betis/64284
-#EXTVLCOPT:http-origin=https://live.totalsportekarmy.com/Panathinaikos-vs-Real-Betis/64284
+https://pullsgp.yyzb456.top/live/stream-765648_lhd.m3u8
+#EXTINF:-1 tvg-chno="244" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Conference League Crystal Palace vs AEK Larnaca 3 FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",UEFA Conference League Crystal Palace vs AEK Larnaca 3 FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d3bupko82pjars.cloudfront.net/status/3/fronts.woff2?5cb30c
-#EXTINF:-1 tvg-chno="340" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Real Betis vs Panathinaikos STRMHUB (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Real Betis vs Panathinaikos STRMHUB (SD)
+https://livecdn-bp-nobar.maypn.stream/stream/3/chunks.m3u8?x-sign=5cd7148d97861602cec1597a08d0e420&x-time=1773346320&is_vip=true&token=nobar-c749443d-98d0-4a89-b5a3-337379e22304
+#EXTINF:-1 tvg-chno="246" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Conference League Fiorentina vs Rakow 2 FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",UEFA Conference League Fiorentina vs Rakow 2 FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://livecdn-bp-nobar.maypn.stream/stream/6/chunks.m3u8?x-sign=61d3d2d1da091edb1c5fd57f76e07b04&x-time=1773346680&is_vip=true&token=nobar-c749443d-98d0-4a89-b5a3-337379e22304
+#EXTINF:-1 tvg-chno="258" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Conference League Sigma Olomouc vs Mainz 2 FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="Live Events",UEFA Conference League Sigma Olomouc vs Mainz 2 FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://livecdn-bp-nobar.maypn.stream/stream/2/chunks.m3u8?x-sign=ec7399e2be07dbb9c4a204460e2b2ae2&x-time=1773346740&is_vip=true&token=nobar-c749443d-98d0-4a89-b5a3-337379e22304
+#EXTINF:-1 tvg-chno="270" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Braga vs Ferencvaros STRMHUB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Braga vs Ferencvaros STRMHUB
 #EXTVLCOPT:http-referrer=https://storytrench.net/
 #EXTVLCOPT:http-origin=https://storytrench.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://smarthard.click/hls/AsguyPwXcxYb/index.m3u8
-#EXTINF:-1 tvg-chno="344" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Stuttgart vs FC Porto 2 FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Stuttgart vs FC Porto 2 FAWA (HD)
+#EXTINF:-1 tvg-chno="273" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Celta Vigo vs Lyon 2 FAWA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Celta Vigo vs Lyon 2 FAWA
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pullsgp.yyzb456.top/live/stream-525132_lhd.m3u8
+#EXTINF:-1 tvg-chno="274" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Celta Vigo vs Lyon 3 FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Celta Vigo vs Lyon 3 FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://livecdn-bp-nobar.maypn.stream/stream/24/chunks.m3u8?x-sign=6940b499f0364efe8573c896398aff69&x-time=1773346620&is_vip=true&token=nobar-c749443d-98d0-4a89-b5a3-337379e22304
+#EXTINF:-1 tvg-chno="276" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Celta de Vigo vs Olympique Lyonnais TOTALSPRTK1 (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Celta de Vigo vs Olympique Lyonnais TOTALSPRTK1 (HD)
+#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Celta-de-Vigo-vs-Olympique-Lyonnais/64286
+#EXTVLCOPT:http-origin=https://live.totalsportekarmy.com/Celta-de-Vigo-vs-Olympique-Lyonnais/64286
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d3bupko82pjars.cloudfront.net/status/5/fronts.woff2?284743
+#EXTINF:-1 tvg-chno="278" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League FC Midtjylland vs Nottingham Forest STRMHUB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League FC Midtjylland vs Nottingham Forest STRMHUB
+#EXTVLCOPT:http-referrer=https://storytrench.net/
+#EXTVLCOPT:http-origin=https://storytrench.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://smarthard.click/hls/y1M7fzurUAHk/index.m3u8
+#EXTINF:-1 tvg-chno="283" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Ferencvaros vs Sporting Braga 2 FAWA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Ferencvaros vs Sporting Braga 2 FAWA
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pullsgp.yyzb456.top/live/stream-705956_lhd.m3u8
+#EXTINF:-1 tvg-chno="284" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Ferencvaros vs Sporting Braga 3 FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Ferencvaros vs Sporting Braga 3 FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://livecdn-bp-nobar.maypn.stream/stream/27/chunks.m3u8?x-sign=a51805f7c6406e1b44206760fe53a3a9&x-time=1773346560&is_vip=true&token=nobar-c749443d-98d0-4a89-b5a3-337379e22304
+#EXTINF:-1 tvg-chno="281" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Ferencvaros vs Sporting Braga TOTALSPRTK1 (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Ferencvaros vs Sporting Braga TOTALSPRTK1 (HD)
+#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Ferencvaros-vs-Sporting-Braga/64287
+#EXTVLCOPT:http-origin=https://live.totalsportekarmy.com/Ferencvaros-vs-Sporting-Braga/64287
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d3bupko82pjars.cloudfront.net/status/6/fronts.woff2?15a7c4
+#EXTINF:-1 tvg-chno="291" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Genk vs Freiburg 2 FAWA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Genk vs Freiburg 2 FAWA
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8
+#EXTINF:-1 tvg-chno="292" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Genk vs Freiburg 3 FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Genk vs Freiburg 3 FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://livecdn-bp-nobar.maypn.stream/stream/23/chunks.m3u8?x-sign=bf210b869b2c1b353612420597292a0c&x-time=1773346680&is_vip=true&token=nobar-c749443d-98d0-4a89-b5a3-337379e22304
+#EXTINF:-1 tvg-chno="289" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Genk vs Freiburg TOTALSPRTK1 (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Genk vs Freiburg TOTALSPRTK1 (HD)
+#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Genk-vs-Freiburg/64288
+#EXTVLCOPT:http-origin=https://live.totalsportekarmy.com/Genk-vs-Freiburg/64288
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d3bupko82pjars.cloudfront.net/status/8/fronts.woff2?96346d
+#EXTINF:-1 tvg-chno="296" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Lyon vs Celta Vigo STRMHUB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Lyon vs Celta Vigo STRMHUB
+#EXTVLCOPT:http-referrer=https://storytrench.net/
+#EXTVLCOPT:http-origin=https://storytrench.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://smarthard.click/hls/kvJmq6EB26a/index.m3u8
+#EXTINF:-1 tvg-chno="304" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Nottingham Forest vs Midtjylland 2 FAWA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Nottingham Forest vs Midtjylland 2 FAWA
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pullsgp.yyzb456.top/live/stream-580311_lhd.m3u8
+#EXTINF:-1 tvg-chno="306" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Nottingham Forest vs Midtjylland 3 FAWA (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Nottingham Forest vs Midtjylland 3 FAWA (HD)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://livecdn-bp-nobar.maypn.stream/stream/25/chunks.m3u8?x-sign=4f0ca09933333b70bc9c4bb975c4d28c&x-time=1773346500&is_vip=true&token=nobar-c749443d-98d0-4a89-b5a3-337379e22304
+#EXTINF:-1 tvg-chno="302" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Nottingham Forest vs Midtjylland TOTALSPRTK1 (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Nottingham Forest vs Midtjylland TOTALSPRTK1 (HD)
+#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Nottingham-Forest-vs-Midtjylland/64289
+#EXTVLCOPT:http-origin=https://live.totalsportekarmy.com/Nottingham-Forest-vs-Midtjylland/64289
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d3bupko82pjars.cloudfront.net/status/7/fronts.woff2?71e04e
+#EXTINF:-1 tvg-chno="309" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League Panathinaikos vs Real Betis TOTALSPRTK1 (FHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League Panathinaikos vs Real Betis TOTALSPRTK1 (FHD)
+#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Panathinaikos-vs-Real-Betis/64284
+#EXTVLCOPT:http-origin=https://live.totalsportekarmy.com/Panathinaikos-vs-Real-Betis/64284
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d3bupko82pjars.cloudfront.net/status/3/fronts.woff2?5cb30c
+#EXTINF:-1 tvg-chno="311" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Europa League SC Freiburg vs Racing Genk STRMHUB" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="Live Events",UEFA Europa League SC Freiburg vs Racing Genk STRMHUB
+#EXTVLCOPT:http-referrer=https://storytrench.net/
+#EXTVLCOPT:http-origin=https://storytrench.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://smarthard.click/hls/KRM95bYpU2eR/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",UFC (SD)
 https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #EXTINF:-1 tvg-id="XUMO_99951134"tvg-logo="https://image.xumo.com/v1/channels/channel/99951134/300x300.webp?type=color_onBlack"group-title="🎯🔔|Selection Sport|🔔🎯",UFC (FHD)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=UFC&ads.csid=xumo_[PLATFORM]_UFC_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3345&ads.xumo_contentName=UFC&ads.xumo_providerId=3345&ads.xumo_providerName=UFC&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951134&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 channel-id="US2900017P2"tvg-id="US2900017P2"tvg-chno="2350"tvg-name="UFC (FHD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",UFC (FHD)
 https://jmp2.uk/stvp-US2900017P2
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co.com/F60rSrv/univpremiere.png"group-title="🎯🔔|Selection Sport|🔔🎯",UNIVERSAL PREMIERE (SD)
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co.com/F60rSrv/univpremiere.png"group-title="🎯🔔|Selection Sport|🔔🎯",UNIVERSAL PREMIERE
 https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
 #EXTINF:-1 tvg-id="USANetwork.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"group-title="🎯🔔|Selection Sport|🔔🎯",USA Network East 1080p Not 247 (SD)
 https://tvpass.org/live/USANetworkEast/hd
@@ -1703,11 +1761,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertou
 https://dtqutq7lmcchv.cloudfront.net/10001/99991317/hls/playlist.m3u8?ads.xumo_channelId=99991317&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WorldPokerTour&ads.csid=xumo_[PLATFORM]_WorldPokerTour_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=252&ads.xumo_contentName=WorldPokerTour&ads.xumo_providerId=252&ads.xumo_providerName=WorldPokerTour&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991317&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 channel-id="USBD1700009P5"tvg-id="USBD1700009P5"tvg-chno="2448"tvg-name="World Poker Tour (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700009P5_20250602T231543SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",World Poker Tour (SD)
 https://jmp2.uk/stvp-USBD1700009P5
-#EXTINF:-1 tvg-chno="350" tvg-id="Live.Event.us" tvg-name="World Rally World Rally Championship Kenya FAWA (FHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",World Rally World Rally Championship Kenya FAWA (FHD)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",World of the Series (SD)
 https://a3569457567-s70378.cdn.ngenix.net/mir_seriala/1/index.m3u8
 #EXTINF:-1 tvg-id="Extreme.sports.sk"tvg-name=""tvg-logo="https://mimipipi22.github.io/logo/sports/xtreamsports.jpg"group-title="🎯🔔|Selection Sport|🔔🎯",XTREAM SPORTS (HD)
@@ -1724,10 +1777,18 @@ https://jmp2.uk/stvp-USAJ4300001Q7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="XUMO_99991785"tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/300x300.webp?type=color_onBlack"group-title="🎯🔔|Selection Sport|🔔🎯",beIN SPORTS XTRA en Espaol (SD)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=BeInSportsESP&ads.csid=xumo_[PLATFORM]_BeInSportsESP_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=es&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2642&ads.xumo_contentName=BeInSportsESP&ads.xumo_providerId=2642&ads.xumo_providerName=BeInSportsESP&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991785&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-id=""group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://poster.starhubgo.com/Linear_channels2/213_1920x1080_HTV.png?w=272",beIN Sports 1 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsportshd/
 #EXTINF:-1 tvg-id=""group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://poster.starhubgo.com/Linear_channels2/211_1920x1080_HTV.png?w=272",beIN Sports 2 HD
 https://012v4.goiptv.us.ci/stream/starhub/beinsports2hd/
+#EXTINF:-1 tvg-id=""group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png?w=272",beIN Sports 3 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports3hd/
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png"group-title="🎯🔔|Selection Sport|🔔🎯",beIN Sports 3 HD (SD)
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id=""group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=272",beIN Sports 4 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports4hd/
+#EXTINF:-1 tvg-id=""group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=272",beIN Sports 5 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports5hd/
 #EXTINF:-1 channel-id="US2700004DX"tvg-id="US2700004DX"tvg-chno="3822"tvg-name="beIN Sports XTRA (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700004DX_20240826T235608SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",beIN Sports XTRA (SD)
 https://jmp2.uk/stvp-US2700004DX
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",cbs (SD)
@@ -1748,7 +1809,7 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 http://84.17.50.102/tf1/index.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",tnt (SD)
 http://84.17.50.102/tnt/index.m3u8
-#EXTINF:-1 tvg-id="b18613696a70"tvg-name="ICC Test Championship Highlights"tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w400q100PnZefJcBcqxnFHJBoxcaposters955ae898833649368d78c6b8866e35f7pnggrouptitleSelection SportICC Test Championship Highlights (HD)
+#EXTINF:-1 tvg-id="b18613696a70"tvg-name="ICC Test Championship Highlights"tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w400q100PnZefJcBcqxnFHJBoxcaposters955ae898833649368d78c6b8866e35f7pnggrouptitleSelection SportICC Test Championship Highlights
 https://sm-monirul.top/Toffee/live.php?id=b18613696a70&e=.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
@@ -1760,7 +1821,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 catchup="append"catchup-days="7"catchup-source="?offset=-${offset}&utcstart=${timestamp}"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-id="match-tv",Матч Архив (4K)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Матч Футбол 3 (SD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Матч Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Channel Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
@@ -1780,8 +1841,6 @@ https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887625
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Channel Fighting TV Samurai (HD)
 https://nl.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel Fox Sports 2 (SD)
-https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",Channel Gaora Sports (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",Channel Hi Sport (FHD)
@@ -1798,10 +1857,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257",Channel J Sports 4 (SD)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel KCBSDT1
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",Channel MyZen Wellbeing TV (SD)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel NBC Sports Boston (SD)
-https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel NBC Sports Bay Area (SD)
+https://tvpass.org/live/nbc-sports-bay-area/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",Channel NBC Sports Philadelphia (SD)
 https://tvpass.org/live/nbc-sports-philadelphia/hd
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",Channel Nippon TV (SD)
