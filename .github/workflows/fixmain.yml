@@ -98,8 +98,10 @@ jobs:
         rm -f EPG.xml
         wget -q --show-progress --no-check-certificate https://lichphatsong.site/schedule/epg.xml.gz -O EPG.xml || true
         wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/merged_epg.xml -O EPG1.xml || true
-        cat EPG1.xml >> EPG.xml || true
-        rm -f EPG1.xml || true
+        wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/bakulwifi/Epglive/refs/heads/main/epg.xml -O EPG2.xml || true
+        wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/BuddyChewChew/tv/refs/heads/default/M3U8/TV.xml -O EPG3.xml || true
+        cat EPG1.xml EPG2.xml EPG3.xml >> EPG.xml || true
+        rm -f EPG1.xml EPG2.xml EPG3.xml || true
         echo "Auto Update IPTV in $DATE!✨CXT✨!" > README.md
 
     - name: Commit and Push Changes
