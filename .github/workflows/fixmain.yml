@@ -74,7 +74,7 @@ jobs:
         # Integrate sources
         rm -f IPTV.m3u && touch IPTV.m3u
         cat Out_Iptv_CXT.m3u VTV.m3u >> IPTV.m3u || true
-        cat S_check.m3u >> IPTV.m3u || true
+        #cat S_check.m3u >> IPTV.m3u || true
         cat Sport1.m3u >> IPTV.m3u || true
         cat tkty22.m3u >> IPTV.m3u || true
         sed -i '/#EXTM3U/d' IPTV.m3u || true
