@@ -69,7 +69,7 @@ jobs:
         wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/a1x.m3u -O tkty22.m3u || true
         sed -i 's/"🦁欧洲五大联赛🦁"/"USUK SPORT"/g;s/"🐉海外体育"/"USUK SPORT"/g;s/"🐉4K-8K频道"/"4️⃣🇰 🇺 🇭 🇩"/g;s/"Sports"/"4️⃣🇰 🇺 🇭 🇩"/g;s/"Events"/"4️⃣🇰 🇺 🇭 🇩"/g' tkty22.m3u || true
         
-        wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/love4xt/refs/heads/main/output_clean.m3u -O Sport1.m3u || true
+        wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Love4xt/refs/heads/1/output_clean.m3u -O Sport1.m3u || true
         #wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Stalker2M3U/refs/heads/1/live_schedule.m3u -O live_schedue.m3u || true
         wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Stalker2M3U/refs/heads/1/Football_match_live.m3u -O Football_match_live.m3u || true
         wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Stalker2M3U/refs/heads/1/live_schedule_Optimize.m3u -O live_schedue.m3u || true
