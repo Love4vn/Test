@@ -4,7 +4,7 @@ on:
   watch:
     types: [started]
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/31 * * * *'
   workflow_dispatch:
 
 # Add permissions
