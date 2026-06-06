@@ -6,8 +6,9 @@ on:
   schedule:
     - cron: '*/31 * * * *'
   workflow_dispatch:
+  repository_dispatch:
+    types: [m3u-updated]         # Sự kiện từ repo public gửi sang
 
-# Add permissions
 permissions:
   contents: write
 env:
@@ -22,6 +23,14 @@ jobs:
       
     - name: GetTime
       run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S GMT+7')" >> $GITHUB_ENV
+
+    - name: Log trigger source
+      run: |
+        if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+          echo "Triggered by new .m3u files in Stalker2M3U-public"
+        else
+          echo "Triggered by schedule / watch / manual"
+        fi
 
     - name: Update
       run: |
