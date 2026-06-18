@@ -83,7 +83,7 @@ jobs:
         wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/khinhkhicau/S2U/refs/heads/main/Football_match_live.m3u -O Football_match_live.m3u || true
         wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/khinhkhicau/S2U/refs/heads/main/live_schedule_Optimize.m3u -O live_schedue.m3u || true
         #wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Match_Stream/refs/heads/1/Stream_live.m3u -O live_schedue.m3u || true
-        wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Live-Schedue/refs/heads/1/live_schedule.m3u -O E_live_schedue.m3u || true
+        #wget -q --show-progress --no-check-certificate https://raw.githubusercontent.com/Love4vn/Live-Schedue/refs/heads/1/live_schedule.m3u -O E_live_schedue.m3u || true
 
         # Integrate sources
         rm -f IPTV.m3u && touch IPTV.m3u
